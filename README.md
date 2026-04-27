@@ -3,17 +3,17 @@
 
 # Альянсы и Игроки
 ### Империум
-1. [Макс - ИГ](https://t.me/rorin_korfax)<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)</sup>
-2. Азамат - ИГ<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)</sup>
-3. Кирилл - ДА<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/space-marines/dark-angels#Crusade-Rules)</sup>
+1. [Макс - ИГ](https://t.me/rorin_korfax)<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-imperium-AM1.md)
+2. Азамат - ИГ<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-imperium-AM2.md)
+3. Кирилл - ДА<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/space-marines/dark-angels#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-imperium-DA.md)
 ### Хаос
-1. Даня - 1000 сынов<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Crusade-Rules)</sup>
-2. Дима - ДГ<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/death-guard/#Crusade-Rules)</sup>
-3. Леха - ХСМ<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/#Crusade-Rules)</sup>
+1. Даня - 1000 сынов<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-chaos-1000sons.md)
+2. Дима - ДГ<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/death-guard/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-chaos-DG.md)
+3. Леха - ХСМ<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-chaos-CSM.md)
 ### Остальные
-1. Артём - Орки<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/orks/#Crusade-Rules)</sup>
-2. Матвей - Тау<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/t-au-empire/#Crusade-Rules)</sup>
-3. Глеб - Арлекины<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/aeldari/harlequins#Crusade-Rules)</sup>
+1. Артём - Орки<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/orks/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-xenos-orks.md)
+2. Матвей - Тау<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/t-au-empire/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-xenos-tau.md)
+3. Глеб - Арлекины<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/aeldari/harlequins#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-xenos-harlequins.md)
 
 # Краткая вводная
 ## Кратко о грядущем
