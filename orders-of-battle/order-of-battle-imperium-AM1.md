@@ -6,12 +6,20 @@
 <ins>Счёт Побед:</ins> 0  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 0  
 <ins>Особые отметки:</ins>  
+**[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
+Сражений до окончания: D6+4  
+Побед до окончания: D3+2  
+Lexmechanicus = 2 (When selecting Agendas for a battle, you can select one additional Astra Militarum Agenda to be active for that battle in addition to any others selected for that battle)  
+Materiel = 1  
+Tithe Pool = 1  
+Morale = 0 (You cannot use the Insane Bravery Stratagem)  
 
 <ins>Журнал изменений Боевых Порядков:</ins>    
 - 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция "Почитаемые Герои" для Лорд-комиссара 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов - получено постоянное улучшение Grand Strategist из детача Combined Arms.
 - 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция ["Награждённый офицер"](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Requisitions) для Лорд-комиссара 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов - получены 6 XP; получен ранг Обстреляный; получена Награда отряда - Реликвия Крестового Похода ([Авто-медикаэ](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Artificer-Relics))
 - 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
 - 2026-04-28: При создании Боевых Порядков за 2 RP взята реквизиция "Почитаемые Герои" для Темпестор Прайма из отряда Альфа - получено постоянное улучшение Smoke Grenades из детача Mechanized Assault.
+- 2026-04-28: Боевые Порядки отправляются в Боевой Поход ([Tour of Duty](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty)) - операция *Дорога из жёлтого кирпича*
   
 <ins>Список отрядов</ins>
 - Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus), - XP, 1 CP, 130 pts)
