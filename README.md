@@ -11,17 +11,17 @@
 
 # Альянсы и Игроки
 ### Империум
-1. [Макс - ИГ](https://t.me/rorin_korfax)<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-imperium-AM1.md)
-2. Азамат - ИГ<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-imperium-AM2.md)
-3. Кирилл - ДА<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/space-marines/dark-angels#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-imperium-DA.md)
+1. ![AM1](pictures/order-of-battle-imperium-AM1.png) [Максим](https://t.me/rorin_korfax)  - [Astra Militarum](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-imperium-AM1.md)
+2. ![AM2](pictures/order-of-battle-imperium-AM2.png) Азамат - [Astra Militarum](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-imperium-AM2.md)
+3. ![DA](pictures/order-of-battle-imperium-DA.png) Кирилл - [Dark Angels](http://wahapedia.ru/wh40k10ed/factions/space-marines/dark-angels#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-imperium-DA.md)
 ### Хаос
-1. Даня - 1000 сынов<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-chaos-1000sons.md)
-2. Дима - ДГ<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/death-guard/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-chaos-DG.md)
-3. Леха - ХСМ<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-chaos-CSM.md)
+1. ![AM1](pictures/order-of-battle-chaos-1000sons.png) Даниил - [1000 Sons](http://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-chaos-1000sons.md)
+2. ![AM1](pictures/order-of-battle-chaos-DG.png) Дмитрий - [Death Guard](http://wahapedia.ru/wh40k10ed/factions/death-guard/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-chaos-DG.md)
+3. ![AM1](pictures/order-of-battle-chaos-CSM.png) Алексей - [Chaos Space Marines](http://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-chaos-CSM.md)
 ### Остальные
-1. Артём - Орки<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/orks/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-xenos-orks.md)
-2. Матвей - Тау<sup>[правила крузейда фракции](http://wahapedia.ru/wh40k10ed/factions/t-au-empire/#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-xenos-tau.md)
-3. Глеб - Арлекины<sup>[правила крузейда фракции](https://wahapedia.ru/wh40k10ed/factions/aeldari/harlequins#Crusade-Rules)</sup>: [Боевые порядки](/orders-of-battle/order-of-battle-xenos-harlequins.md)
+1. ![AM1](pictures/order-of-battle-xenos-orks.png) Артём - [Orks](http://wahapedia.ru/wh40k10ed/factions/orks/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-xenos-orks.md)
+2. ![AM1](pictures/order-of-battle-xenos-tau.png) Матвей - [Tau](http://wahapedia.ru/wh40k10ed/factions/t-au-empire/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-xenos-tau.md)
+3. ![AM1](pictures/order-of-battle-xenos-harlequins.png) Глеб - [Harlequins](https://wahapedia.ru/wh40k10ed/factions/aeldari/harlequins#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-xenos-harlequins.md)
 
 # Краткая вводная
 ## Кратко о грядущем
