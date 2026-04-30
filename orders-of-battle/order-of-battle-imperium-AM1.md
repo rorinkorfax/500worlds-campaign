@@ -256,10 +256,12 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>
-  Character, Leader, Deep Strike, Command Rod, Темпестор Прайм - Аргантим Рекс  
+  Character, Leader, Deep Strike, Темпестор Прайм - Аргантим Рекс  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Tempestor Prime
-- Command Rod (While the bearer is leading a unit, that unit can be affected by up to two different Orders at the same time)
+- Plasma pistol – standard (pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
+- Plasma pistol – supercharge (hazardous, pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)
+<-- Command Rod (While the bearer is leading a unit, that unit can be affected by up to two different Orders at the same time)-->
 - Tempestus dagger (Melee; Atk 4; WS 3+; S 3; AP 0; D 1)
 
 1 Tempestus Scion - Medicae
