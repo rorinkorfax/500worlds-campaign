@@ -32,7 +32,7 @@
 3. ![CSM](pictures/order-of-battle-chaos-CSM.png) Алексей - [Chaos Space Marines](http://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-chaos-CSM.md)
 ### Остальные
 1. ![ORKS](pictures/order-of-battle-xenos-orks.png) Артём - [Orks](http://wahapedia.ru/wh40k10ed/factions/orks/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-xenos-orks.md)
-2. ![TAU](pictures/order-of-battle-xenos-tau.png) Матвей - [Tau](http://wahapedia.ru/wh40k10ed/factions/t-au-empire/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-xenos-tau.md)
+2. ![TAU](pictures/infra-destroyed.png) ~Матвей - [Tau](http://wahapedia.ru/wh40k10ed/factions/t-au-empire/#Crusade-Rules)~  :  [Боевые порядки](/orders-of-battle/order-of-battle-xenos-tau.md)
 3. ![HAR](pictures/order-of-battle-xenos-harlequins.png) Глеб - [Harlequins](https://wahapedia.ru/wh40k10ed/factions/aeldari/harlequins#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-xenos-harlequins.md)
 
 # Краткая вводная
