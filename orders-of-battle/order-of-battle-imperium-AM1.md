@@ -16,7 +16,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 
 <ins>Журнал изменений Боевых Порядков:</ins>    
 - 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция "Почитаемые Герои" для Лорд-комиссара 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов - получено постоянное улучшение Grand Strategist из детача Combined Arms.
-- 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция ["Награждённый офицер"](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Requisitions) для Лорд-комиссара 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов - получены 6 XP; получен ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Суровые выжившие](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Battle-Traits))
+- 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция ["Награждённый офицер"](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Requisitions) для Лорд-комиссара 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов - получены 6 XP; получен ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Нюх на талант](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits))
 - 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
 - 2026-04-28: При создании Боевых Порядков за 2 RP взята реквизиция "Почитаемые Герои" для Темпестор Прайма из отряда Альфа - получено постоянное улучшение Smoke Grenades из детача Mechanized Assault.
 - 2026-04-28: Боевые Порядки отправляются в Боевой Поход ([Tour of Duty](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty)) - операция *Дорога из жёлтого кирпича*
@@ -65,10 +65,10 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - количество отрядов, уничтоженных данным отрядом = 0  
 
 <ins>Награды отряда (Battle Honours):</ins>  
-  Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability instead.)  
+  Battle Trait (EYE FOR TALENT; If this OFFICER is part of your Crusade army and was not destroyed during the battle, then at the end of the battle, select one additional unit to be Marked for Greatness (you cannot use this ability to select this OFFICER’s unit to be Marked for Greatness))  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, Лорд-комиссар - Абель, ранг Обстреляный (Blooded rank), Battle Trait (GRIM SURVIVORS)  
+  Character, Leader, Лорд-комиссар - Абель, ранг Обстреляный (Blooded rank), Battle Trait (EYE FOR TALENT)  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Lord Commissar  
 - Plasma pistol – standard (pistol; 12"; Atk 1; BS 4+; S 7; AP -2; D 1)
