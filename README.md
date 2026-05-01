@@ -13,7 +13,7 @@
 ![Карта](pictures/500-worlds-digital-map-campaign.webp)
 
 <ins>Фазы Кампании</ins>
-- Начало
+- [Начало](/phases/phase0.md)
 - Фаза 1
 - Фаза 2
 - Фаза 3
