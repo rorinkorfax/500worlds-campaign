@@ -32,8 +32,7 @@
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Очки Хаоса (Chaos Points, CP):</ins> 0  
-<ins>Улучшения отряда:</ins>  
-  Empyric Symbiote (+15 pts; Renegade Warband; Add 1 to Advance and Charge rolls made for the bearer’s unit.)  
+<ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 105 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 0  
@@ -75,8 +74,7 @@
 ## Ван Мор ([Warpsmith](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warpsmith))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
-<ins>Улучшения отряда:</ins>  
-  Weaponised Hatred (+35 pts; Renegade Warband; Once per battle round, after your Vendetta target is destroyed, if the bearer is on the battlefield, you can select one enemy unit visible to the bearer. That enemy unit becomes your Vendetta target until you select a new one.)  
+<ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 105 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 0  
@@ -104,7 +102,7 @@
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 0
 
-<ins>Награды отряда (Battle Honours):</ins> STAUNCH HUNTERS (At the start of each player’s turn, one model in this unit regains 1 lost wound)  
+<ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
 <ins>Состав и снаряжение отряда:</ins>  
