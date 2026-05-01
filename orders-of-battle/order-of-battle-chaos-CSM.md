@@ -70,7 +70,7 @@
 - Baleflamer (Ignores Cover, Torrent; 12"; Atk D6+3; BS N/A; S 6; AP -1; D 2)
 - Magma cutter (Melta 2; 6"; Atk 2; BS 3+; S 9; AP -4; D D6)
 - Bladed limbs (Extra Attacks, Melee; Atk 4; BS 3+; S 6; AP -1 ; D 2)
-- Impaler chainglaive (Lance, Melee; Atk 5; BS 2+; S 8; AP -3; D 3)
+- Impaler chainglaive (Lance, Melee; Atk 5; BS 2+; S 8; AP -3; D 3)  
 
 ## Ван Мор ([Warpsmith](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warpsmith))
 <ins>Опыт Отряда (XP):</ins> 0  
@@ -112,12 +112,15 @@
 - Plasma pistol - standard (Pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
 - Plasma pistol - supercharge (Hazardous, Pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)  
 - Heavy melee weapon (Melee; Atk 3; WS 3+; S 8; AP -2; D 2)
+
 2 Legionary w/ chainsword 
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1) 
 - Astartes chainsword (Melee; Atk 4; WS 3+; S 4; AP -1; D 1)
+
 1 Legionary w/ heavy melee weapon
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
 - Heavy melee weapon (Melee; Atk 3; WS 3+; S 8; AP -2; D 2)
+
 1 Legionary w/ other weapon
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
 - Lascannon (Heavy; 48"; Atk 1; BS 4+; S 12; AP -3; D D6+1)
@@ -142,14 +145,17 @@
 - Plasma pistol - supercharge (Hazardous, Pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)
 - Boltgun (24"; Atk 2; BS 3+; S 4; AP 0; D 1)   
 - Power fist (Melee; Atk 4; WS 3+; S 8; AP -2; D 2)
+
 1 Chosen w/ boltgun
 - Boltgun (24"; Atk 2; BS 3+; S 4; AP 0; D 1)
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
 - Accursed weapon (Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
+
 2 Chosen w/ combi-weapon and bolt pistol
 - Combi-weapon (Anti-INFANTRY 4+, Devastating Wounds, Rapid Fire 1 ;24"; Atk 1; BS 4+; S 4; AP 0; D 1)
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
 - Accursed weapon (Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
+
 1 Chosen w/ paired accursed weapons and plasma pistol
 - Plasma pistol - standard (Pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
 - Plasma pistol - supercharge (Hazardous, Pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)
@@ -173,6 +179,7 @@
 - Plasma gun - standard (Rapid Fire 1; 24"; Atk 1; BS 3+; S 7; AP -2; D 1)
 - Plasma gun - supercharge (Hazardous, Rapid Fire 1; 24"; Atk 1; BS 3+; S 8; AP -3; D 2) 
 - Accursed weapon (Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
+
 4 Havoc 
 - Havoc Lascannon (48"; Atk 1; BS 3+; S 12; AP -3; D D6+1)
 - Close combat weapon (Melee; Atk 3; WS 3+; S 4; AP 0; D 1)
@@ -193,6 +200,7 @@
 <ins>Состав и снаряжение отряда:</ins>  
 1 Warp Talon Champion
 - Warp claws (Twin-linked; Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
+
 4 Warp Talon  
 - Warp claws (Twin-linked; Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
 
