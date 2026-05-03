@@ -121,7 +121,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Plasma pistol – supercharge (hazardous, pistol; 12"; Atk 1; BS 4+; S 8; AP -3; D 2)
 - Power Weapon (Melee; Atk 2; WS 4+; S 4; AP -2; D 1)
 
-5 Death Korps Troopers - Medicae  
+1 Death Korps Troopers - Medicae  
 - Death Korps Medi-pack: At the start of your Command phase, if the bearer’s unit is below its Starting Strength, you can return up to D3 destroyed Death Korps Troopers to this unit (if this unit contains two models equipped with a Death Korps medi-pack, return up to D3+1 destroyed Death Korps Troopers to this unit instead)
 - Lasgun (rapid fire 1; 24"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Close combat weapon	(Melee; Atk 1; WS 4+; S 3; AP 0; D 1)
