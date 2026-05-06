@@ -1,7 +1,7 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Маска разбитых зеркал**  
 <ins>Лимит Снабжения (Supply Limit):</ins> 1200  
-<ins>Текущее Снабжение (Supply Used):</ins> 1085  
+<ins>Текущее Снабжение (Supply Used):</ins> 1190  
 <ins>Боевой Счёт (Battle Tally):</ins> 0  
 <ins>Счёт Побед:</ins> 0  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 4  
@@ -24,6 +24,7 @@
 - Труппа Гаэларна Радости Подмосток (Harlequin Troupe, 0 XP, 0 CP, 100 pts)
 - Ткачи Туманов (Skyweavers, 0 XP, 0 CP, 95 pts)
 - Ткачи Ветров (Skyweavers, 0 XP, 0 CP, 95 pts)
+- Ткачи Вихрей (Skyweavers, 0 XP, 0 CP, 95 pts)
 - Ткач Светил (Starweaver, 0 XP, 0 CP, 80 pts)
 - Ткач Пульсаров (Starweaver, 0 XP, 0 CP, 80 pts)
 - Ткач Пустоты (Voidweaver, 0 XP, 0 CP, 125 pts)
@@ -171,10 +172,29 @@
 <ins>Состав и снаряжение отряда:</ins>  
 2 Skyweavers  
 - 2 Shuriken cannon (Lethal Hits 24"; Atk 3; BS 3+; S 6; AP -1; D 2)
-- 2 Star bolas (12"; Atk D3; BS 3+; S 7; AP -2; D 2)
 - 2 Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
+- 2 Zephyrglaive (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
 
 ## Ткачи Ветров ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 95 (суммарно со всеми улучшениями)  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0  
+- количество победных сражений, в которых участвовал отряд = 0  
+- количество отрядов, уничтоженных данным отрядом = 0
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins> -  
+<ins>Состав и снаряжение отряда:</ins>  
+2 Skyweavers  
+- 2 Shuriken cannon (Lethal Hits 24"; Atk 3; BS 3+; S 6; AP -1; D 2)
+- 2 Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
+- 2 Zephyrglaive (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
+
+## Ткачи Вихрей ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
