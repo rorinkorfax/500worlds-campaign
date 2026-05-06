@@ -82,7 +82,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, CRUSADE ABILITY (NEMESIS CHAMPIONS; During the battle, if one or more enemy CHARACTER models are destroyed by an attack made by an EPIC HERO model (or a model in a unit it is attached to) with this Crusade Ability from your Crusade army, then at the Update Crusade Cards step, all units in your Crusade army gain an additional 1XP. If one of those destroyed enemy CHARACTER models was the enemy WARLORD, you also gain 1 ~Strategic Asset Point~ Campaign Point.)  
+  Character  
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Death Jester  
 - Shrieker cannon - ( 24"; Atk 3; BS 2+; S 6; AP -2; D 2)
@@ -101,9 +101,10 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Epic Hero, 
+  Character, Epic Hero, [Crusade Ability (NEMESIS CHAMPIONS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions)  
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Solitaire  
+- Crusade Ability (NEMESIS CHAMPIONS; During the battle, if one or more enemy CHARACTER models are destroyed by an attack made by an EPIC HERO model (or a model in a unit it is attached to) with this Crusade Ability from your Crusade army, then at the Update Crusade Cards step, all units in your Crusade army gain an additional 1XP. If one of those destroyed enemy CHARACTER models was the enemy WARLORD, you also gain 1 ~Strategic Asset Point~ Campaign Point.)
 - Solitaire weapons (Melee, Presigion; Atk 9; WS 2+; S 3; AP -2; D 2)
 
 ## Труппа Миртаэля Импровизатора ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe))
