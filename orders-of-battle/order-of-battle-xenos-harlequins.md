@@ -42,7 +42,8 @@
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  Character, Leader, Warlord
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Troupe Master  
 - Fusion pistol - (Assault, Melta 2, Pistol; 6"; Atk 1; BS 2+; S 8; AP -4; D D6)
@@ -60,7 +61,8 @@
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  Character, Leader
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Shadowseer  
 - Shuriken pistol - (Assault, Pistol; 12"; Atk 1; BS 2+; S 4; AP -1; D 1)
@@ -79,7 +81,8 @@
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  Character
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Death Jester  
 - Shrieker cannon - ( 24"; Atk 3; BS 2+; S 6; AP -2; D 2)
@@ -97,7 +100,8 @@
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  Character, Epic Hero, 
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Solitaire  
 - Solitaire weapons (Melee, Presigion; Atk 9; WS 2+; S 3; AP -2; D 2)
