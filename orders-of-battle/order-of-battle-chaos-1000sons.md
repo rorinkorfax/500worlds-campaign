@@ -13,7 +13,7 @@
 - 2026-05-02: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"  
 
 ## Список отрядов
-- Златолив (Infernal Master, XP 0, CP 0, 110)
+- Златолив (Infernal Master, Warlord, XP 0, CP 0, 110)
 - Меднохват (Sorcerer In Terminator Armour, XP 0, CP отряда, 105)
 - Счетовод (Sorcerer In Terminator Armour, XP 0, CP отряда, 85)
 - Свита Весов (Rubric Marines, XP 0, CP отряда, 100)
@@ -41,7 +41,8 @@
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  Character, Leader, Warlord
 <ins>Состав и снаряжение отряда:</ins>  
 1 Infernal Master
 - Fires of the Abyss – witchfire (psychic torrent, 18", Atk d6; BS N/A; S 6; AP -2; D 1)
@@ -64,7 +65,8 @@
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  Character, Leader
 <ins>Состав и снаряжение отряда:</ins>  
 1 Sorcerer In Terminator Armour
 - Gaze of Hate (anti-monster 4+ anti-vehicle 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 2)
@@ -87,7 +89,8 @@
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  Character, Leader
 <ins>Состав и снаряжение отряда:</ins>  
 1 Sorcerer In Terminator Armour
 - Gaze of Hate (anti-monster 4+ anti-vehicle 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 2)
