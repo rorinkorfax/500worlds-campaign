@@ -1,7 +1,7 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Маска разбитых зеркал**  
 <ins>Лимит Снабжения (Supply Limit):</ins> 1200  
-<ins>Текущее Снабжение (Supply Used):</ins> 1190  
+<ins>Текущее Снабжение (Supply Used):</ins> 1085  
 <ins>Боевой Счёт (Battle Tally):</ins> 0  
 <ins>Счёт Побед:</ins> 0  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 4  
