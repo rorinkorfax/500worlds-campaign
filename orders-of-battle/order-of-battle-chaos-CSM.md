@@ -42,7 +42,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Warlord  
+  Character, Leader, Warlord  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Chaos Lord  
 - Plasma pistol - standard (Pistol; 12"; Atk 1; BS 2+; S 7; AP -2; D 1)
@@ -84,6 +84,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Warpsmith  
 - Flamer tendril (Ignores Cover, Pistol, Torrent; 12"; Atk D6; BS N/A; S 3; AP 0; D 1)
