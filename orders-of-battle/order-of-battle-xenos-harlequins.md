@@ -19,9 +19,9 @@
 - Тираэль Шёпот Ветров ([Shadowseer](https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadowseer), 0 XP, 0 CP, 60 pts)
 - Фаэналь Пронзатель Сердец ([Death Jester](https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester), 0 XP, 0 CP, 90 pts)
 - Зинфандель Оскал Времен ([Solitaire](https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire), 0 XP, 0 CP, 115 pts)
-- Труппа Миртаэля Импровизатора ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe), 0 XP, 0 CP, 85 pts)
-- Труппа Илдорона Тысячеликого ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe), 0 XP, 0 CP, 85 pts)
-- Труппа Гаэларна Радости Подмосток ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe), 0 XP, 0 CP, 100 pts)
+- Труппа Миртаэля Импровизатора ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 0 XP, 0 CP, 85 pts)
+- Труппа Илдорона Тысячеликого ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 0 XP, 0 CP, 85 pts)
+- Труппа Гаэларна Радости Подмосток ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 0 XP, 0 CP, 100 pts)
 - Ткачи Туманов ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 0 XP, 0 CP, 95 pts)
 - Ткачи Ветров ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 0 XP, 0 CP, 95 pts)
 - Ткачи Вихрей ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 0 XP, 0 CP, 95 pts)
@@ -107,7 +107,7 @@
 - Crusade Ability (NEMESIS CHAMPIONS; During the battle, if one or more enemy CHARACTER models are destroyed by an attack made by an EPIC HERO model (or a model in a unit it is attached to) with this Crusade Ability from your Crusade army, then at the Update Crusade Cards step, all units in your Crusade army gain an additional 1XP. If one of those destroyed enemy CHARACTER models was the enemy WARLORD, you also gain 1 ~Strategic Asset Point~ Campaign Point.)
 - Solitaire weapons (Melee, Presigion; Atk 9; WS 2+; S 3; AP -2; D 2)
 
-## Труппа Миртаэля Импровизатора ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe))
+## Труппа Миртаэля Импровизатора ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
@@ -125,7 +125,7 @@
 - 5 Shuriken pistol - (Assault, Pistol; 12"; Atk 1; BS 3+; S 4; AP -1; D 1)
 - 5 Harlequin’s blade (Melee, Devastating Wounds; Atk 5; WS 3+; S 4; AP -2; D 1)
 
-## Труппа Илдорона Тысячеликого ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe))
+## Труппа Илдорона Тысячеликого ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
@@ -143,7 +143,7 @@
 - 5 Shuriken pistol - (Assault, Pistol; 12"; Atk 1; BS 3+; S 4; AP -1; D 1)
 - 5 Harlequin’s blade (Melee, Devastating Wounds; Atk 5; WS 3+; S 4; AP -2; D 1)
 
-## Труппа Гаэларна Радости Подмосток ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe))
+## Труппа Гаэларна Радости Подмосток ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
