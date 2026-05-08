@@ -1,14 +1,16 @@
 # Карточка Боевых Порядков
-<ins>Название:</ins> **Dakka-Stealaz**  
+<ins>Название:</ins> **Dakka-Stealaz** (Стреляки-Вороваки)  
 <ins>Лимит Снабжения (Supply Limit):</ins> 1000  
 <ins>Текущее Снабжение (Supply Used):</ins> 995  
 <ins>Боевой Счёт (Battle Tally):</ins> 0  
 <ins>Счёт Побед:</ins> 0  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 5  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
 <ins>Особые отметки:</ins>  
 **<ins>Stage Of The WAAAGH!:</ins> Stage 1: Gathering WAAAGH!**  
 
-<ins>Журнал изменений Боевых Порядков:</ins> -  
+<ins>Журнал изменений Боевых Порядков:</ins>  
+- 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция "Почитаемые Герои" для Биг Дока - получено постоянное улучшение "За мой, хлопцы!" (Follow Me Ladz) из детача War Horde.
+- 2026-04-28: При создании Боевых Порядков за 2 RP взята реквизиция "Почитаемые Герои" для Чугунзада - получено постоянное улучшение "Зупа-киборк тело" (Supa-Cybork Body) из детача War Horde.
 
 <ins>Список отрядов</ins>
 - Газзкул Маг Урук Трака (Ghazghkull Thraka, Warlord, 0 XP, 0 CP, 235 pts)
@@ -35,9 +37,10 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, Warlord, Epic Hero  
+  Character, Leader, Warlord, Epic Hero, [Crusade Ability (FRONT-LINE CHAMPIONS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions) 
 <ins>Состав и снаряжение отряда:</ins>  
 1 Ghazghkull Thraka  
+- Crusade Ability (FRONT-LINE CHAMPIONS; At the declare Battle-formations step, select one Battle Trait. Until the end of the battle, this EPIC HERO model, and any unit they join, are considered to have this Battle Trait)
 - Morks Roar - (Rapid fire 4; 36"; Atk 12; BS 5+; S 5; AP 0; D 1)
 - Gorks Klaw - strike (Melee; Atk 6; BS 2+; S 14; AP -3; D 4)
 - Gorks Klaw - sweep (Melee; Atk 12; BS 2+; S 8; AP -2; D 2)
