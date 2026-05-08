@@ -32,9 +32,10 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Warlord, Epic Hero  
+  Character, Warlord, Epic Hero, [Crusade Ability (INSPIRATIONAL CHAMPION)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions)  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Azrael  
+- Crusade Ability (INSPIRATIONAL CHAMPION; While an EPIC HERO model with this Crusade Ability is leading a unit, you can ignore any and/or all Battle Scars that Bodyguard unit has. In addition, if your Crusade army includes one or more EPIC HERO models with this Crusade Ability, at the end of the battle you can select one additional unit from your Crusade army to be Marked for Greatness)
 - Lion’s Wrath (anti-infantry 4+, devastating wounds, rapid fire 1; 24"; Atk 2; BS 2+; S 8; AP -3; D 2)
 - The Sword of Secrets (devastating wounds; Melee; Atk 6; BS 2+; S 6; AP -4; D 2)
 
