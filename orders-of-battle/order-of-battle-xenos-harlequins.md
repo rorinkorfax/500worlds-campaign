@@ -15,19 +15,19 @@
 2026-05-06: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"  
 
 <ins>Список отрядов</ins>  
-- Фаоилтиарн Дурошлеп (Troupe Master, Warlord, 0 XP, 0 CP, 75 pts)
-- Тираэль Шёпот Ветров (Shadowseer, 0 XP, 0 CP, 60 pts)
-- Фаэналь Пронзатель Сердец (Death Jester, 0 XP, 0 CP, 90 pts)
-- Зинфандель Оскал Времен (Solitaire, 0 XP, 0 CP, 115 pts)
-- Труппа Миртаэля Импровизатора (Harlequin Troupe, 0 XP, 0 CP, 85 pts)
-- Труппа Илдорона Тысячеликого (Harlequin Troupe, 0 XP, 0 CP, 85 pts)
-- Труппа Гаэларна Радости Подмосток (Harlequin Troupe, 0 XP, 0 CP, 100 pts)
-- Ткачи Туманов (Skyweavers, 0 XP, 0 CP, 95 pts)
-- Ткачи Ветров (Skyweavers, 0 XP, 0 CP, 95 pts)
-- Ткачи Вихрей (Skyweavers, 0 XP, 0 CP, 95 pts)
-- Ткач Светил (Starweaver, 0 XP, 0 CP, 80 pts)
-- Ткач Пульсаров (Starweaver, 0 XP, 0 CP, 80 pts)
-- Ткач Пустоты (Voidweaver, 0 XP, 0 CP, 125 pts)
+- Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master), Warlord, 0 XP, 0 CP, 75 pts)
+- Тираэль Шёпот Ветров ([Shadowseer](https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadowseer), 0 XP, 0 CP, 60 pts)
+- Фаэналь Пронзатель Сердец ([Death Jester](https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester), 0 XP, 0 CP, 90 pts)
+- Зинфандель Оскал Времен ([Solitaire](https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire), 0 XP, 0 CP, 115 pts)
+- Труппа Миртаэля Импровизатора ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe), 0 XP, 0 CP, 85 pts)
+- Труппа Илдорона Тысячеликого ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe), 0 XP, 0 CP, 85 pts)
+- Труппа Гаэларна Радости Подмосток ([Harlequin Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Harlequin-Troupe), 0 XP, 0 CP, 100 pts)
+- Ткачи Туманов ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 0 XP, 0 CP, 95 pts)
+- Ткачи Ветров ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 0 XP, 0 CP, 95 pts)
+- Ткачи Вихрей ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 0 XP, 0 CP, 95 pts)
+- Ткач Светил ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 0 XP, 0 CP, 80 pts)
+- Ткач Пульсаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 0 XP, 0 CP, 80 pts)
+- Ткач Пустоты ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver), 0 XP, 0 CP, 125 pts)
 
 # Карточки отрядов
 ## Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master))
