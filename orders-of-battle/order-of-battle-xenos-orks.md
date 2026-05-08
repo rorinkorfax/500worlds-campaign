@@ -13,14 +13,14 @@
 - 2026-05-08: При создании Боевых Порядков за 2 RP взята реквизиция "Почитаемые Герои" для Чугунзада - получено постоянное улучшение "Зупа-киборк тело" (Supa-Cybork Body) из детача War Horde.
 
 <ins>Список отрядов</ins>
-- Газзкул Маг Урук Трака (Ghazghkull Thraka, Warlord, 0 XP, 0 CP, 235 pts)
-- Биг Док (Painboy, 0 XP, 0 CP, 105 pts)
-- Мясник Анестезий (Painboy, 0 XP, 0 CP, 80 pts)
-- Лута-Скрап (Warboss, 0 XP, 0 CP, 75 pts)
-- Чугунзад (Warboss in Mega Armour, 0 XP, 0 CP, 95 pts)
-- Жестянщики (Boyz, 0 XP, 0 CP, 170 pts)
-- Ломалы (Boyz, 0 XP, 0 CP, 170 pts)
-- Клешни Чугунзада (Meganobz, 0 XP, 0 CP, 65 pts)
+- Газзкул Маг Урук Трака ([Ghazghkull Thraka](https://wahapedia.ru/wh40k10ed/factions/orks/Ghazghkull-Thraka), Warlord, - XP, 1 CP, 235 pts)
+- Биг Док ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 0 XP, 0 CP, 105 pts)
+- Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 0 XP, 0 CP, 80 pts)
+- Лута-Скрап ([Warboss](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss), 0 XP, 0 CP, 75 pts)
+- Чугунзад ([Warboss in Mega Armour](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss-In-Mega-Armour), 0 XP, 0 CP, 95 pts)
+- Жестянщики ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 0 XP, 0 CP, 170 pts)
+- Ломалы ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 0 XP, 0 CP, 170 pts)
+- Клешни Чугунзада ([Meganobz](https://wahapedia.ru/wh40k10ed/factions/orks/Meganobz), 0 XP, 0 CP, 65 pts)
 
 # Карточки отрядов
 
@@ -37,7 +37,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, Warlord, Epic Hero, [Crusade Ability (FRONT-LINE CHAMPIONS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions) 
+  Character, Leader, Warlord, Epic Hero, [Crusade Ability (FRONT-LINE CHAMPIONS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions)  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Ghazghkull Thraka  
 - Crusade Ability (FRONT-LINE CHAMPIONS; At the declare Battle-formations step, select one Battle Trait. Until the end of the battle, this EPIC HERO model, and any unit they join, are considered to have this Battle Trait)
@@ -62,6 +62,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Painboy  
 - Power klaw (Melee; Atk 3; BS 4+; S 9; AP -2; D 2)
@@ -80,6 +81,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Painboy  
 - Power klaw (Melee; Atk 3; BS 4+; S 9; AP -2; D 2)
@@ -98,6 +100,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Warboss  
 - Kombi-weapon (anti-infantry 4+, devastating wounds,rapid fire 1; 24"; Atk 1; BS 5+; S 4; AP 0; D 1)
@@ -119,6 +122,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Warboss in Mega Armour  
 - Big shoota (Rapid Fire 2; 36"; Atk 3; BS 4+; S 5; AP 0; D 1)
