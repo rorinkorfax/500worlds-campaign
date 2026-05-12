@@ -26,7 +26,7 @@
 1. ![AM1](pictures/order-of-battle-imperium-AM1.png) [Максим](https://t.me/rorin_korfax)  - [Astra Militarum](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-imperium-AM1.md)
 2. ![DA](pictures/order-of-battle-imperium-DA.png) Кирилл - [Dark Angels](http://wahapedia.ru/wh40k10ed/factions/space-marines/dark-angels#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-imperium-DA.md)
 ### Хаос
-1. ![1000sons](pictures/order-of-battle-chaos-1000sons.png) Дмитрий? - [1000 Sons](http://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-chaos-1000sons.md)
+1. ![1000sons](pictures/order-of-battle-chaos-1000sons.png) Дмитрий - [1000 Sons](http://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-chaos-1000sons.md)
 2. ![CSM](pictures/order-of-battle-chaos-CSM.png) Алексей - [Chaos Space Marines](http://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-chaos-CSM.md)
 ### Остальные
 1. ![ORKS](pictures/order-of-battle-xenos-orks.png) Артём - [Orks](http://wahapedia.ru/wh40k10ed/factions/orks/#Crusade-Rules)  :  [Боевые порядки](/orders-of-battle/order-of-battle-xenos-orks.md)
