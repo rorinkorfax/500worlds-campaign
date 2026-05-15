@@ -176,7 +176,7 @@
 <ins>Особые отметки:</ins> -  
 <ins>Состав и снаряжение отряда:</ins>  
 2 Skyweavers  
-- 2 Shuriken cannon (Lethal Hits 24"; Atk 3; BS 3+; S 6; AP -1; D 2)
+- 2 Skyweaver haywire cannon (anti-vehicle 4+, devastating wounds; 24"; Atk 2; BS 3+; S 3; AP -1; D 3)
 - 2 Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
 - 2 Zephyrglaive (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
 
@@ -195,7 +195,7 @@
 <ins>Особые отметки:</ins> -  
 <ins>Состав и снаряжение отряда:</ins>  
 2 Skyweavers  
-- 2 Shuriken cannon (Lethal Hits 24"; Atk 3; BS 3+; S 6; AP -1; D 2)
+- 2 Skyweaver haywire cannon (anti-vehicle 4+, devastating wounds; 24"; Atk 2; BS 3+; S 3; AP -1; D 3)
 - 2 Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
 - 2 Zephyrglaive (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
 
@@ -214,7 +214,7 @@
 <ins>Особые отметки:</ins> -  
 <ins>Состав и снаряжение отряда:</ins>  
 2 Skyweavers  
-- 2 Shuriken cannon (Lethal Hits 24"; Atk 3; BS 3+; S 6; AP -1; D 2)
+- 2 Skyweaver haywire cannon (anti-vehicle 4+, devastating wounds; 24"; Atk 2; BS 3+; S 3; AP -1; D 3)
 - 2 Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
 - 2 Zephyrglaive (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
 
