@@ -10,7 +10,7 @@
 - [Нюансы и другие заметки](#нюансы-и-другие-заметки)
 
 # Текущее положение дел на фронте
-![Карта](pictures/500-worlds-digital-map-campaign.webp)
+![Карта](pictures/map-phase0-1.png)
 
 <ins>Фазы Кампании</ins>
 - [Начало](/phases/phase0.md)
