@@ -7,8 +7,8 @@
 <ins>Доступная Реквизиция (Requisition Points):</ins> 0  
 <ins>Особые отметки:</ins>  
 **[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
-Сражений до окончания: D6+4  
-Побед до окончания: D3+2  
+Сражений до окончания: D6+4 = 9  
+Побед до окончания: D3+2 = 5  
 Lexmechanicus = 2 (When selecting Agendas for a battle, you can select one additional Astra Militarum Agenda to be active for that battle in addition to any others selected for that battle)  
 Materiel = 1  
 Tithe Pool = 1  
