@@ -9,7 +9,8 @@
 Боевая операция "[Захват опорной точки](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Seize-Power-Base)" Хаоса в Горнодобывающем карьере на Икарон I  
 **Условия (к6 = 3):** Crumbling Bedrock  
 Each time a model in a player’s army makes a ranged attack that targets an enemy unit within 12", that player can ignore any or all modifiers to the following: that attack’s Ballistic Skill; the Hit roll; the Wound roll.  
-**Обороняющийся флот:**  
+**Обороняющийся флот:** Культ Бессеребряников  
+**Дата/место сражения:** 20-05 в 16-00 в ХГ на Филевском Парке  
 
 ### Операции флота "Крылышки"  
 Строительство инфраструктуры "Линия Укреплений" на Калтус Новем  
@@ -30,7 +31,7 @@ At the end of the Declare Battle Formations (https://wahapedia.ru/wh40k10ed/the
 Боевая операция "[Абордаж](https://github.com/rorinkorfax/500worlds-campaign/blob/main/README.md#%D0%B0%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%D0%B6-globe_with_meridiansleftwards_arrow_with_hookglobe_with_meridians)" флота 1000 сынов над Криндаером  
 **Условия (к6 = 1):** Space-time Compression  
 Add 2 to Advance rolls.  
-**Обороняющийся флот:**  
+**Обороняющийся флот:** Несущие Избавление  
 
 ### Операции флота "Маска разбитых зеркал"  
 Боевая операция "[Налёт на базу снабжения](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Supply-Base-Raid)" Имперских сил в Зоне рад-заражения на Таркад Виндикс  
