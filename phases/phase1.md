@@ -40,6 +40,7 @@ In battle round 2, each unit can only be the target of a ranged attack if the a
 In battle round 3, each unit can only be the target of a ranged attack if the attacking model is within 12".  
 In battle round 4, each unit can only be the target of a ranged attack if the attacking model is within 18".  
 **Обороняющийся флот:** силы Астра Милитарум "Ледяной Лев"  
+**Дата/место сражения:** 21-05 в 16-00 в ХГ в Европолисе  
 
 <!--
 # Промежуточные результаты операций
