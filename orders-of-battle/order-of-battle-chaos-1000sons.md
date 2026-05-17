@@ -41,7 +41,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, Warlord
+  Character, Leader, Warlord  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Infernal Master
 - Fires of the Abyss – witchfire (psychic torrent, 18", Atk d6; BS N/A; S 6; AP -2; D 1)
@@ -65,7 +65,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Sorcerer In Terminator Armour
 - Gaze of Hate (anti-monster 4+ anti-vehicle 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 2)
@@ -89,7 +89,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Sorcerer In Terminator Armour
 - Gaze of Hate (anti-monster 4+ anti-vehicle 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 2)
@@ -268,3 +268,24 @@ Close combat weapon (Melee; Atk 2; WS 4+; S 4; AP 0; D 1)
 1 Forgefiend
 - Ectoplasma cannon (blast 36", Atk d3; BS 3+; S 10; AP -3; D 3)
 - Forgefiend claws (Melee; Atk 3; WS 3+; S 6; AP 0; D 1)
+
+
+## Надсмотрщики Хранилищ (Tzaangor Enlightened)
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 45  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
+- количество отрядов, уничтоженных данным отрядом = 0  
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins> -  
+<ins>Состав и снаряжение отряда:</ins>  
+1 Aviarch  
+- Divining spear (lance, precision; Melee; Atk 3; WS 4+; S 5; AP -1; D 2)
+
+2 Enlightened  
+- Divining spear (lance, precision; Melee; Atk 3; WS 4+; S 5; AP -1; D 2)  
