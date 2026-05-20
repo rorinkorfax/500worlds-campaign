@@ -1,10 +1,10 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Объединённые силы "Ледяной Лев"**  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1200  
-<ins>Текущее Снабжение (Supply Used):</ins> 1145  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1400  
+<ins>Текущее Снабжение (Supply Used):</ins> 1315  
 <ins>Боевой Счёт (Battle Tally):</ins> 1  
 <ins>Счёт Побед:</ins> 1  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 1  
 <ins>Особые отметки:</ins>  
 **[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
 Сражений до окончания: D6+4 = 9 > 8  
@@ -45,6 +45,10 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-05-20: 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод получает ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits))
 - 2026-05-20: 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" получает ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Охотники на крупную дичь(BIG-GAME HUNTERS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Battle-Traits))
 - 2026-05-20: 68й полк темпестус "Дельтийские Львы", отряд Альфа получает ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits))
+- 2026-05-21: 1 RP взята реквизиция "Увеличение Снабжения"
+- 2026-05-21: В Боевые Порядки добавлены отряды:  
+  68й полк темпестус "Дельтийские Львы", отряд Омега  
+  68й полк темпестус "Дельтийские Львы", отряд Альфа-2  
   
 <ins>Список отрядов</ins>
 - Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus), - XP, 1 CP, 130 pts)
@@ -55,6 +59,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 8 XP, 2 CP, 410 pts)
 - 68й полк темпестус "Дельтийские Львы", техножрец Тау-Каппа ([Tech-Priest Enginseer](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tech-Priest-Enginseer), 0 XP, 0 CP, 45 pts)
 - 68й полк темпестус "Дельтийские Львы", отряд Альфа ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 7 XP, 1 CP, 95 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд Альфа-2 ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions), 0 XP, 0 CP, 70 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд Омега ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad), 0 XP, 0 CP, 100 pts)
 - 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Rocinante" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 1 XP, 0 CP, 55 pts)
 - 175я танковая бригада, танк Леман Русс "Leonidas" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)
 
@@ -311,7 +317,70 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Grenade launcher – frag (blast; 24"; Atk D3; BS 3+; S 4; AP 0; D 1)
 - Grenade launcher – krak (24"; Atk 1; BS 3+; S 9; AP -2; D D3)
 - Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+  
+## 68й полк темпестус "Дельтийские Львы", отряд Альфа-2 ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 70  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
+- количество отрядов, уничтоженных данным отрядом = 0  
 
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins>
+  Deep Strike  
+<ins>Состав и снаряжение отряда:</ins>  
+1 Tempestor  
+- Plasma pistol – standard (pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
+- Plasma pistol – supercharge (hazardous, pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)
+- Power Fist (Melee; Atk 3; WS 4+; S 6; AP -2; D 2)
+
+1 Tempestus Scion - Vox-caster  
+- Vox-Caster (Each time you target the bearer’s unit with a Stratagem, roll one D6, adding 1 to the result if there are one or more friendly OFFICER models within 6": on a 5+, you gain 1CP)
+- Hot-shot laspistol (pistol; 12"; Atk 1; BS 3+; S 3; AP -1; D 1)
+- Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+
+1 Tempestus Scion - Meltagun  
+- Meltagun (melta 2; 12"; Atk 1; BS 3+; S 9; AP -4; D D6)
+- Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+
+1 Tempestus Scion - Plasma gun  
+- Plasma gun – standard (rapid fire 1; 24"; Atk 1; BS 3+; S 7; AP -2; D 1)
+- Plasma gun – supercharge (rapid fire 1, hazardous; 24"; Atk 1; BS 3+; S 8; AP -3; D 2)
+- Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+
+1 Tempestus Scion  
+- Hot-shot lasgun (rapid fire 1; 24"; Atk 1; BS 3+; S 3; AP -1; D 1)
+- Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+  
+## Омега ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 100  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
+- количество отрядов, уничтоженных данным отрядом = 0  
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins>
+  FNP 6+, Dmg -1  
+<ins>Состав и снаряжение отряда:</ins>  
+1 Bullgryn Bone ‘ead  
+- Bullgryn maul (Melee; Atk 4; WS 3+; S 7; AP -1; D 2)
+- Close combat weapon	(Melee; Atk 4; WS 3+; S 6; AP 0; D 1)
+- Brute Shield (The bearer has a 4+ invulnerable save)
+
+2 Bullgryns  
+- Bullgryn maul (Melee; Atk 4; WS 3+; S 7; AP -1; D 2)
+- Close combat weapon	(Melee; Atk 4; WS 3+; S 6; AP 0; D 1)
+- Brute Shield (The bearer has a 4+ invulnerable save)
+  
 ## 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Rocinante" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels))
 <ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
@@ -355,30 +424,3 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2x Plasma cannon – supercharge (blast, hazardous; 36"; Atk D3; BS 4+; S 8; AP -3; D 2)
 - Hunter-killer missile (one shot; 48"; Atk 1; BS 4+; S 14; AP -3; D D6)
 - Close combat weapon (Melee; Atk 6; WS 4+; S 7; AP 0; D 1)
-
-<!--
-## Омега ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad))
-<ins>Опыт Отряда (XP):</ins> 0  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
-<ins>Улучшения отряда:</ins> -  
-<ins>Общая стоимость отряда:</ins> 100  
-<ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0
-- количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 0  
-
-<ins>Награды отряда (Battle Honours):</ins> -  
-<ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins>
-  FNP 6+, Dmg -1  
-<ins>Состав и снаряжение отряда:</ins>  
-1 Bullgryn Bone ‘ead
-- Bullgryn maul (Melee; Atk 4; WS 3+; S 7; AP -1; D 2)
-- Close combat weapon	(Melee; Atk 4; WS 3+; S 6; AP 0; D 1)
-- Brute Shield (The bearer has a 4+ invulnerable save)
-
-2 Bullgryns
-- Bullgryn maul (Melee; Atk 4; WS 3+; S 7; AP -1; D 2)
-- Close combat weapon	(Melee; Atk 4; WS 3+; S 6; AP 0; D 1)
-- Brute Shield (The bearer has a 4+ invulnerable save)
--->
