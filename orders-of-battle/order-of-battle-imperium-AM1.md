@@ -7,8 +7,9 @@
 <ins>Доступная Реквизиция (Requisition Points):</ins> 0  
 <ins>Особые отметки:</ins>  
 **[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
-Сражений до окончания: D6+4 = 9  
-Побед до окончания: D3+2 = 5  
+Сражений до окончания: D6+4 = 9 > 8  
+Побед до окончания: D3+2 = 5 > 4  
+Наградные знаки (Commendation points): 2  
 Lexmechanicus = 2 (When selecting Agendas for a battle, you can select one additional Astra Militarum Agenda to be active for that battle in addition to any others selected for that battle)  
 Materiel = 1  
 Tithe Pool = 1  
@@ -20,17 +21,39 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
 - 2026-04-28: При создании Боевых Порядков за 2 RP взята реквизиция "Почитаемые Герои" для Темпестор Прайма из отряда Альфа - получено постоянное улучшение Smoke Grenades из детача Mechanized Assault.
 - 2026-04-28: Боевые Порядки отправляются в Боевой Поход ([Tour of Duty](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty)) - операция *Дорога из жёлтого кирпича*
+- 2026-05-20: Победа над 1000 Сынов на Икарон I (Захват опорной точки)  
+  Боевые Задачи: В целях пропаганды (уничтожен 1), Обыск места высадки (выполнена полностью), Обезглавливание (уничтожены 2 персонажа, один из них был Warlord'ом)  
+  Боевые Порядки получают 2 RP (Обыск места высадки + базовый)  
+  Все отряды - 1ХР по BATTLE EXPERIENCE  
+  За победу Боевые Порядки получают к3 = 2 Наградных знака  
+**314й полк "Валхалльские Ледяные Воины", 1ый командный взвод**  
+  За выполненную БЗ (SEARCH DROP SITE) = 3 ХР  
+**314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод**  
+  За выполненную БЗ (CUT OFF THE HEAD) = 2 XP  
+  За выполненную БЗ (PROPAGANDA TARGETS) = 3 XP  
+**314й полк "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод**  
+  Получает боевой шрам (1) "Калечащий урон"  
+  Снимает боевой шрам за 1 RP - Получает 1 CP  
+**314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод**  
+  За выполненную БЗ (SEARCH DROP SITE) = 3 ХР  
+  Лорд-комиссар 1ого командного взвода выбирает целью Боевой Особенности (Нюх на талант) = 3 ХР  
+**68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V"**  
+  За выполненную БЗ (CUT OFF THE HEAD, Warlord) = 4 XP  
+  Отмечен величием = 3 ХР  
+**68й полк темпестус "Дельтийские Львы", отряд Альфа**  
+  За выполненную БЗ (SEARCH DROP SITE) = 3 ХР  
+  Лорд Солар выбирает целью Crusade Ability (INSPIRATIONAL CHAMPION) = 3 ХР  
   
 <ins>Список отрядов</ins>
 - Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus), - XP, 1 CP, 130 pts)
-- 314й полк "Валхалльские Ледяные Воины", 1ый командный взвод ([Krieg Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Krieg-Command-Squad), 6 XP, 1 CP, 80 pts)
-- 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод ([Death Korps Of Krieg](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Death-Korps-Of-Krieg), 0 XP, 0 CP, 65 pts)
-- 314й полк "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 0 XP, 0 CP, 60 pts)
-- 314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 0 XP, 0 CP, 60 pts)
-- 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 0 XP, 0 CP, 410 pts)
+- 314й полк "Валхалльские Ледяные Воины", 1ый командный взвод ([Krieg Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Krieg-Command-Squad), 10 XP, 1 CP, 80 pts)
+- 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод ([Death Korps Of Krieg](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Death-Korps-Of-Krieg), 6 XP, 1 CP, 65 pts)
+- 314й полк "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 1 XP, 0 CP, 60 pts)
+- 314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 7 XP, 1 CP, 60 pts)
+- 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 8 XP, 2 CP, 410 pts)
 - 68й полк темпестус "Дельтийские Львы", техножрец Тау-Каппа ([Tech-Priest Enginseer](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tech-Priest-Enginseer), 0 XP, 0 CP, 45 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд Альфа ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 0 XP, 0 CP, 95 pts)
-- 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Rocinante" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 0 XP, 0 CP, 55 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд Альфа ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 7 XP, 1 CP, 95 pts)
+- 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Rocinante" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 1 XP, 0 CP, 55 pts)
 - 175я танковая бригада, танк Леман Русс "Leonidas" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)
 
 # Карточки отрядов
