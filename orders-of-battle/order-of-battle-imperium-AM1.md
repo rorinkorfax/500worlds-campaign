@@ -33,7 +33,6 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   За выполненную БЗ (PROPAGANDA TARGETS) = 3 XP  
 **314й полк "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод**  
   Получает боевой шрам (1) "Калечащий урон"  
-  Снимает боевой шрам за 1 RP - Получает 1 CP  
 **314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод**  
   За выполненную БЗ (SEARCH DROP SITE) = 3 ХР  
 **68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V"**  
@@ -48,13 +47,14 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-05-21: 1 RP взята реквизиция "Увеличение Снабжения"
 - 2026-05-21: В Боевые Порядки добавлены отряды:  
   68й полк темпестус "Дельтийские Львы", отряд Омега  
-  68й полк темпестус "Дельтийские Львы", отряд Альфа-2  
+  68й полк темпестус "Дельтийские Львы", отряд Альфа-2
+- 2026-05-21: Боевые Порядки используют реквизицию ["Перевод в последнюю минуту"](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Requisitions) и заменяют в 314м полку "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод на 3ый кавалерийский медвежий взвод (без потерь опыта и званий).
   
 <ins>Список отрядов</ins>
 - Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus), - XP, 1 CP, 130 pts)
 - 314й полк "Валхалльские Ледяные Воины", 1ый командный взвод ([Krieg Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Krieg-Command-Squad), 10 XP, 1 CP, 80 pts)
 - 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод ([Death Korps Of Krieg](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Death-Korps-Of-Krieg), 6 XP, 1 CP, 65 pts)
-- 314й полк "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 1 XP, 1 CP, 60 pts)
+- 314й полк "Валхалльские Ледяные Воины", 3ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 1 XP, 0 CP, 60 pts)
 - 314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 4 XP, 0 CP, 60 pts)
 - 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 8 XP, 2 CP, 410 pts)
 - 68й полк темпестус "Дельтийские Львы", техножрец Тау-Каппа ([Tech-Priest Enginseer](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tech-Priest-Enginseer), 0 XP, 0 CP, 45 pts)
@@ -176,20 +176,19 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Lasgun (rapid fire 1; 24"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Close combat weapon	(Melee; Atk 1; WS 4+; S 3; AP 0; D 1)
 
-## 314й полк "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders))
+## 314й полк "Валхалльские Ледяные Воины", 3ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders))
 <ins>Опыт Отряда (XP):</ins> 1  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 60  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1
-- количество победных сражений, в которых участвовал отряд = 1
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
 - количество отрядов, уничтоженных данным отрядом = 0  
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins>  
-  Снят боевой шрам (1)  
+<ins>Особые отметки:</ins> -   
 <ins>Состав и снаряжение отряда:</ins>  
 1 Rough Rider Sergeant
 - Lasgun (rapid fire 1; 24"; Atk 1; BS 4+; S 3; AP 0; D 1)
