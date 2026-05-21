@@ -17,7 +17,7 @@
 <ins>Список отрядов</ins>  
 - Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master), Warlord, 0 XP, 0 CP, 75 pts)
 - Тираэль Шёпот Ветров ([Shadowseer](https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadowseer), 0 XP, 0 CP, 60 pts)
-- Фаэналь Пронзатель Сердец ([Death Jester](https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester), 0 XP, 0 CP, 90 pts)
+- Фаэналь Пронзатель Сердец ([Death Jester](https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester), 0 XP, 0 CP, 100 pts)
 - Зинфандель Оскал Времен ([Solitaire](https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire), 0 XP, 0 CP, 115 pts)
 - Труппа Миртаэля Импровизатора ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 0 XP, 0 CP, 85 pts)
 - Труппа Илдорона Тысячеликого ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 0 XP, 0 CP, 85 pts)
