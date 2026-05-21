@@ -2,14 +2,14 @@
 <ins>Название:</ins> **Объединённые силы "Ледяной Лев"**  
 <ins>Лимит Снабжения (Supply Limit):</ins> 1400  
 <ins>Текущее Снабжение (Supply Used):</ins> 1315  
-<ins>Боевой Счёт (Battle Tally):</ins> 1  
+<ins>Боевой Счёт (Battle Tally):</ins> 2  
 <ins>Счёт Побед:</ins> 1  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 1  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
 <ins>Особые отметки:</ins>  
 **[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
-Сражений до окончания: D6+4 = 9 > 8  
+Сражений до окончания: D6+4 = 9 > 7  
 Побед до окончания: D3+2 = 5 > 4  
-Наградные знаки (Commendation points): 2  
+Наградные знаки (Commendation points): 4  
 Lexmechanicus = 2 (When selecting Agendas for a battle, you can select one additional Astra Militarum Agenda to be active for that battle in addition to any others selected for that battle)  
 Materiel = 1  
 Tithe Pool = 1  
@@ -65,14 +65,14 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   
 <ins>Список отрядов</ins>
 - Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus), - XP, 1 CP, 130 pts)
-- 314й полк "Валхалльские Ледяные Воины", 1ый командный взвод ([Krieg Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Krieg-Command-Squad), 16 XP, 1 CP, 80 pts)
+- 314й полк "Валхалльские Ледяные Воины", 1ый командный взвод ([Krieg Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Krieg-Command-Squad), 16 XP, 2 CP, 80 pts)
 - 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод ([Death Korps Of Krieg](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Death-Korps-Of-Krieg), 7 XP, 1 CP, 65 pts)
 - 314й полк "Валхалльские Ледяные Воины", 3ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 4 XP, 0 CP, 60 pts)
-- 314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 10 XP, 0 CP, 60 pts)
-- 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 16 XP, 2 CP, 410 pts)
+- 314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 10 XP, 1 CP, 60 pts)
+- 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 16 XP, 4 CP, 410 pts)
 - 68й полк темпестус "Дельтийские Львы", техножрец Тау-Каппа ([Tech-Priest Enginseer](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tech-Priest-Enginseer), 1 XP, 0 CP, 45 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд Альфа ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 17 XP, 1 CP, 95 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд Альфа-2 ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions), 6 XP, 0 CP, 70 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд Альфа ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 17 XP, 2 CP, 95 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд Альфа-2 ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions), 6 XP, 1 CP, 70 pts)
 - 68й полк темпестус "Дельтийские Львы", отряд Омега ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad), 0 XP, 0 CP, 100 pts)
 - 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Rocinante" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 4 XP, 0 CP, 55 pts)
 - 175я танковая бригада, танк Леман Русс "Leonidas" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)
