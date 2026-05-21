@@ -36,7 +36,7 @@ At the end of the Declare Battle Formations step, starting with the Attacker, e
 Боевая операция "[Абордаж](https://github.com/rorinkorfax/500worlds-campaign/blob/main/README.md#%D0%B0%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%D0%B6-globe_with_meridiansleftwards_arrow_with_hookglobe_with_meridians)" флота Хаоситов над Криндаером  
 **Условия (к6 = 1):** Space-time Compression  
 Add 2 to Advance rolls.  
-**Обороняющийся флот:** варбанда "Несущие Избавление"  
+**Обороняющийся флот:** Культ Бессеребряников  
 **Дата сражения:** 23.05  
 **Результат:**  
 
