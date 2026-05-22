@@ -31,7 +31,7 @@ Each time a unit (excluding MONSTERS and VEHICLES) Falls Back, all models in tha
 **Условия (к6 = 4):** Eye of Judgement  
 At the end of the Declare Battle Formations step, starting with the Attacker, each player selects up to two units from their army (excluding MONSTERS and VEHICLES). Models in those units have the Scouts 6" ability.  
 **Обороняющийся флот:** капитул Тёмных Ангелов "Крылышки"  
-**Дата сражения:** 23.05  
+**Дата сражения:** 24.05  
 **Результат:**  
 
 ### Операции флота "Стреляки-вороваки"  
