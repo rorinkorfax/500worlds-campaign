@@ -21,13 +21,13 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод ([Death Korps Of Krieg](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Death-Korps-Of-Krieg), 7 XP, 1 CP, 65 pts)
 - 314й полк "Валхалльские Ледяные Воины", 3ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 4 XP, 0 CP, 60 pts)
 - 314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 10 XP, 1 CP, 60 pts)
-- 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 17 XP, 4 CP, 410 pts)
+- 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Климент V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 17 XP, 4 CP, 410 pts)
 - 68й полк темпестус "Дельтийские Львы", техножрец Тау-Каппа ([Tech-Priest Enginseer](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tech-Priest-Enginseer), 1 XP, 0 CP, 45 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд Альфа ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 17 XP, 2 CP, 95 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд Альфа-2 ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions), 6 XP, 1 CP, 70 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд Омега ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad), 0 XP, 0 CP, 100 pts)
-- 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Rocinante" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 4 XP, 0 CP, 55 pts)
-- 175я танковая бригада, танк Леман Русс "Leonidas" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд "Альфа" ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 17 XP, 2 CP, 95 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд "Альфа-2" ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions), 6 XP, 1 CP, 70 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд "Омега" ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad), 0 XP, 0 CP, 100 pts)
+- 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Росинант" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 4 XP, 0 CP, 55 pts)
+- 175я танковая бригада, танк Леман Русс "Леонидас" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)
 
 <ins>Журнал изменений Боевых Порядков:</ins>    
 - 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция "Почитаемые Герои" для Лорд-комиссара 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов - получено постоянное улучшение Grand Strategist из детача Combined Arms.
@@ -36,45 +36,36 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-04-28: При создании Боевых Порядков за 2 RP взята реквизиция "Почитаемые Герои" для Темпестор Прайма из отряда Альфа - получено постоянное улучшение Smoke Grenades из детача Mechanized Assault.
 - 2026-04-28: Боевые Порядки отправляются в Боевой Поход ([Tour of Duty](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty)) - операция *Дорога из жёлтого кирпича*
 - 2026-05-20: Победа над 1000 Сынов на Икарон I (Захват опорной точки)  
-  Боевые Задачи: В целях пропаганды (уничтожен 1), Обыск места высадки (выполнена полностью), Обезглавливание (уничтожены 2 персонажа, один из них был Warlord'ом)  
-  Боевые Порядки получают 3 RP (Обыск места высадки + Обезглавливание + базовый)  
-  Все отряды - 1ХР по BATTLE EXPERIENCE  
-  За победу Боевые Порядки получают к3 = 2 Наградных знака  
-**314й полк "Валхалльские Ледяные Воины", 1ый командный взвод**  
-  За выполненную БЗ (SEARCH DROP SITE) = 3 ХР  
-**314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод**  
-  За выполненную БЗ (CUT OFF THE HEAD) = 2 XP  
-  За выполненную БЗ (PROPAGANDA TARGETS) = 3 XP  
-**314й полк "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод**  
+  Боевые Задачи: В целях пропаганды (PROPAGANDA TARGETS; уничтожен 1), Обыск места высадки (SEARCH DROP SITE; выполнена полностью), Обезглавливание (CUT OFF THE HEAD; уничтожены 2 персонажа, один из них был Warlord'ом)  
+**Вх314 кв1** +4 XP (Боевой опыт, Обыск места высадки)  
+**Вх314 пв1** +6 XP (Боевой опыт, В целях пропаганды, Обезглавливание (character))  
+**Вх314 мв1** +1 XP (Боевой опыт)  
   Получает боевой шрам (1) "Калечащий урон"  
-**314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод**  
-  За выполненную БЗ (SEARCH DROP SITE) = 3 ХР  
-**68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V"**  
-  За выполненную БЗ (CUT OFF THE HEAD, Warlord) = 4 XP  
-  Отмечен величием = 3 ХР  
-**68й полк темпестус "Дельтийские Львы", отряд Альфа**  
-  За выполненную БЗ (SEARCH DROP SITE) = 3 ХР  
-  Лорд Солар выбирает целью Crusade Ability (INSPIRATIONAL CHAMPION) = 3 ХР
+**Вх314 мв2** +4 XP (Боевой опыт, Обыск места высадки)  
+**DL68th "Климент V"** +8 XP (Боевой опыт, Отмечен величием, Обезглавливание(Warlord))  
+**DL68th "Альфа"** +7 XP (Боевой опыт, INSPIRATIONAL CHAMPION, Обыск места высадки)  
+Реквизиция: +3 RP (Обыск места высадки, Обезглавливание, базовый)  
+Наградные знаки: +2 Commendation (Боевой поход (победа: d3=2))  
 - 2026-05-20: 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод получает ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits))
-- 2026-05-20: 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" получает ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Охотники на крупную дичь(BIG-GAME HUNTERS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Battle-Traits))
-- 2026-05-20: 68й полк темпестус "Дельтийские Львы", отряд Альфа получает ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits))
+- 2026-05-20: 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Климент V" получает ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Охотники на крупную дичь(BIG-GAME HUNTERS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Battle-Traits))
+- 2026-05-20: 68й полк темпестус "Дельтийские Львы", отряд "Альфа" получает ранг Обстреляный; получена Награда отряда - Боевая Особенность ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits))
 - 2026-05-21: 1 RP взята реквизиция "Увеличение Снабжения"
 - 2026-05-21: В Боевые Порядки добавлены отряды:  
-  68й полк темпестус "Дельтийские Львы", отряд Омега  
-  68й полк темпестус "Дельтийские Львы", отряд Альфа-2
+  68й полк темпестус "Дельтийские Львы", отряд "Омега"  
+  68й полк темпестус "Дельтийские Львы", отряд "Альфа-2"
 - 2026-05-21: Боевые Порядки используют реквизицию ["Перевод в последнюю минуту"](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Requisitions) и заменяют в 314м полку "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод на 3ый кавалерийский медвежий взвод (без потерь опыта и званий).
 - 2026-05-21: Поражение Имперской Гвардии на Таркад Виндикс (Налёт на базу снабжения)  
   Боевые Задачи: Непокорные до конца (DEFIANT TO THE END; Вх314 кв1, Climent V, DL68th "Альфа"), В атаку, за Императора!(ADVANCE, FOR THE EMPEROR!), Обезглавливание(CUT OFF THE HEAD)  
 **Вх314 мв3** +3 XP (Боевой опыт, Духоподъёмные примеры, В атаку, за Императора! (Вх314 мв3 в полной силе в конце сражения находился полностью в деплое оппонента))  
-**Росинант** +3 XP (Боевой опыт, Духоподъёмные примеры, В атаку, за Императора! (Росинант в полной силе в конце сражения находился полностью в деплое оппонента))  
-**Климент V** +6 XP (Боевой опыт, Несущий смерть(3 уничтоженных отряда), Непокорные до конца ("Климент V" в полной силе в конце сражения находился полностью в деплое оппонента), В атаку, за Императора! ("Климент V" в полной силе в конце сражения находился полностью в деплое оппонента))  
+**DL68th "Росинант"** +3 XP (Боевой опыт, Духоподъёмные примеры, В атаку, за Императора! (Росинант в полной силе в конце сражения находился полностью в деплое оппонента))  
+**DL68th "Климент V"** +6 XP (Боевой опыт, Несущий смерть(3 уничтоженных отряда), Непокорные до конца ("Климент V" в полной силе в конце сражения находился полностью в деплое оппонента), В атаку, за Императора! ("Климент V" в полной силе в конце сражения находился полностью в деплое оппонента))  
 **Вх314 кв1** +6 XP (Боевой опыт, Духоподъёмные примеры, Непокорные до конца (Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента), В атаку, за Императора! (Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента))  
 **Вх314 пв1** +1 XP (Боевой опыт)  
 **Вх314 мв2** +6 XP (Боевой опыт, Духоподъёмные примеры, Обезглавливание (Вх314 мв2 уничтожил EPIC HERO))  
 **DL68th "Альфа"** +4 XP (Боевой опыт, В атаку, за Императора! (DL68th "Альфа" в полной силе в конце сражения находился полностью в деплое оппонента), Обезглавливание (DL68th "Альфа" уничтожил CHARACTER))  
 **DL68th "Альфа-2"** +6 XP (Боевой опыт, Духоподъёмные примеры, Непокорные до конца (DL68th "Альфа-2" в конце более чем в половине силы сражения находился полностью в деплое оппонента), В атаку, за Императора! (DL68th "Альфа-2" в конце сражения находился полностью в деплое оппонента))  
 Реквизиция: +2 RP (База, Непокорные до конца (Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента))  
-Наградные знаки: +2 Commendation (Боевой поход, В атаку, за Императора! (Леонтус в составе Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента))  
+Наградные знаки: +2 Commendation (Боевой поход (поражение: 1), В атаку, за Императора! (Леонтус в составе Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента))  
 - 2026-05-21: DL68th "Альфа" Отмеченные величием, Лорд Солар выбирает целью Crusade Ability (INSPIRATIONAL CHAMPION) Климент V, Лорд-комиссар 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов выбирает целью способности "Нюх на талант" отряд DL68th "Альфа"
 - 2026-05-21: DL68th "Альфа" получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Старые счёты(OLD GRUDGES))  
 - 2026-05-21: DL68th "Альфа-2" получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Партизаны(GUERRILLAS))  
@@ -98,7 +89,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Особые отметки:</ins>  
   Character, Leader, Warlord, Epic Hero, [Crusade Ability (INSPIRATIONAL CHAMPION)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions)  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Lord Solar Leontus
+1 Lord Solar Leontus  
 - Crusade Ability (INSPIRATIONAL CHAMPION; While an EPIC HERO model with this Crusade Ability is leading a unit, you can ignore any and/or all Battle Scars that Bodyguard unit has. In addition, if your Crusade army includes one or more EPIC HERO models with this Crusade Ability, at the end of the battle you can select one additional unit from your Crusade army to be Marked for Greatness)
 - Sergeant's autogun (24"; Atk 2; BS 4+; S 3; AP 0; D 1)
 - Close combat weapon	(Melee; Atk 1; WS 4+; S 3; AP 0; D 1)
@@ -209,7 +200,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins> -   
 <ins>Состав и снаряжение отряда:</ins>  
-1 Rough Rider Sergeant
+1 Rough Rider Sergeant  
 - Lasgun (rapid fire 1; 24"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Laspistol (pistol; 12"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Hunting lance – frag tip (lance; Melee; Atk D6; WS 3+; S 4; AP 0; D 1)
@@ -217,7 +208,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Steed’s hooves (extra attacks; Melee; Atk 2; WS 4+; S 4; AP 0; D 1)
 - Power saber (Melee; Atk 4; WS 3+; S 4; AP -2; D 1)
 
-4 Rough Riders
+4 Rough Riders  
 - Lasgun (rapid fire 1; 24"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Laspistol (pistol; 12"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Hunting lance – frag tip (lance; Melee; Atk D6; WS 3+; S 4; AP 0; D 1)
@@ -238,9 +229,9 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   Battle Trait (EVASIVE; Each time a ranged attack is allocated to a model in this unit, provided this unit did not Remain Stationary in your previous turn, worsen the Armour Penetration characteristic of that attack by 1)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Battle Trait (Неуловимые(EVASIVE))
+  Battle Trait (Неуловимые(EVASIVE))  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Rough Rider Sergeant
+1 Rough Rider Sergeant  
 - Lasgun (rapid fire 1; 24"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Laspistol (pistol; 12"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Hunting lance – frag tip (lance; Melee; Atk D6; WS 3+; S 4; AP 0; D 1)
@@ -248,14 +239,14 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Steed’s hooves (extra attacks; Melee; Atk 2; WS 4+; S 4; AP 0; D 1)
 - Power saber (Melee; Atk 4; WS 3+; S 4; AP -2; D 1)
 
-4 Rough Riders
+4 Rough Riders  
 - Lasgun (rapid fire 1; 24"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Laspistol (pistol; 12"; Atk 1; BS 4+; S 3; AP 0; D 1)
 - Hunting lance – frag tip (lance; Melee; Atk D6; WS 3+; S 4; AP 0; D 1)
 - Hunting lance – melta tip (lance; Melee; Atk 1; WS 3+; S 9; AP -4; D D6)
 - Steed’s hooves (extra attacks; Melee; Atk 2; WS 4+; S 4; AP 0; D 1)
 
-## 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Climent V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword))
+## 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Климент V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword))
 <ins>Опыт Отряда (XP):</ins> 17  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 4  
 <ins>Улучшения отряда:</ins> -  
@@ -298,7 +289,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Enginseer axe	(Melee; Atk 3; WS 4+; S 6; AP -2; D 2)
 - Servo-arm (extra attacks; Melee; Atk 1; WS 4+; S 6; AP -2; D 2)
 
-## 68й полк темпестус "Дельтийские Львы", отряд Альфа ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad))
+## 68й полк темпестус "Дельтийские Львы", отряд "Альфа" ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad))
 <ins>Опыт Отряда (XP):</ins> 17  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 2  
 <ins>Улучшения отряда:</ins> Smoke Grenades (+10 pts; Mechanized Assault; The bearer’s unit has the Benefit of Cover and the Stealth ability while the bearer’s unit is wholly within 3" of one or more friendly TRANSPORT models)  
@@ -312,10 +303,10 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   Battle Trait (GRIZZLED; Models in this unit have the Feel No Pain 6+ ability and you can re-roll failed Out of Action tests taken for this unit)  
   Battle Trait (OLD GRUDGES; At the start of the battle, select one unit from your opponent’s army. Each time a model in this OFFICER’s unit makes an attack that targets that unit, you can re-roll the Hit roll)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins>
+<ins>Особые отметки:</ins>  
   Character, Leader, Deep Strike, FNP 6+, Темпестор Прайм - Аргантим Рекс, ранг Обстреляный (Blooded rank), Battle Trait ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits)), Battle Trait (Старые счёты(OLD GRUDGES))  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Tempestor Prime
+1 Tempestor Prime  
 <!-- Command Rod (While the bearer is leading a unit, that unit can be affected by up to two different Orders at the same time)-->
 - Plasma pistol – standard (pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
 - Plasma pistol – supercharge (hazardous, pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)
@@ -340,7 +331,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Grenade launcher – krak (24"; Atk 1; BS 3+; S 9; AP -2; D D3)
 - Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
   
-## 68й полк темпестус "Дельтийские Львы", отряд Альфа-2 ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions))
+## 68й полк темпестус "Дельтийские Львы", отряд "Альфа-2" ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions))
 <ins>Опыт Отряда (XP):</ins> 6  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
@@ -353,7 +344,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GUERRILLAS; In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6". If it does, until the end of the turn, this unit is not eligible to declare a charge unless it has the CAVALRY keyword)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins>
+<ins>Особые отметки:</ins>  
   Deep Strike, Battle Trait (Партизаны(GUERRILLAS))  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Tempestor  
@@ -379,7 +370,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Hot-shot lasgun (rapid fire 1; 24"; Atk 1; BS 3+; S 3; AP -1; D 1)
 - Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
   
-## 68й полк темпестус "Дельтийские Львы", отряд Омега ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad))
+## 68й полк темпестус "Дельтийские Львы", отряд "Омега" ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
@@ -391,7 +382,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins>
+<ins>Особые отметки:</ins>  
   FNP 6+, Dmg -1  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Bullgryn Bone ‘ead  
@@ -404,10 +395,10 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Close combat weapon	(Melee; Atk 4; WS 3+; S 6; AP 0; D 1)
 - Brute Shield (The bearer has a 4+ invulnerable save)
   
-## 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Rocinante" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels))
+## 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Росинант" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels))
 <ins>Опыт Отряда (XP):</ins> 4  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
-<ins>Улучшения отряда:</ins> -
+<ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 55  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 2
@@ -416,20 +407,20 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins>
+<ins>Особые отметки:</ins>  
   Scouts 9"  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Scout Sentinel
+1 Scout Sentinel  
 - Plasma cannon – standard (blast; 36"; Atk D3; BS 4+; S 7; AP -2; D 1)
 - Plasma cannon – supercharge (blast, hazardous; 36"; Atk D3; BS 4+; S 8; AP -3; D 2)
 - Hunter-killer missile (one shot; 48"; Atk 1; BS 4+; S 14; AP -3; D D6)
 - Close combat weapon (Melee; Atk 2; WS 4+; S 6; AP 0; D 1)
 - Sentinel chainsaw (Melee; Atk 3; WS 4+; S 6; AP -1; D 1)
 
-## 175я танковая бригада, танк Леман Русс "Leonidas" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher))
+## 175я танковая бригада, танк Леман Русс "Леонидас" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
-<ins>Улучшения отряда:</ins> -
+<ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 145  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 0
@@ -440,7 +431,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins> -  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Leman Russ Vanquisher
+1 Leman Russ Vanquisher  
 - Vanquisher battle cannon (heavy; 72"; Atk 1; BS 4+; S 18; AP -4; D D6+6)
 - Lascannon (48"; Atk 1; BS 4+; S 12; AP -3; D D6+1)
 - 2x Plasma cannon – standard (blast; 36"; Atk D3; BS 4+; S 7; AP -2; D 1)
