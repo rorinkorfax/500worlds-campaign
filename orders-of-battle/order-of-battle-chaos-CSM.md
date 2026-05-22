@@ -6,14 +6,11 @@
 <ins>Счёт Побед:</ins> 0  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 4  
 <ins>Особые отметки:</ins>  
-<ins>Треки Очков Хаоса:</ins>
+<ins>Треки Очков Хаоса:</ins>  
 - PERSONAL GLORY (4)
 - DARK GOD GLORY (4)
 - WARFLEET GLORY (4) 
 
-<ins>Журнал изменений Боевых Порядков:</ins>    
-2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
- 
 <ins>Список отрядов</ins>
 - Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord), WARBAND CHAMPION, 0 XP, 0 CP, 105 pts)
 - Дигрдар Векс ([Lord Discordant on Hellstalker](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker), 0 XP, 0 CP, 160 pts)
@@ -26,8 +23,10 @@
 - Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 0 XP, 0 CP, 110 pts)
 - Мессионер ([Chaos Rhino](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Rhino), 0 XP, 0 CP, 75 pts)
 
+<ins>Журнал изменений Боевых Порядков:</ins>    
+- 2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
+ 
 # Карточки отрядов
-
 ## Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
@@ -107,20 +106,20 @@
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Aspiring Champion
+1 Aspiring Champion  
 - Plasma pistol - standard (Pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
 - Plasma pistol - supercharge (Hazardous, Pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)  
 - Heavy melee weapon (Melee; Atk 3; WS 3+; S 8; AP -2; D 2)
 
-2 Legionary w/ chainsword 
+2 Legionary w/ chainsword  
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1) 
 - Astartes chainsword (Melee; Atk 4; WS 3+; S 4; AP -1; D 1)
 
-1 Legionary w/ heavy melee weapon
+1 Legionary w/ heavy melee weapon  
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
 - Heavy melee weapon (Melee; Atk 3; WS 3+; S 8; AP -2; D 2)
 
-1 Legionary w/ other weapon
+1 Legionary w/ other weapon  
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
 - Lascannon (Heavy; 48"; Atk 1; BS 4+; S 12; AP -3; D D6+1)
 - Close combat weapon (Melee; Atk 3; WS 3+; S 4; AP 0; D 1)
@@ -139,23 +138,23 @@
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Chosen Champion
+1 Chosen Champion  
 - Plasma pistol - standard (Pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
 - Plasma pistol - supercharge (Hazardous, Pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)
 - Boltgun (24"; Atk 2; BS 3+; S 4; AP 0; D 1)   
 - Power fist (Melee; Atk 4; WS 3+; S 8; AP -2; D 2)
 
-1 Chosen w/ boltgun
+1 Chosen w/ boltgun  
 - Boltgun (24"; Atk 2; BS 3+; S 4; AP 0; D 1)
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
 - Accursed weapon (Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
 
-2 Chosen w/ combi-weapon and bolt pistol
+2 Chosen w/ combi-weapon and bolt pistol  
 - Combi-weapon (Anti-INFANTRY 4+, Devastating Wounds, Rapid Fire 1 ;24"; Atk 1; BS 4+; S 4; AP 0; D 1)
 - Bolt pistol  (Pistol; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
 - Accursed weapon (Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
 
-1 Chosen w/ paired accursed weapons and plasma pistol
+1 Chosen w/ paired accursed weapons and plasma pistol  
 - Plasma pistol - standard (Pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
 - Plasma pistol - supercharge (Hazardous, Pistol; 12"; Atk 1; BS 3+; S 8; AP -3; D 2)
 - Paired Accursed weapon (Twin-linked; Melee; Atk 5; WS 3+; S 5; AP -2; D 1
@@ -174,12 +173,12 @@
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Havoc Champion
+1 Havoc Champion  
 - Plasma gun - standard (Rapid Fire 1; 24"; Atk 1; BS 3+; S 7; AP -2; D 1)
 - Plasma gun - supercharge (Hazardous, Rapid Fire 1; 24"; Atk 1; BS 3+; S 8; AP -3; D 2) 
 - Accursed weapon (Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
 
-4 Havoc 
+4 Havoc  
 - Havoc Lascannon (48"; Atk 1; BS 3+; S 12; AP -3; D D6+1)
 - Close combat weapon (Melee; Atk 3; WS 3+; S 4; AP 0; D 1)
 
@@ -197,7 +196,7 @@
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Warp Talon Champion
+1 Warp Talon Champion  
 - Warp claws (Twin-linked; Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
 
 4 Warp Talon  
