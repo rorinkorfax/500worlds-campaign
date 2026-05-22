@@ -7,7 +7,7 @@
 <ins>Доступная Реквизиция (Requisition Points):</ins> 3  
 <ins>Особые отметки:<ins> -  
 
-## Список отрядов
+<ins>Список отрядов</ins>
 - Златолив ([Infernal Master](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Infernal-Master), Warlord, 1 XP, 0 CP, 110)
 - Меднохват ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 7 XP, 1 CP, 105)
 - Счетовод ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 7 XP, 1 CP, 85)
