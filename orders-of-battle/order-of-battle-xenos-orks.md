@@ -6,13 +6,13 @@
 <ins>Счёт Побед:</ins> 0  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 2  
 <ins>Особые отметки:</ins>  
-**<ins>Stage Of The WAAAGH!:</ins> Stage 1: Gathering WAAAGH!**  
+WAAAGH! Stompin’ Points = 0 (WAAAGH! Stage 1: Gathering WAAAGH!)  
 
 <ins>Журнал изменений Боевых Порядков:</ins>  
 - 2026-05-08: При создании Боевых Порядков за 1 RP взята реквизиция "Почитаемые Герои" для Биг Дока - получено постоянное улучшение "За мой, хлопцы!" (Follow Me Ladz) из детача War Horde.
 - 2026-05-08: При создании Боевых Порядков за 2 RP взята реквизиция "Почитаемые Герои" для Чугунзада - получено постоянное улучшение "Зупа-киборк тело" (Supa-Cybork Body) из детача War Horde.
 
-<ins>Список отрядов</ins>
+<ins>Список отрядов</ins>  
 - Газзкул Маг Урук Трака ([Ghazghkull Thraka](https://wahapedia.ru/wh40k10ed/factions/orks/Ghazghkull-Thraka), Warlord, - XP, 1 CP, 235 pts)
 - Биг Док ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 0 XP, 0 CP, 105 pts)
 - Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 0 XP, 0 CP, 80 pts)
