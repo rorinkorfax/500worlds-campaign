@@ -13,7 +13,7 @@
 Each time a model in a player’s army makes a ranged attack that targets an enemy unit within 12", that player can ignore any or all modifiers to the following: that attack’s Ballistic Skill; the Hit roll; the Wound roll.  
 **Обороняющийся флот:** Культ Бессеребряников  
 **Дата/место сражения:** 20.05 в 16:00 в ХГ на Филевском Парке  
-**Результат:** Победа над силами "Культа Бессеребряников" на Икарон I. (УВ Империума +1 на Икарон I; Линии укреплений захвачены; Дополнительно выстроен Объект поддержки)  
+**Результат:** Победа над силами "Культа Бессеребряников" на Икарон I. (УВ Империума +1 на Икарон I; Линии Укреплений захвачены; Дополнительно выстроен Объект Поддержки)  
 
 ### Операции флота "Крылышки"  
 Строительство инфраструктуры "Линия Укреплений" на Калтус Новем  
@@ -24,7 +24,7 @@ Each time a model in a player’s army makes a ranged attack that targets an ene
 Each time a unit (excluding MONSTERS and VEHICLES) Falls Back, all models in that unit must take a Desperate Escape test. When doing so, if that unit is Battle-shocked, subtract 1 from each of those tests.  
 **Обороняющийся флот:** банда "Стреляки-Вороваки"  
 **Дата сражения:** 23.05  
-**Результат:**  
+**Результат:** Победа над орочьим Ваагх! "Стреляки-Вороваки" на Криндаэре (УВ Хаоса +1 на Криндаере; Уничтожен Объект Поддержки и его место строительства)  
 
 ### Операции флота "Несущих Избавление"  
 Боевая операция "[Орбитальная бомбардировка](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Planetary-Bombardment)" Имперских сил в Пустошах Таркад Виндикс  
@@ -40,7 +40,9 @@ At the end of the Declare Battle Formations step, starting with the Attacker, e
 Add 2 to Advance rolls.  
 **Обороняющийся флот:** Культ Бессеребряников  
 **Дата сражения:** 23.05  
-**Результат:**  
+**Результат:** Поражение от сил "Культа Бессеребряников" на Криндаэре (УВ Хаоса +1 на Криндаере; Флот "Стреляки-вороваки" не может проводить операции Пустотный переход и Боевые Операции на других мирах в фазе2; Флот "Культа Бессеребряников" двигается к ???)  
+> [!CAUTION]
+> Флот "Культа Бессеребряников" двигается к ???
 
 ### Операции флота "Маска разбитых зеркал"  
 Боевая операция "[Налёт на базу снабжения](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Supply-Base-Raid)" Имперских сил в Зоне рад-заражения на Таркад Виндикс  
