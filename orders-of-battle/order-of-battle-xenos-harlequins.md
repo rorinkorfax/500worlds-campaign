@@ -63,7 +63,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, Warlord
+  Character, Leader, Warlord  
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Troupe Master  
 - Fusion pistol (Assault, Melta 2, Pistol; 6"; Atk 1; BS 2+; S 8; AP -4; D D6)
@@ -82,7 +82,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Shadowseer  
 - Neuro disruptor (anti-infantry 2+, assault, pistol; 12"; Atk 1; BS 2+; S 4; AP -2; D 1)
