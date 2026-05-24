@@ -46,9 +46,7 @@ WAAAGH! Stompin’ Points = 4 (WAAAGH! Stage 1: Gathering WAAAGH!)
 **Клешни Чугунзада** +1 XP (Боевой опыт)  
 *Реквизиция:* +1 RP (База)  
 *Stompin’ Points:* +1 (WAAAGH! Stage 1)
-- 2026-05-23: Лута-Скрап получает получает ранг Обстреляный; получена Награда отряда - ?
-> [!CAUTION]
-> Battle Trait? Crusade Relic?
+- 2026-05-23: Лута-Скрап получает получает ранг Обстреляный; получена Награда отряда - Реликвия (Конверсионное поле (CONVERSION FIELD))
 - 2026-05-23: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 2 RP и снимают шрам с Лута-Скрапа (+1CP)
 
 # Карточки отрядов
@@ -126,11 +124,12 @@ WAAAGH! Stompin’ Points = 4 (WAAAGH! Stage 1: Gathering WAAAGH!)
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 2
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Реликвия (CONVERSION FIELD; Models in the bearer’s unit have a 5+ invulnerable save against ranged attacks and each time a ranged attack is allocated to a model in the bearer’s unit, on an unmodified saving throw of 6, the attacking unit suffers 1 mortal wound after it has finished making its attacks)
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
   Снят шрам Угнетение (CRIPPLING DAMAGE) за реквизицию "Починка и восстановление"  
-  ранг Обстреляный (Blooded rank), 
+  ранг Обстреляный (Blooded rank), Реликвия (CONVERSION FIELD)
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Warboss  
