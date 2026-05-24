@@ -32,7 +32,7 @@ Each time a unit (excluding MONSTERS and VEHICLES) Falls Back, all models in tha
 At the end of the Declare Battle Formations step, starting with the Attacker, each player selects up to two units from their army (excluding MONSTERS and VEHICLES). Models in those units have the Scouts 6" ability.  
 **Обороняющийся флот:** капитул Тёмных Ангелов "Крылышки"  
 **Дата сражения:** 24.05  
-**Результат:**  
+**Результат:** Поражение от сил капитула "Крылышки" (УВ Империума +1 на Таркад Виндикс; ответная бомбардировка по Явардэт(уничтожена локация) и Фелгрис II(без ощутимого урона))
 
 ### Операции флота "Стреляки-вороваки"  
 Боевая операция "[Абордаж](https://github.com/rorinkorfax/500worlds-campaign/blob/main/README.md#%D0%B0%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%D0%B6-globe_with_meridiansleftwards_arrow_with_hookglobe_with_meridians)" флота Хаоситов над Криндаером  
@@ -54,10 +54,9 @@ In battle round 4, each unit can only be the target of a ranged attack if the at
 **Дата/место сражения:** 21.05 в 19:00 в ХГ в Европолисе  
 **Результат:** Победа над силами операции "Ледяной Лев" на Таркад Виндикс. (УВ Ксеносов +1 на Таркад Виндикс; УВ Империума -1 на Таркад Виндикс)  
 
-<!--
 # События на Веспаторском фронте
-Здесь будут события, не зависимые от действий флотов
+Голод и болезни (STARVATION AND DISEASE)
+УВ каждого Альянса на каждом мире понижается на 1.
 
 # Итоговый результат фазы
 TBD
--->
