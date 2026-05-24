@@ -153,7 +153,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 2
 - количество победных сражений, в которых участвовал отряд = 1
-- количество отрядов, уничтоженных данным отрядом = 1  
+- количество отрядов, уничтоженных данным отрядом = 0  
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GRIZZLED; Models in this unit have the Feel No Pain 6+ ability and you can re-roll failed Out of Action tests taken for this unit)  
@@ -345,7 +345,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1
 - количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 2  
+- количество отрядов, уничтоженных данным отрядом = 0  
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GUERRILLAS; In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6". If it does, until the end of the turn, this unit is not eligible to declare a charge unless it has the CAVALRY keyword)  
