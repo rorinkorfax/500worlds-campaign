@@ -2,20 +2,20 @@
 <ins>Название:</ins> **Культ Бессеребряников**  
 <ins>Лимит Снабжения (Supply Limit):</ins> 1200  
 <ins>Текущее Снабжение (Supply Used):</ins> 1185  
-<ins>Боевой Счёт (Battle Tally):</ins> 0  
-<ins>Счёт Побед:</ins> 0  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 3  
+<ins>Боевой Счёт (Battle Tally):</ins> 3  
+<ins>Счёт Побед:</ins> 2  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 4?  
 <ins>Особые отметки:<ins> -  
 
 <ins>Список отрядов</ins>
-- Златолив ([Infernal Master](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Infernal-Master), Warlord, 1 XP, 0 CP, 110)
-- Меднохват ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 7 XP, 1 CP, 105)
-- Счетовод ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 7 XP, 1 CP, 85)
-- Носители Мер ([Rubric Marines](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Rubric-Marines), 0 XP, 0 CP, 100)
-- Хранители Дани([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 7 XP, 1 CP, 180)
-- Коллегия Транспорта([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 1 XP, 0 CP, 180)
-- Сияние Металлов ([Mutalith Vortex Beast](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Mutalith-Vortex-Beast), 1 XP, 0 CP, 170)
-- Глашатаи Мытарства ([Tzaangor Enlightened with Fatecaster Greatbows](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangor-Enlightened-with-Fatecaster-Greatbows), 1 XP, 0 CP, 55)
+- Златолив ([Infernal Master](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Infernal-Master), Warlord, 13 XP, 3 CP, 110)
+- Меднохват ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 24 XP, 2 CP, 105)
+- Счетовод ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 18 XP, 2 CP, 85)
+- Носители Мер ([Rubric Marines](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Rubric-Marines), 5 XP, 0 CP, 100)
+- Хранители Дани([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 12 XP, 1 CP, 180)
+- Коллегия Транспорта([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 20 XP, 2 CP, 180)
+- Сияние Металлов ([Mutalith Vortex Beast](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Mutalith-Vortex-Beast), 6 XP, 1 CP, 170)
+- Глашатаи Мытарства ([Tzaangor Enlightened with Fatecaster Greatbows](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangor-Enlightened-with-Fatecaster-Greatbows), 7 XP, 1 CP, 55)
 - Носильщики ([Tzaangors](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangors), 0 XP, 0 CP, 70)
 - Первая Санкция ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Forgefiend), 0 XP, 0 CP, 130)
 - Надсмотрщики Хранилищ ([Tzaangor Enlightened](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangor-Enlightened), 0 XP, 0 CP, 45)
@@ -24,22 +24,63 @@
 - 2026-05-02: При создании Боевых Порядков за 1 RP взята реквизиция "Почитаемые Герои" для Меднохват - получено постоянное улучшение Umbralefic Crystal из детача Grand Coven.  
 - 2026-05-02: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
 - 2026-05-20: Поражение от Имперской Гвардии на Икарон I (Захват опорной точки)  
-Боевые Задачи: MALEFIC SIGILS, CUT OFF THE HEAD  
+*Боевые Задачи:* Пагубные сигилы (MALEFIC SIGILS), Обезглавливание (CUT OFF THE HEAD)  
 **Златолив** +1 XP (Боевой опыт)
   Пройдена проверка "Заговоры и Схемы" (+1 Арканы, +1 Знания)  
-**Меднохват** +7 XP (Боевой опыт, CUT OFF THE HEAD(убит CHARACTER), MALEFIC SIGILS, Отмечен величием)  
-**Счетовод** +7 XP (Боевой опыт, CUT OFF THE HEAD(убит WARLORD), MALEFIC SIGILS, Несущий смерть(убито 3 отряда))  
+**Меднохват** +7 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Пагубные сигилы, Отмечен величием)  
+**Счетовод** +7 XP (Боевой опыт, Обезглавливание(убит WARLORD), Пагубные сигилы, Торговцы Смертью(убито 3 отряда))  
 **Коллегия Транспорта** +1 XP (Боевой опыт)  
-**Хранители Дани** +7 XP (Боевой опыт, CUT OFF THE HEAD(убиты 2х CHARACTER), MALEFIC SIGILS, Несущий смерть(убито 3 отряда))  
+**Хранители Дани** +7 XP (Боевой опыт, Обезглавливание(убиты 2х CHARACTER), Пагубные сигилы, Торговцы Смертью(убито 3 отряда))  
 **Сияние Металлов** +1 XP (Боевой опыт)  
 **Глашатаи Мытарства** +1 XP (Боевой опыт)  
 **Свита Весов** +1 XP (Боевой опыт)  
   Получен шрам (6) PRECISE  
-Реквизиция: +2 RP (База, CUT OFF THE HEAD(убит WARLORD))
+*Реквизиция:* +2 RP (База, Обезглавливание(убит WARLORD))  
 - 2026-05-20: Меднохват получает ранг Обстреляный; получена Награда отряда - Реликвия (Вероломный том(PERFIDIOUS TOME))
 - 2026-05-20: Счетовод получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
 - 2026-05-20: Хранители Дани получают ранг Обстреляный; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
-- 2026-05-20: Из БП удалён отряд Свита Весов и добавлен отряд Носители Мер
+- 2026-05-20: Из БП удалён отряд Свита Весов и добавлен отряд Носители Мер  
+- 2026-05-23: Победа над орочьим Ваагх! "Стреляки-Вороваки" на Криндаэре (Орбитальная бомбардировка)  
+*Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Колдовское Мастерство (SORCEROUS PROWESS)  
+**Златолив** +5 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Колдовское Мастерство(отряд уничтожен Psychic атакой))  
+  Пройдена проверка "Заговоры и Схемы" (+1 Арканы, +1 Знания)  
+**Меднохват** +6 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Колдовское Мастерство(отряд уничтожен Psychic атакой), Торговцы Смертью(убито 3 отряда))  
+  PERFIDIOUS TOME (+2 Знания)  
+**Счетовод** +5 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Колдовское Мастерство(отряд уничтожен Psychic атакой), Торговцы Смертью(убито 3 отряда))  
+**Коллегия Транспорта** +12 XP (Боевой опыт, Обезглавливание(убиты 2х EPIC HERO), Колдовское Мастерство(отряд уничтожен Psychic атакой), Торговцы Смертью(убито 3 отряда))  
+**Хранители Дани** +3 XP (Боевой опыт, Колдовское Мастерство(отряд уничтожен не Psychic атакой), Торговцы Смертью(убито 3 отряда))  
+**Сияние Металлов** +4 XP (Боевой опыт, Отмечен величием)  
+  Получен шрам (3) FATIGUED  
+**Глашатаи Мытарства** +3 XP (Боевой опыт, Обезглавливание(убит CHARACTER))  
+**Носители Мер** +1 XP (Боевой опыт)  
+*Реквизиция:* +2 RP (База, Обезглавливание(убит WARLORD))  
+- 2026-05-23: Златолив получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
+- 2026-05-23: Боевые Порядки используют реквизицию "Починка и восстановление" за 2 RP и снимают шрам с Златолива (+1 CP) 
+- 2026-05-23: Боевые Порядки используют реквизицию "[Дьявольский ритуал](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Diabolic-Rituals)" для Златолива (0 RP за успешное Колдовское Мастерство, -1 Магия, -2 Знания) - получен ранг AELEMENTUS (Battle Honour(Empyric Portents), +1 CP)  
+- 2026-05-23: Победа над орочьим Ваагх! "Стреляки-Вороваки" на Криндаэре (Абордаж)  
+*Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Колдовское Мастерство (SORCEROUS PROWESS)  
+**Златолив** +7 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Колдовское Мастерство(2х отряда уничтожены Psychic атакой), Торговцы Смертью(убито 3 отряда))  
+  Пройдена проверка "Заговоры и Схемы" (+1 Арканы, +1 Знания)  
+**Меднохват** +11 XP (Боевой опыт, Обезглавливание(убит CHARACTER и WARLORD), Колдовское Мастерство(2х отряда уничтожены Psychic атакой), Торговцы Смертью(убито 3 отряда))  
+  PERFIDIOUS TOME (+2 Знания)  
+**Счетовод** +6 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Колдовское Мастерство(отряд уничтожен не Psychic атакой), Торговцы Смертью(убито 6 отряда))  
+**Коллегия Транспорта** +7 XP (Боевой опыт, Обезглавливание(убит EPIC HERO), Колдовское Мастерство(отряд уничтожен Psychic атакой))  
+**Хранители Дани** +2 XP (Боевой опыт, Торговцы Смертью(убито 3 отряда))  
+**Сияние Металлов** +1 XP (Боевой опыт)  
+**Глашатаи Мытарства** +3 XP (Боевой опыт, Обезглавливание(убит CHARACTER))  
+**Носители Мер** +4 XP (Боевой опыт, Отмечен величием)  
+*Реквизиция:* +2 RP (База, Обезглавливание(убит WARLORD))  
+- 2026-05-23: Меднохват получает ранг Закалённый; получена Награда отряда - Реликвия (Лавры стратега(STRATEGIC LAURELS))  
+- 2026-05-23: Счетовод получает ранг Закалённый; получена Награда отряда - Реликвия (Дары Тзинча(Boons of Tzeentch) - ??)  
+> [!CAUTION]
+> Дары Тзинча(Boons of Tzeentch) - бросить в ТГ!
+- 2026-05-23: Коллегия Транспорта получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Оккультные явления(OCCULT APPARITIONS))  
+- 2026-05-23: Глашатаи Мытарства получают ранг Обстреляный; получена Награда отряда - Боевая Особенность (Кавалерийский авангард(CAVALRY OUTRIDERS))  
+- 2026-05-23: Боевые Порядки используют реквизицию "[Призыв Архитектора Судеб (INVOKE THE ARCHITECT OF FATE)](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Requisitions)" на Меднохвата - ??  
+> [!CAUTION]
+> Призыв Архитектора Судеб (INVOKE THE ARCHITECT OF FATE) - бросить в ТГ!  
+> Повлияет на Дьявольский ритуал за ним и к-во RP  
+- 2026-05-23: Боевые Порядки используют реквизицию "[Дьявольский ритуал](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Diabolic-Rituals)" для Меднохвата - ??  
 
 # Карточки отрядов
 ## Златолив (Infernal Master)
