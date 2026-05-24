@@ -111,7 +111,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability instead)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, Лорд-комиссар - Абель, ранг Обстреляный (Blooded rank), Battle Trait (Нюх на таланты (EYE FOR TALENT)), Battle Trait (Суровые выжившие(GRIM SURVIVORS))  
+  ранг Закалённый (Battle-hardened), Battle Trait (Нюх на таланты (EYE FOR TALENT)), Battle Trait (Суровые выжившие(GRIM SURVIVORS))  
+  Character, Leader, Лорд-комиссар - Абель  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Lord Commissar  
 - Plasma pistol – standard (pistol; 12"; Atk 1; BS 4+; S 7; AP -2; D 1)
@@ -158,7 +159,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   Battle Trait (GRIZZLED; Models in this unit have the Feel No Pain 6+ ability and you can re-roll failed Out of Action tests taken for this unit)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Grim Demeanour, FNP 6+, ранг Обстреляный (Blooded rank), Battle Trait ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits))  
+  ранг Обстреляный (Blooded rank), Battle Trait ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits))  
+  Grim Demeanour, FNP 6+  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Death Korps Watchmaster  
 - Plasma pistol – standard (pistol; 12"; Atk 1; BS 4+; S 7; AP -2; D 1)
@@ -231,7 +233,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   Battle Trait (EVASIVE; Each time a ranged attack is allocated to a model in this unit, provided this unit did not Remain Stationary in your previous turn, worsen the Armour Penetration characteristic of that attack by 1)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Battle Trait (Неуловимые(EVASIVE))  
+  ранг Обстреляный (Blooded rank), Battle Trait (Неуловимые(EVASIVE))  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Rough Rider Sergeant  
 - Lasgun (rapid fire 1; 24"; Atk 1; BS 4+; S 3; AP 0; D 1)
@@ -263,7 +265,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   Battle Trait (UNRELENTING; You can ignore any or all modifiers to this unit’s Move characteristic. In addition, each time this unit makes a Normal move, models in this unit can move through terrain, but if any do so, after this unit has moved, roll one D6: on a 1-3 this unit is Battle-shocked)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Командир - Иосиф "Эйс" Асеро, ранг Обстреляный (Blooded rank), Battle Trait ([Охотники на крупную дичь(BIG-GAME HUNTERS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Battle-Traits)), Battle Trait (Неотвратимый(UNRELENTING))  
+  ранг Закалённый (Battle-hardened), Battle Trait ([Охотники на крупную дичь(BIG-GAME HUNTERS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Battle-Traits)), Battle Trait (Неотвратимый(UNRELENTING))  
+  Командир - Иосиф "Эйс" Асеро  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Shadowsword  
 - Volcano cannon (blast, heavy; 96"; Atk D3+1; BS 4+; S 24; AP -5; D 12)
@@ -306,7 +309,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   Battle Trait (OLD GRUDGES; At the start of the battle, select one unit from your opponent’s army. Each time a model in this OFFICER’s unit makes an attack that targets that unit, you can re-roll the Hit roll)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, Deep Strike, FNP 6+, Темпестор Прайм - Аргантим Рекс, ранг Обстреляный (Blooded rank), Battle Trait ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits)), Battle Trait (Старые счёты(OLD GRUDGES))  
+  ранг Закалённый (Battle-hardened), Battle Trait ([Закалённые(GRIZZLED)](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Battle-Traits)), Battle Trait (Старые счёты(OLD GRUDGES))  
+  Character, Leader, Deep Strike, FNP 6+, Темпестор Прайм - Аргантим Рекс  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Tempestor Prime  
 <!-- Command Rod (While the bearer is leading a unit, that unit can be affected by up to two different Orders at the same time)-->
@@ -347,7 +351,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   Battle Trait (GUERRILLAS; In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6". If it does, until the end of the turn, this unit is not eligible to declare a charge unless it has the CAVALRY keyword)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Deep Strike, Battle Trait (Партизаны(GUERRILLAS))  
+  ранг Обстреляный (Blooded rank), Battle Trait (Партизаны(GUERRILLAS))  
+  Deep Strike  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Tempestor  
 - Plasma pistol – standard (pistol; 12"; Atk 1; BS 3+; S 7; AP -2; D 1)
