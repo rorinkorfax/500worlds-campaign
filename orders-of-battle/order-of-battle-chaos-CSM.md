@@ -1,10 +1,10 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Несущие Избавление**  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1200  
-<ins>Текущее Снабжение (Supply Used):</ins> 1190  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1400  
+<ins>Текущее Снабжение (Supply Used):</ins> 1350  
 <ins>Боевой Счёт (Battle Tally):</ins> 0  
 <ins>Счёт Побед:</ins> 0  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 4  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 3  
 <ins>Особые отметки:</ins>  
 **Чемпион Варбанды**: Маликор “Десница Резни” (Хаос 0)  
 **Треки Очков Хаоса:**  
@@ -23,6 +23,7 @@
 - Зверь Жеводана 4 ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend), 1 XP, 0 CP, 170 pts)
 - Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 1 XP, 1 CP, 110 pts)
 - Мессионер ([Chaos Rhino](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Rhino), 0 XP, 0 CP, 75 pts)
+- Облитераторы ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators), 0 XP, 0 CP, 160 pts)
 
 <ins>Журнал изменений Боевых Порядков:</ins>  
 - 2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
@@ -41,6 +42,8 @@
 *Хаос Чемпиона Варбанды:* +1 (Поражение D3=1)  
 Изменения по трекам Хаоса: Базово -1 все треки; Слава Боевого Флота +1 за -1 Хаос Чемпиона Варбанды  
 - 2026-05-24: Боевые Порядки используют реквизицию "Починка и восстановление" за 1 RP и снимают шрам с Арахножора (+1 СР)
+- 2026-05-25: Боевые Порядки используют реквизицию "Увеличение Снабжения"
+- 2026-05-25: Боевые Порядки добавляют в свои ряды отряд Облитераторов
 
 
 # Карточки отрядов
@@ -274,3 +277,23 @@
 - Combi-bolter (x2) (Rapid Fire 2; 24"; Atk 2; BS 3+; S 4; AP 0; D 1)
 - Havoc launcher (Blast; 48"; Atk D6; BS 3+; S 5; AP 0; D 1)
 - Armoured tracks (Melee; Atk 3; BS 3+; S 6; AP 0; D 1)
+
+## Облитераторы ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 160 (суммарно со всеми улучшениями)  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0  
+- количество победных сражений, в которых участвовал отряд = 0  
+- количество отрядов, уничтоженных данным отрядом = 0
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins> -  
+<ins>Состав и снаряжение отряда:</ins>  
+2 Obliterators  
+- Fleshmetal guns – focused malice (melta 2; 18"; Atk D3; BS 3+; S 12; AP -3; D 4)
+- Fleshmetal guns – ruinous salvo (blast;	24"; Atk D6; BS 3+; S 8; AP -2; D 2)
+- Fleshmetal guns – warp hail (sustained hits 1; 24"; Atk D6+3; BS 3+; S 5; AP -1; D 1)
+- Crushing fists (Melee; Atk 4; BS 3+; S 9; AP -2; D 2)
