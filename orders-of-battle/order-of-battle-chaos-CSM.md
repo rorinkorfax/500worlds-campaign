@@ -23,7 +23,7 @@
 - Зверь Жеводана 4 ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend), 1 XP, 0 CP, 170 pts)
 - Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 1 XP, 1 CP, 110 pts)
 - Мессионер ([Chaos Rhino](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Rhino), 0 XP, 0 CP, 75 pts)
-- Облитераторы ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators), 0 XP, 0 CP, 160 pts)
+- Поборники Осквернения ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators), 0 XP, 0 CP, 160 pts)
 
 <ins>Журнал изменений Боевых Порядков:</ins>  
 - 2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
@@ -43,7 +43,7 @@
 Изменения по трекам Хаоса: Базово -1 все треки; Слава Боевого Флота +1 за -1 Хаос Чемпиона Варбанды  
 - 2026-05-24: Боевые Порядки используют реквизицию "Починка и восстановление" за 1 RP и снимают шрам с Арахножора (+1 СР)
 - 2026-05-25: Боевые Порядки используют реквизицию "Увеличение Снабжения"
-- 2026-05-25: Боевые Порядки добавляют в свои ряды отряд Облитераторов
+- 2026-05-25: Боевые Порядки добавляют в свои ряды отряд Поборники Осквернения
 
 
 # Карточки отрядов
@@ -278,7 +278,7 @@
 - Havoc launcher (Blast; 48"; Atk D6; BS 3+; S 5; AP 0; D 1)
 - Armoured tracks (Melee; Atk 3; BS 3+; S 6; AP 0; D 1)
 
-## Облитераторы ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators))
+## Поборники Осквернения ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
