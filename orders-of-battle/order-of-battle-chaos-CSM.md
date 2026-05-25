@@ -6,41 +6,58 @@
 <ins>Счёт Побед:</ins> 0  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 4  
 <ins>Особые отметки:</ins>  
-<ins>Треки Очков Хаоса:</ins>  
-- PERSONAL GLORY (4)
-- DARK GOD GLORY (4)
-- WARFLEET GLORY (4) 
+**Чемпион Варбанды**: Маликор “Десница Резни” (Хаос 0)  
+**Треки Очков Хаоса:**  
+- Личная Слава (PERSONAL GLORY): 3
+- Слава Тёмных Богов (DARK GOD GLORY): 3
+- Слава Боевого Флота (WARFLEET GLORY): 4
 
-<ins>Список отрядов</ins>
-- Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord), WARBAND CHAMPION, 0 XP, 0 CP, 105 pts)
-- Дигрдар Векс ([Lord Discordant on Hellstalker](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker), 0 XP, 0 CP, 160 pts)
-- Ван Мор ([Warpsmith](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warpsmith), 0 XP, 0 CP, 105 pts)
-- Стервятники Коша ([Legionaries (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Legionaries), 0 XP, 0 CP, 90 pts)
+<ins>Список отрядов</ins>  
+- Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord), WARBAND CHAMPION, 1 XP, 0 CP, 105 pts)
+- Дигрдар Векс ([Lord Discordant on Hellstalker](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker), 5 XP, 0 CP, 160 pts)
+- Ван Мор ([Warpsmith](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warpsmith), 1 XP, 0 CP, 105 pts)
+- Стервятники Коша ([Legionaries (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Legionaries), 1 XP, 0 CP, 90 pts)
 - Кровавые охотники Сикста ([Chosen (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chosen), 0 XP, 0 CP, 125 pts)
-- Испепелители Солнц Варрона ([Havocs (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Havocs), 0 XP, 0 CP, 125 pts)
-- Хищники Имматериума ([Warp Talons (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warp-Talons), 0 XP, 0 CP, 125 pts)
-- Зверь Жеводана 4 ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend), 0 XP, 0 CP, 170 pts)
-- Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 0 XP, 0 CP, 110 pts)
+- Испепелители Солнц Варрона ([Havocs (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Havocs), 1 XP, 0 CP, 125 pts)
+- Хищники Имматериума ([Warp Talons (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warp-Talons), 1 XP, 0 CP, 125 pts)
+- Зверь Жеводана 4 ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend), 1 XP, 0 CP, 170 pts)
+- Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 1 XP, 1 CP, 110 pts)
 - Мессионер ([Chaos Rhino](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Rhino), 0 XP, 0 CP, 75 pts)
 
-<ins>Журнал изменений Боевых Порядков:</ins>    
+<ins>Журнал изменений Боевых Порядков:</ins>  
 - 2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
- 
+- 2026-05-24: Поражение от Тёмных Ангелов на Таркад Виндикс (Орбитальная бомбардировка)  
+*Боевые Задачи:* Путь к Славе (Path To Glory), Стратегическое Превосходство (Strategic Dominance)  
+**Маликор “Десница Резни”** +1 XP (Боевой опыт)  
+**Дигрдар Векс** +5 XP (Боевой опыт, Стратегическое Превосходство(1), Отмечен величием)  
+**Ван Мор** +1 XP (Боевой опыт)  
+**Стервятники Коша** +1 XP (Боевой опыт)  
+**Испепелители Солнц Варрона** +1 XP (Боевой опыт)  
+**Хищники Имматериума** +1 XP (Боевой опыт)  
+**Зверь Жеводана 4** +1 XP (Боевой опыт)  
+**Арахножор** +1 XP (Боевой опыт)  
+  Получен шрам (5) MARK OF SHAME  
+*Реквизиция:* +1 RP (Базовый)  
+*Хаос Чемпиона Варбанды:* +1 (Поражение D3=1)  
+Изменения по трекам Хаоса: Базово -1 все треки; Слава Боевого Флота +1 за -1 Хаос Чемпиона Варбанды  
+- 2026-05-24: Боевые Порядки используют реквизицию "Починка и восстановление" за 1 RP и снимают шрам с Арахножора (+1 СР)
+
+
 # Карточки отрядов
 ## Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
-<ins>Очки Хаоса (Chaos Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 105 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 0
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Очки Хаоса (Chaos Points): 0  
   Character, Leader, Warlord  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Chaos Lord  
@@ -48,15 +65,15 @@
 - Plasma pistol - supercharge (Hazardous, Pistol; 12"; Atk 1; BS 2+; S 8; AP -3; D 2)
 - Daemon hammer (devastating wounds; Melee; Atk 5; BS 3+; S 8; AP -2; D 2)
 
-##  Дигрдар Векс ([Lord Discordant on Hellstalker](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker))
-<ins>Опыт Отряда (XP):</ins> 0  
+## Дигрдар Векс ([Lord Discordant on Hellstalker](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker))
+<ins>Опыт Отряда (XP):</ins> 5  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 160 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -71,12 +88,12 @@
 - Impaler chainglaive (Lance, Melee; Atk 5; BS 2+; S 8; AP -3; D 3)  
 
 ## Ван Мор ([Warpsmith](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warpsmith))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 105 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 0
 
@@ -93,14 +110,14 @@
 - Forge weapon (Anti-VEHICLE 4+, Melee; Atk 4; WS 3+; S 6; AP -2; D 2)
 
 ## Стервятники Коша ([Legionaries](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Legionaries))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 90 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -160,12 +177,12 @@
 - Paired Accursed weapon (Twin-linked; Melee; Atk 5; WS 3+; S 5; AP -2; D 1
 
 ## Испепелители Солнц Варрона ([Havocs](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Havocs))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 125 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 0
 
@@ -183,12 +200,12 @@
 - Close combat weapon (Melee; Atk 3; WS 3+; S 4; AP 0; D 1)
 
 ## Хищники Имматериума ([Warp Talons](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warp-Talons))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 125 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 0
 
@@ -203,12 +220,12 @@
 - Warp claws (Twin-linked; Melee; Atk 4; WS 3+; S 5; AP -2; D 1)
 
 ## Зверь Жеводана 4 ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 170 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 0
 
@@ -221,18 +238,19 @@
 - Armoured limbs (Melee; Atk 2; WS 3+; S 6; AP 0; D 2)
 
 ## Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler))
-<ins>Опыт Отряда (XP):</ins> 0  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 170 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 0
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Снят шрам Угнетение (MARK OF SHAME) за реквизицию "Починка и восстановление"  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Forgefiend  
 - Excruciator cannon (x2) (36"; Atk 6; BS 3+; S 6; AP -1; D 2)
