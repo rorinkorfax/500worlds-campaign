@@ -1,10 +1,10 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Культ Бессеребряников**  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1200  
-<ins>Текущее Снабжение (Supply Used):</ins> 1185  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1600  
+<ins>Текущее Снабжение (Supply Used):</ins> 1545  
 <ins>Боевой Счёт (Battle Tally):</ins> 3  
 <ins>Счёт Побед:</ins> 2  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 6  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
 <ins>Особые отметки:<ins> -  
 
 <ins>Список отрядов</ins>
@@ -12,13 +12,14 @@
 - Меднохват ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 27 XP, 2 CP, 105)
 - Счетовод ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 18 XP, 2 CP, 85)
 - Носители Мер ([Rubric Marines](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Rubric-Marines), 5 XP, 0 CP, 100)
-- Хранители Дани ([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 12 XP, 1 CP, 180)
+- Хранители Дани ([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 12 XP, 1 CP, 360)
 - Коллегия Транспорта ([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 20 XP, 2 CP, 180)
 - Сияние Металлов ([Mutalith Vortex Beast](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Mutalith-Vortex-Beast), 6 XP, 1 CP, 170)
 - Глашатаи Мытарства ([Tzaangor Enlightened with Fatecaster Greatbows](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangor-Enlightened-with-Fatecaster-Greatbows), 7 XP, 1 CP, 55)
 - Носильщики ([Tzaangors](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangors), 0 XP, 0 CP, 70)
 - Первая Санкция ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Forgefiend), 0 XP, 0 CP, 130)
 - Надсмотрщики Хранилищ ([Tzaangor Enlightened](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangor-Enlightened), 0 XP, 0 CP, 45)
+- Вестовые ([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 0 XP, 0 CP, 180)
 
 <ins>Журнал изменений Боевых Порядков:</ins>  
 - 2026-05-02: При создании Боевых Порядков за 1 RP взята реквизиция "Почитаемые Герои" для Меднохват - получено постоянное улучшение Umbralefic Crystal из детача Grand Coven.  
@@ -77,7 +78,11 @@
 - 2026-05-23: Счетовод получает ранг Закалённый; получена Награда отряда - Дары Тзинча(Boons of Tzeentch, 31, Шагающий чрез варп(Warp Strider))  
 - 2026-05-23: Коллегия Транспорта получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Оккультные явления(OCCULT APPARITIONS))  
 - 2026-05-23: Глашатаи Мытарства получают ранг Обстреляный; получена Награда отряда - Боевая Особенность (Кавалерийский авангард(CAVALRY OUTRIDERS))  
-- 2026-05-23: Боевые Порядки используют реквизицию "[Призыв Архитектора Судеб (INVOKE THE ARCHITECT OF FATE)](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Requisitions)" для Меднохвата (-3 Знания; +2 Магия, +3 ХР)  
+- 2026-05-23: Боевые Порядки используют реквизицию "[Призыв Архитектора Судеб (INVOKE THE ARCHITECT OF FATE)](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Requisitions)" для Меднохвата (-3 Знания; +2 Магия, +3 ХР)
+- 2026-05-26: Боевые Порядки используют реквизицию "Увеличение Снабжения"
+- 2026-05-26: Боевые Порядки используют реквизицию "Увеличение Снабжения"
+- 2026-05-26: Боевые Порядки используют реквизицию "Свежие рекруты", расширяя Хранителей дани (2 RP; +5 моделей)
+- 2026-05-26: В Боевые Порядки добавляется новый отряд "Вестовые"
 
 # Карточки отрядов
 ## Златолив (Infernal Master)
@@ -89,15 +94,15 @@
 - количество сражений, в которых участвовал отряд = 3
 - количество победных сражений, в которых участвовал отряд = 2
 - количество отрядов, уничтоженных данным отрядом = 3  
-- Культ Пророчеств(AELEMENTUS)
-- Очки Знаний: 3
-- Очки Магии: 3
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability instead)  
   Battle Honour (Empyric Portents; In the Determine Attacker and Defender step, if your Crusade army includes one or more models with this reward, do not roll off to determine the Attacker and Defender. Instead, you choose whether you will be the Attacker or Defender (if your opponent has a rule to the same effect, roll off as normal))  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Культ Пророчеств(AELEMENTUS)  
+  Очки Знаний: 1  
+  Очки Магии: 2  
   Снят шрам (не роллился, сброшен сразу)  
   ранг AELEMENTUS (Battle Honour(Empyric Portents))  
   ранг Обстреляный (Blooded rank), Battle Trait (Суровые выжившие(GRIM SURVIVORS))  
@@ -118,15 +123,15 @@
 - количество сражений, в которых участвовал отряд = 3
 - количество победных сражений, в которых участвовал отряд = 2
 - количество отрядов, уничтоженных данным отрядом = 5  
-- Культ Магии(без ранга)
-- Очки Знаний: 2
-- Очки Магии: 2
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Crusade Relic(PERFIDIOUS TOME; Each time the bearer Channels the Warp, before rolling the additional D6, the bearer can use this Crusade Relic. If it does, take a Battle-shock test for the bearer: if that test is passed, the bearer gains 1 Lore point and that additional D6 is automatically an unmodified 6; otherwise, the Ritual being attempted fails)  
   Crusade Relic(STRATEGIC LAURELS; At the start of your first Command phase, if the bearer is on the battlefield, you gain 1CP. At the end of the battle, if the bearer is on the battlefield, you gain 1 RP)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Культ Магии(без ранга)  
+  Очки Знаний: 2  
+  Очки Магии: 2  
   ранг Закалённый (Battle-hardened), Crusade Relic(Вероломный том(PERFIDIOUS TOME)), Crusade Relic(Лавры стратега(STRATEGIC LAURELS))  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
@@ -145,15 +150,15 @@
 - количество сражений, в которых участвовал отряд = 3
 - количество победных сражений, в которых участвовал отряд = 2
 - количество отрядов, уничтоженных данным отрядом = 5  
-- Культ Времени(без ранга)
-- Очки Знаний: 0
-- Очки Магии: 0
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability instead)  
   Дары Тзинча - Шагающий чрез варп (Boons of Tzeentch, 31, Шагающий чрез варп(Warp Strider); Add 1" to the Move characteristic of models in this model’s unit, and each time a model in this model’s unit makes a Normal, Advance, Fall Back or Charge move, it can move horizontally through models and terrain features. If this model is wholly within your opponent’s deployment zone at the end of the battle, roll one D6: on a 4+, this model gains 1 Arcana point)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Культ Времени(без ранга)  
+  Очки Знаний: 0  
+  Очки Магии: 0  
   ранг Закалённый (Battle-hardened), Battle Trait (Суровые выжившие(GRIM SURVIVORS)), Boons of Tzeentch(Шагающий чрез варп(Warp Strider))  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
@@ -196,7 +201,7 @@
 <ins>Опыт Отряда (XP):</ins> 12  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
-<ins>Общая стоимость отряда:</ins> 180  
+<ins>Общая стоимость отряда:</ins> 360  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 3
 - количество победных сражений, в которых участвовал отряд = 2
@@ -213,12 +218,12 @@
 - Inferno combi-bolter (rapid fire(2), 24", Atk 2; BS 3+; S 4; AP -2; D 1)
 - Force weapon (Melee psychic; Atk 4; WS 3+; S 6; AP -1; D d3)
 
-1 Scarab Occult Terminator-Soulreaper cannon-Hellfyre missile rack
+2 Scarab Occult Terminator-Soulreaper cannon-Hellfyre missile rack
 - Hellfyre missile rack (36", Atk 2; BS 3+; S 10; AP -2; D 3)
 - Soulreaper cannon (devastating wounds, 24", Atk 6; BS 3+; S 6; AP -2; D 1)
 - Prosperine khopesh (Melee; Atk 3; WS 3+; S 5; AP -2; D 2)
 
-3 Scarab Occult Terminator
+7 Scarab Occult Terminator
 - Inferno combi-bolter (rapid fire(2), 24", Atk 2; BS 3+; S 4; AP -2; D 1)
 - Prosperine khopesh (Melee; Atk 3; WS 3+; S 5; AP -2; D 2)
 
@@ -266,7 +271,7 @@
 - количество отрядов, уничтоженных данным отрядом = 0  
 
 <ins>Награды отряда (Battle Honours):</ins>  
-  Weapon Modifications - Warp vortex(FINELY BALANCED: +1 BS; HEIRLOOM: +1 Atk)
+  Weapon Modifications - Warp vortex(FINELY BALANCED: +1 BS; HEIRLOOM: +1 Atk)  
 <ins>Шрамы Отряда (Battle Scars):</ins>  
   Утомлённый (FATIGUED; Subtract 1 from the Objective Control characteristic of models in this unit and this unit never receives a Charge bonus)  
 <ins>Особые отметки:</ins>  
@@ -365,3 +370,31 @@ Close combat weapon (Melee; Atk 2; WS 4+; S 4; AP 0; D 1)
 
 2 Enlightened  
 - Divining spear (lance, precision; Melee; Atk 3; WS 4+; S 5; AP -1; D 2)  
+
+## Вестовые (Scarab Occult Terminators)
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 180  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
+- количество отрядов, уничтоженных данным отрядом = 0  
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins> -  
+<ins>Состав и снаряжение отряда:</ins>  
+1 Scarab Occult Sorcerer
+- Malefic Curse (anti-infantry 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 1)
+- Inferno combi-bolter (rapid fire(2), 24", Atk 2; BS 3+; S 4; AP -2; D 1)
+- Force weapon (Melee psychic; Atk 4; WS 3+; S 6; AP -1; D d3)
+
+1 Scarab Occult Terminator-Soulreaper cannon-Hellfyre missile rack
+- Hellfyre missile rack (36", Atk 2; BS 3+; S 10; AP -2; D 3)
+- Soulreaper cannon (devastating wounds, 24", Atk 6; BS 3+; S 6; AP -2; D 1)
+- Prosperine khopesh (Melee; Atk 3; WS 3+; S 5; AP -2; D 2)
+
+3 Scarab Occult Terminator
+- Inferno combi-bolter (rapid fire(2), 24", Atk 2; BS 3+; S 4; AP -2; D 1)
+- Prosperine khopesh (Melee; Atk 3; WS 3+; S 5; AP -2; D 2)
