@@ -93,9 +93,10 @@
 - Очки Магии: 3
 
 <ins>Награды отряда (Battle Honours):</ins>  
-  Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability 
+  Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability instead)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  Снят шрам (не роллился, сброшен сразу)
   ранг Обстреляный (Blooded rank), Battle Trait (Суровые выжившие(GRIM SURVIVORS))  
   Character, Leader, Warlord  
 <ins>Состав и снаряжение отряда:</ins>  
@@ -234,7 +235,7 @@
   Battle Trait (OCCULT APPARITIONS; While there are one or more PSYKER models in this unit, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  ранг Закалённый (Battle-hardened), Battle Trait (Неумолимая целеустремлённость(RELENTLESS PURPOSE)), Battle Trait (Оккультные явления(OCCULT APPARITIONS))
+  ранг Закалённый (Battle-hardened), Battle Trait (Неумолимая целеустремлённость(RELENTLESS PURPOSE)), Battle Trait (Оккультные явления(OCCULT APPARITIONS))  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Scarab Occult Sorcerer
 - Malefic Curse (anti-infantry 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 1)
@@ -263,14 +264,15 @@
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Weapon Modifications - Warp vortex(FINELY BALANCED: +1 BS; HEIRLOOM: +1 Atk)
-<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins>  
+  Утомлённый (FATIGUED; Subtract 1 from the Objective Control characteristic of models in this unit and this unit never receives a Charge bonus)
 <ins>Особые отметки:</ins>  
   ранг Обстреляный (Blooded rank), Weapon Modifications - Warp vortex(FINELY BALANCED; HEIRLOOM)
 <ins>Состав и снаряжение отряда:</ins>  
 1 Mutalith Vortex Beast  
-Warp vortex – blast (blast 24", Atk d6+3; BS 3+; S 9; AP -2; D 2)
-Warp vortex – beam (devastating wounds 36", Atk 1; BS 3+; S 18; AP -3; D d6+6)
-Warp vortex – torrent (ignores cover torrent 18", Atk 2d6; BS N/A; S 6; AP -1; D 1)
+Warp vortex – blast (blast 24", Atk d6+4; BS 2+; S 9; AP -2; D 2)
+Warp vortex – beam (devastating wounds 36", Atk 2; BS 2+; S 18; AP -3; D d6+6)
+Warp vortex – torrent (ignores cover torrent 18", Atk 2d6+1; BS N/A; S 6; AP -1; D 1)
 Betentacled maw (Melee; Atk 15; WS 3+; S 7; AP 0; D 1)
 Mutalith claws (Melee; Atk 5; WS 3+; S 10; AP -2; D 3)
 
