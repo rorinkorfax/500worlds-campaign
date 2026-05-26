@@ -22,7 +22,7 @@
 - Ткачи Туманов ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 1 XP, 0 CP, 95 pts)
 - Ткачи Ветров ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 1 XP, 0 CP, 95 pts)
 - Ткачи Вихрей ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 0 XP, 0 CP, 95 pts)
-- Ткач Светил ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 1 XP, 1 CP, 80 pts)
+- Ткач Светил ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 1 XP, 0 CP, 80 pts)
 - Ткач Пульсаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 1 XP, 0 CP, 80 pts)
 - Ткач Пустоты ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver), 1 XP, 0 CP, 125 pts)
 
@@ -254,7 +254,7 @@
 
 ## Ткач Светил ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver))
 <ins>Опыт Отряда (XP):</ins> 1  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 80 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
