@@ -21,7 +21,7 @@
 - Испепелители Солнц Варрона ([Havocs (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Havocs), 1 XP, 0 CP, 125 pts)
 - Хищники Имматериума ([Warp Talons (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warp-Talons), 1 XP, 0 CP, 125 pts)
 - Зверь Жеводана 4 ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend), 1 XP, 0 CP, 170 pts)
-- Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 1 XP, 1 CP, 110 pts)
+- Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 1 XP, 0 CP, 110 pts)
 - Мессионер ([Chaos Rhino](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Rhino), 0 XP, 0 CP, 75 pts)
 - Поборники Осквернения ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators), 0 XP, 0 CP, 160 pts)
 
@@ -242,7 +242,7 @@
 
 ## Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler))
 <ins>Опыт Отряда (XP):</ins> 1  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 170 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
