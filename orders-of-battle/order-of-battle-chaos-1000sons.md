@@ -4,16 +4,16 @@
 <ins>Текущее Снабжение (Supply Used):</ins> 1185  
 <ins>Боевой Счёт (Battle Tally):</ins> 3  
 <ins>Счёт Побед:</ins> 2  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 4?  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 6  
 <ins>Особые отметки:<ins> -  
 
 <ins>Список отрядов</ins>
 - Златолив ([Infernal Master](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Infernal-Master), Warlord, 13 XP, 3 CP, 110)
-- Меднохват ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 24 XP, 2 CP, 105)
+- Меднохват ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 27 XP, 2 CP, 105)
 - Счетовод ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 18 XP, 2 CP, 85)
 - Носители Мер ([Rubric Marines](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Rubric-Marines), 5 XP, 0 CP, 100)
-- Хранители Дани([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 12 XP, 1 CP, 180)
-- Коллегия Транспорта([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 20 XP, 2 CP, 180)
+- Хранители Дани ([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 12 XP, 1 CP, 180)
+- Коллегия Транспорта ([Scarab Occult Terminators](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Scarab-Occult-Terminators), 20 XP, 2 CP, 180)
 - Сияние Металлов ([Mutalith Vortex Beast](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Mutalith-Vortex-Beast), 6 XP, 1 CP, 170)
 - Глашатаи Мытарства ([Tzaangor Enlightened with Fatecaster Greatbows](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangor-Enlightened-with-Fatecaster-Greatbows), 7 XP, 1 CP, 55)
 - Носильщики ([Tzaangors](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Tzaangors), 0 XP, 0 CP, 70)
@@ -55,6 +55,7 @@
 **Носители Мер** +1 XP (Боевой опыт)  
 *Реквизиция:* +2 RP (База, Обезглавливание(убит WARLORD))  
 - 2026-05-23: Златолив получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
+- 2026-05-23: Коллегия Транспорта получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Неумолимая целеустремлённость(RELENTLESS PURPOSE))
 - 2026-05-23: Боевые Порядки используют реквизицию "Починка и восстановление" за 2 RP и снимают шрам с Златолива (+1 CP) 
 - 2026-05-23: Боевые Порядки используют реквизицию "[Дьявольский ритуал](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Diabolic-Rituals)" для Златолива (0 RP за успешное Колдовское Мастерство, -1 Магия, -2 Знания) - получен ранг AELEMENTUS (Battle Honour(Empyric Portents), +1 CP)  
 - 2026-05-23: Победа над орочьим Ваагх! "Стреляки-Вороваки" на Криндаэре (Абордаж)  
@@ -70,35 +71,32 @@
 **Глашатаи Мытарства** +3 XP (Боевой опыт, Обезглавливание(убит CHARACTER))  
 **Носители Мер** +4 XP (Боевой опыт, Отмечен величием)  
 *Реквизиция:* +2 RP (База, Обезглавливание(убит WARLORD))  
-- 2026-05-23: Меднохват получает ранг Закалённый; получена Награда отряда - Реликвия (Лавры стратега(STRATEGIC LAURELS))  
-- 2026-05-23: Счетовод получает ранг Закалённый; получена Награда отряда - Реликвия (Дары Тзинча(Boons of Tzeentch) - ??)  
-> [!CAUTION]
-> Дары Тзинча(Boons of Tzeentch) - бросить в ТГ!
+- 2026-05-23: Меднохват получает ранг Закалённый; получена Награда отряда - Реликвия (Лавры стратега(STRATEGIC LAURELS))
+- 2026-05-23: Сияние Металлов  получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - Warp vortex(FINELY BALANCED; HEIRLOOM))
+- 2026-05-23: Счетовод получает ранг Закалённый; получена Награда отряда - Дары Тзинча(Boons of Tzeentch, 31, Шагающий чрез варп(Warp Strider))  
 - 2026-05-23: Коллегия Транспорта получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Оккультные явления(OCCULT APPARITIONS))  
 - 2026-05-23: Глашатаи Мытарства получают ранг Обстреляный; получена Награда отряда - Боевая Особенность (Кавалерийский авангард(CAVALRY OUTRIDERS))  
-- 2026-05-23: Боевые Порядки используют реквизицию "[Призыв Архитектора Судеб (INVOKE THE ARCHITECT OF FATE)](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Requisitions)" на Меднохвата - ??  
-> [!CAUTION]
-> Призыв Архитектора Судеб (INVOKE THE ARCHITECT OF FATE) - бросить в ТГ!  
-> Повлияет на Дьявольский ритуал за ним и к-во RP  
-- 2026-05-23: Боевые Порядки используют реквизицию "[Дьявольский ритуал](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Diabolic-Rituals)" для Меднохвата - ??  
+- 2026-05-23: Боевые Порядки используют реквизицию "[Призыв Архитектора Судеб (INVOKE THE ARCHITECT OF FATE)](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Requisitions)" для Меднохвата (-3 Знания; +2 Магия, +3 ХР)  
 
 # Карточки отрядов
 ## Златолив (Infernal Master)
-<ins>Опыт Отряда (XP):</ins> 1  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 13  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 3  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 110  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1
-- количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 0  
+- количество сражений, в которых участвовал отряд = 3
+- количество победных сражений, в которых участвовал отряд = 2
+- количество отрядов, уничтоженных данным отрядом = 3  
 - Культ Пророчеств(без ранга)
-- Очки Знаний: 1
-- Очки Магии: 1
+- Очки Знаний: 3
+- Очки Магии: 3
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability 
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  ранг Обстреляный (Blooded rank), Battle Trait (Суровые выжившие(GRIM SURVIVORS))  
   Character, Leader, Warlord  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Infernal Master
@@ -108,23 +106,25 @@
 - Force weapon (Melee psychic; Atk 4; WS 3+; S 6; AP -1; D d3)
 
 ## Меднохват (Sorcerer In Terminator Armour)
-<ins>Опыт Отряда (XP):</ins> 7  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 27  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 2  
 <ins>Улучшения отряда:</ins> Umbralefic Crystal (+20 pts; Once per battle, in your Command phase, if the bearer’s unit is not within Engagement Range of one or more enemy units, you can remove that unit from the battlefield and place it into Strategic Reserves. In the Reinforcements step of your next Movement phase, set that unit back up anywhere on the battlefield that is more than 9" horizontally away from all enemy units.)  
 <ins>Общая стоимость отряда:</ins> 105  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1
-- количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 1  
+- количество сражений, в которых участвовал отряд = 3
+- количество победных сражений, в которых участвовал отряд = 2
+- количество отрядов, уничтоженных данным отрядом = 5  
 - Культ Магии(без ранга)
-- Очки Знаний: 0
-- Очки Магии: 0
+- Очки Знаний: 1
+- Очки Магии: 2
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Crusade Relic(PERFIDIOUS TOME; Each time the bearer Channels the Warp, before rolling the additional D6, the bearer can use this Crusade Relic. If it does, take a Battle-shock test for the bearer: if that test is passed, the bearer gains 1 Lore point and that additional D6 is automatically an unmodified 6; otherwise, the Ritual being attempted fails)  
+  Crusade Relic(STRATEGIC LAURELS; At the start of your first Command phase, if the bearer is on the battlefield, you gain 1CP. At the end of the battle, if the bearer is on the battlefield, you gain 1 RP)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, ранг Обстреляный (Blooded rank), Crusade Relic(Вероломный том(PERFIDIOUS TOME))  
+  ранг Закалённый (Battle-hardened), Crusade Relic(Вероломный том(PERFIDIOUS TOME)), Crusade Relic(Лавры стратега(STRATEGIC LAURELS))  
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Sorcerer In Terminator Armour
 - Gaze of Hate (anti-monster 4+ anti-vehicle 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 2)
@@ -133,23 +133,25 @@
 
 
 ## Счетовод (Sorcerer In Terminator Armour)
-<ins>Опыт Отряда (XP):</ins> 7  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 18  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 2  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 105  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1
-- количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 3  
+- количество сражений, в которых участвовал отряд = 3
+- количество победных сражений, в которых участвовал отряд = 2
+- количество отрядов, уничтоженных данным отрядом = 5  
 - Культ Времени(без ранга)
 - Очки Знаний: 0
 - Очки Магии: 0
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability instead)  
+  Дары Тзинча - Шагающий чрез варп (Boons of Tzeentch, 31, Шагающий чрез варп(Warp Strider); Add 1" to the Move characteristic of models in this model’s unit, and each time a model in this model’s unit makes a Normal, Advance, Fall Back or Charge move, it can move horizontally through models and terrain features. If this model is wholly within your opponent’s deployment zone at the end of the battle, roll one D6: on a 4+, this model gains 1 Arcana point)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Leader, ранг Обстреляный (Blooded rank), Battle Trait (Суровые выжившие(GRIM SURVIVORS))  
+  ранг Закалённый (Battle-hardened), Battle Trait (Суровые выжившие(GRIM SURVIVORS)), Boons of Tzeentch(Шагающий чрез варп(Warp Strider))  
+  Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Sorcerer In Terminator Armour
 - Gaze of Hate (anti-monster 4+ anti-vehicle 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 2)
@@ -158,13 +160,13 @@
 
 
 ## Носители Мер (Rubric Marines)
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 5  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 100  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 0
-- количество победных сражений, в которых участвовал отряд = 0
+- количество сражений, в которых участвовал отряд = 2
+- количество победных сражений, в которых участвовал отряд = 2
 - количество отрядов, уничтоженных данным отрядом = 0  
 
 <ins>Награды отряда (Battle Honours):</ins> -  
@@ -187,14 +189,14 @@
 
 
 ## Хранители Дани (Scarab Occult Terminators)
-<ins>Опыт Отряда (XP):</ins> 7  
+<ins>Опыт Отряда (XP):</ins> 12  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 180  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1
-- количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 3  
+- количество сражений, в которых участвовал отряд = 3
+- количество победных сражений, в которых участвовал отряд = 2
+- количество отрядов, уничтоженных данным отрядом = 4  
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability instead)  
@@ -218,18 +220,21 @@
 
 
 ## Коллегия Транспорта (Scarab Occult Terminators)
-<ins>Опыт Отряда (XP):</ins> 1  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 20  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 2  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 180  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1
-- количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 1  
+- количество сражений, в которых участвовал отряд = 3
+- количество победных сражений, в которых участвовал отряд = 2
+- количество отрядов, уничтоженных данным отрядом = 4  
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>
+  Battle Trait (RELENTLESS PURPOSE; Ranged weapons equipped by models in this unit have the [assault] ability)  
+  Battle Trait (OCCULT APPARITIONS; While there are one or more PSYKER models in this unit, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  ранг Закалённый (Battle-hardened), Battle Trait (Неумолимая целеустремлённость(RELENTLESS PURPOSE)), Battle Trait (Оккультные явления(OCCULT APPARITIONS))
 <ins>Состав и снаряжение отряда:</ins>  
 1 Scarab Occult Sorcerer
 - Malefic Curse (anti-infantry 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 1)
@@ -247,20 +252,22 @@
 
 
 ## Сияние Металлов (Mutalith Vortex Beast)
-Опыт Отряда (XP):</ins> 1  
-Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+Опыт Отряда (XP):</ins> 6  
+Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 Улучшения отряда:</ins> -  
 Общая стоимость отряда:</ins> 170  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1
-- количество победных сражений, в которых участвовал отряд = 0
+- количество сражений, в которых участвовал отряд = 3
+- количество победных сражений, в которых участвовал отряд = 2
 - количество отрядов, уничтоженных данным отрядом = 0  
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Weapon Modifications - Warp vortex(FINELY BALANCED: +1 BS; HEIRLOOM: +1 Atk)
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  ранг Обстреляный (Blooded rank), Weapon Modifications - Warp vortex(FINELY BALANCED; HEIRLOOM)
 <ins>Состав и снаряжение отряда:</ins>  
-1 Mutalith Vortex Beast
+1 Mutalith Vortex Beast  
 Warp vortex – blast (blast 24", Atk d6+3; BS 3+; S 9; AP -2; D 2)
 Warp vortex – beam (devastating wounds 36", Atk 1; BS 3+; S 18; AP -3; D d6+6)
 Warp vortex – torrent (ignores cover torrent 18", Atk 2d6; BS N/A; S 6; AP -1; D 1)
@@ -269,18 +276,20 @@ Mutalith claws (Melee; Atk 5; WS 3+; S 10; AP -2; D 3)
 
 
 ## Глашатаи Мытарства (Tzaangor Enlightened with Fatecaster Greatbows)
-Опыт Отряда (XP):</ins> 1  
-Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+Опыт Отряда (XP):</ins> 7  
+Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 Улучшения отряда:</ins> -  
 Общая стоимость отряда:</ins> 55  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1
-- количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 0  
+- количество сражений, в которых участвовал отряд = 3
+- количество победных сражений, в которых участвовал отряд = 2
+- количество отрядов, уничтоженных данным отрядом = 2  
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Battle Trait (CAVALRY OUTRIDERS; This unit has the Scouts 6" ability)
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  ранг Обстреляный(Bloodied); Battle Trait (Кавалерийский авангард(CAVALRY OUTRIDERS))  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Aviarch, 2 Enlightened
 Fatecaster greatbow (ignores cover lethal hits precision 30", Atk 2; BS 4+; S 5; AP -2; D 2)
