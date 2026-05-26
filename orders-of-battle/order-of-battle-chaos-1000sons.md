@@ -8,7 +8,7 @@
 <ins>Особые отметки:<ins> -  
 
 <ins>Список отрядов</ins>
-- Златолив ([Infernal Master](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Infernal-Master), Warlord, 13 XP, 3 CP, 110)
+- Златолив ([Infernal Master](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Infernal-Master), Warlord, 13 XP, 2 CP, 110)
 - Меднохват ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 27 XP, 2 CP, 105)
 - Счетовод ([Sorcerer In Terminator Armour](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Sorcerer-In-Terminator-Armour), 18 XP, 2 CP, 85)
 - Носители Мер ([Rubric Marines](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/Rubric-Marines), 5 XP, 0 CP, 100)
@@ -34,7 +34,7 @@
 **Сияние Металлов** +1 XP (Боевой опыт)  
 **Глашатаи Мытарства** +1 XP (Боевой опыт)  
 **Свита Весов** +1 XP (Боевой опыт)  
-  Получен шрам (6) PRECISE  
+  Получен шрам (6) PRECISE (-1 CP)  
 *Реквизиция:* +2 RP (База, Обезглавливание(убит WARLORD))  
 - 2026-05-20: Меднохват получает ранг Обстреляный; получена Награда отряда - Реликвия (Вероломный том(PERFIDIOUS TOME))
 - 2026-05-20: Счетовод получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
@@ -43,20 +43,21 @@
 - 2026-05-23: Победа над орочьим Ваагх! "Стреляки-Вороваки" на Криндаэре (Орбитальная бомбардировка)  
 *Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Колдовское Мастерство (SORCEROUS PROWESS)  
 **Златолив** +5 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Колдовское Мастерство(отряд уничтожен Psychic атакой))  
-  Пройдена проверка "Заговоры и Схемы" (+1 Арканы, +1 Знания)  
+  Пройдена проверка "Заговоры и Схемы" (+1 Арканы, +1 Знания)
+  Получает шрам (не роллился, снят сразу после боя реквизицией; -1 CP)  
 **Меднохват** +6 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Колдовское Мастерство(отряд уничтожен Psychic атакой), Торговцы Смертью(убито 3 отряда))  
-  PERFIDIOUS TOME (+2 Знания)  
+  PERFIDIOUS TOME (+3 Знания)  
 **Счетовод** +5 XP (Боевой опыт, Обезглавливание(убит CHARACTER), Колдовское Мастерство(отряд уничтожен Psychic атакой), Торговцы Смертью(убито 3 отряда))  
 **Коллегия Транспорта** +12 XP (Боевой опыт, Обезглавливание(убиты 2х EPIC HERO), Колдовское Мастерство(отряд уничтожен Psychic атакой), Торговцы Смертью(убито 3 отряда))  
 **Хранители Дани** +3 XP (Боевой опыт, Колдовское Мастерство(отряд уничтожен не Psychic атакой), Торговцы Смертью(убито 3 отряда))  
 **Сияние Металлов** +4 XP (Боевой опыт, Отмечен величием)  
-  Получен шрам (3) FATIGUED  
+  Получен шрам (3) FATIGUED (-1 CP)  
 **Глашатаи Мытарства** +3 XP (Боевой опыт, Обезглавливание(убит CHARACTER))  
 **Носители Мер** +1 XP (Боевой опыт)  
 *Реквизиция:* +2 RP (База, Обезглавливание(убит WARLORD))  
 - 2026-05-23: Златолив получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
 - 2026-05-23: Коллегия Транспорта получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Неумолимая целеустремлённость(RELENTLESS PURPOSE))
-- 2026-05-23: Боевые Порядки используют реквизицию "Починка и восстановление" за 2 RP и снимают шрам с Златолива (+1 CP) 
+- 2026-05-23: Боевые Порядки используют реквизицию "Починка и восстановление" за 2 RP и снимают шрам с Златолива (+1 CP)  
 - 2026-05-23: Боевые Порядки используют реквизицию "[Дьявольский ритуал](https://wahapedia.ru/wh40k10ed/factions/thousand-sons/#Diabolic-Rituals)" для Златолива (0 RP за успешное Колдовское Мастерство, -1 Магия, -2 Знания) - получен ранг AELEMENTUS (Battle Honour(Empyric Portents), +1 CP)  
 - 2026-05-23: Победа над орочьим Ваагх! "Стреляки-Вороваки" на Криндаэре (Абордаж)  
 *Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Колдовское Мастерство (SORCEROUS PROWESS)  
@@ -81,26 +82,28 @@
 # Карточки отрядов
 ## Златолив (Infernal Master)
 <ins>Опыт Отряда (XP):</ins> 13  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 3  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 2  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 110  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 3
 - количество победных сражений, в которых участвовал отряд = 2
 - количество отрядов, уничтоженных данным отрядом = 3  
-- Культ Пророчеств(без ранга)
+- Культ Пророчеств(AELEMENTUS)
 - Очки Знаний: 3
 - Очки Магии: 3
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GRIM SURVIVORS; Once per battle, at the start of any phase, this unit can use this Battle Trait. If it does, until the end of the phase, models in this unit have the Feel No Pain 5+ ability. If this unit is Below Half-strength when this Battle Trait is used, then until the end of the phase, models in this unit have the Feel No Pain 4+ ability instead)  
+  Battle Honour (Empyric Portents; In the Determine Attacker and Defender step, if your Crusade army includes one or more models with this reward, do not roll off to determine the Attacker and Defender. Instead, you choose whether you will be the Attacker or Defender (if your opponent has a rule to the same effect, roll off as normal))  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Снят шрам (не роллился, сброшен сразу)
+  Снят шрам (не роллился, сброшен сразу)  
+  ранг AELEMENTUS (Battle Honour(Empyric Portents))  
   ранг Обстреляный (Blooded rank), Battle Trait (Суровые выжившие(GRIM SURVIVORS))  
   Character, Leader, Warlord  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Infernal Master
+1 Infernal Master  
 - Fires of the Abyss – witchfire (psychic torrent, 18", Atk d6; BS N/A; S 6; AP -2; D 1)
 - Fires of the Abyss – focused witchfire (psychic torrent hazardous, 18", Atk 2d6; BS N/A; S 6; AP -2; D 1)
 - Inferno bolt pistol (pistol, 12", Atk 1; BS 2+; S 4; AP -1; D 1)
@@ -116,7 +119,7 @@
 - количество победных сражений, в которых участвовал отряд = 2
 - количество отрядов, уничтоженных данным отрядом = 5  
 - Культ Магии(без ранга)
-- Очки Знаний: 1
+- Очки Знаний: 2
 - Очки Магии: 2
 
 <ins>Награды отряда (Battle Honours):</ins>  
@@ -127,7 +130,7 @@
   ранг Закалённый (Battle-hardened), Crusade Relic(Вероломный том(PERFIDIOUS TOME)), Crusade Relic(Лавры стратега(STRATEGIC LAURELS))  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Sorcerer In Terminator Armour
+1 Sorcerer In Terminator Armour  
 - Gaze of Hate (anti-monster 4+ anti-vehicle 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 2)
 - Inferno combi-bolter (rapid fire(2), 24", Atk 2; BS 3+; S 4; AP -2; D 1)
 - Force weapon (Melee psychic; Atk 5; WS 3+; S 6; AP -1; D d3)
@@ -154,7 +157,7 @@
   ранг Закалённый (Battle-hardened), Battle Trait (Суровые выжившие(GRIM SURVIVORS)), Boons of Tzeentch(Шагающий чрез варп(Warp Strider))  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Sorcerer In Terminator Armour
+1 Sorcerer In Terminator Armour  
 - Gaze of Hate (anti-monster 4+ anti-vehicle 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 2)
 - Inferno combi-bolter (rapid fire(2), 24", Atk 2; BS 3+; S 4; AP -2; D 1)
 - Force weapon (Melee psychic; Atk 5; WS 3+; S 6; AP -1; D d3)
@@ -174,17 +177,17 @@
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins> -  
 <ins>Состав и снаряжение отряда:</ins>  
-1 Aspiring Sorcerer
+1 Aspiring Sorcerer  
 - Malefic Curse (anti-infantry 4+ devastating wounds psychic 18", Atk 3; BS 3+; S 4; AP -3; D 1)
 - Warpflame pistol (pistol, 12", Atk d6; BS N/A; S 3; AP -1; D 1)
 - Force weapon (Melee psychic; Atk 3; WS 3+; S 6; AP -1; D d3)
 
-1 Rubric Marine-Soulreaper cannon-Icon of Flame
+1 Rubric Marine-Soulreaper cannon-Icon of Flame  
 - Icon of Flame (Ranged weapons equipped by models in the bearer’s unit (excluding CHARACTERS) have the [IGNORES COVER] ability.)
 - Soulreaper cannon (devastating wounds, 24", Atk 6; BS 3+; S 6; AP -2; D 1)
 - Close combat weapon (Melee; Atk 2; WS 3+; S 4; AP 0; D 1)
 
-3 Rubric Marine
+3 Rubric Marine  
 - Inferno boltgun (24", Atk 2; BS 3+; S 4; AP -2; D 1)
 - Close combat weapon (Melee; Atk 2; WS 3+; S 4; AP 0; D 1)
 
@@ -254,7 +257,7 @@
 
 ## Сияние Металлов (Mutalith Vortex Beast)
 Опыт Отряда (XP):</ins> 6  
-Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
+Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 Улучшения отряда:</ins> -  
 Общая стоимость отряда:</ins> 170  
 <ins>Статистика Отряда:</ins>  
@@ -265,9 +268,9 @@
 <ins>Награды отряда (Battle Honours):</ins>  
   Weapon Modifications - Warp vortex(FINELY BALANCED: +1 BS; HEIRLOOM: +1 Atk)
 <ins>Шрамы Отряда (Battle Scars):</ins>  
-  Утомлённый (FATIGUED; Subtract 1 from the Objective Control characteristic of models in this unit and this unit never receives a Charge bonus)
+  Утомлённый (FATIGUED; Subtract 1 from the Objective Control characteristic of models in this unit and this unit never receives a Charge bonus)  
 <ins>Особые отметки:</ins>  
-  ранг Обстреляный (Blooded rank), Weapon Modifications - Warp vortex(FINELY BALANCED; HEIRLOOM)
+  ранг Обстреляный (Blooded rank), Weapon Modifications - Warp vortex(FINELY BALANCED; HEIRLOOM)  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Mutalith Vortex Beast  
 Warp vortex – blast (blast 24", Atk d6+4; BS 2+; S 9; AP -2; D 2)
