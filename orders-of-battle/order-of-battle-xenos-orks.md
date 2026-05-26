@@ -11,8 +11,8 @@ WAAAGH! Stompin’ Points = 4 (WAAAGH! Stage 1: Gathering WAAAGH!)
 <ins>Список отрядов</ins>  
 - Газзкул Маг Урук Трака ([Ghazghkull Thraka](https://wahapedia.ru/wh40k10ed/factions/orks/Ghazghkull-Thraka), Warlord, - XP, 1 CP, 235 pts)
 - Биг Док ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 2 XP, 0 CP, 105 pts)
-- Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 2 XP, 1 CP, 80 pts)
-- Лута-Скрап ([Warboss](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss), 6 XP, 2 CP, 75 pts)
+- Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 2 XP, 0 CP, 80 pts)
+- Лута-Скрап ([Warboss](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss), 6 XP, 1 CP, 75 pts)
 - Чугунзад ([Warboss in Mega Armour](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss-In-Mega-Armour), 2 XP, 0 CP, 95 pts)
 - Жестянщики ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 5 XP, 0 CP, 170 pts)
 - Ломалы ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 5 XP, 0 CP, 170 pts)
@@ -25,7 +25,7 @@ WAAAGH! Stompin’ Points = 4 (WAAAGH! Stage 1: Gathering WAAAGH!)
 *Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Глубокий прорыв (DRIVE DEEP)  
 **Биг Док** +1 XP (Боевой опыт)  
 **Мясник Анестезий** +1 XP (Боевой опыт)  
-Получает боевой шрам (3)  
+Получает боевой шрам (3) (-1 CP)  
 **Лута-Скрап** +5 XP (Боевой опыт, Обезглавливание(уничтожен Warlord))  
 **Чугунзад** +1 XP (Боевой опыт)  
 **Жестянщики** +4 XP (Боевой опыт, Отмечен величием)  
@@ -33,13 +33,13 @@ WAAAGH! Stompin’ Points = 4 (WAAAGH! Stage 1: Gathering WAAAGH!)
 **Клешни Чугунзада** +1 XP (Боевой опыт)  
 *Реквизиция:* +2 RP (База, Обезглавливание(уничтожен Warlord))  
 *Stompin’ Points:* +3 (WAAAGH! Stage 1, уничтожен Warlord)  
-- 2026-05-23: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 1 RP и снимают шрам с Мясника Анестезия (+1CP)
+- 2026-05-23: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 1 RP и снимают шрам с Мясника Анестезия (+1 CP)
 - 2026-05-23: Поражение от сил "Культа Бессеребрянников" на Криндаэре (Абордаж)  
 *Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Глубокий прорыв (DRIVE DEEP)  
 **Биг Док** +1 XP (Боевой опыт)  
 **Мясник Анестезий** +1 XP (Боевой опыт)  
 **Лута-Скрап** +1 XP (Боевой опыт)  
-Получает боевой шрам (1)  
+Получает боевой шрам (1) (-1 CP)  
 **Чугунзад** +1 XP (Боевой опыт)  
 **Жестянщики** +1 XP (Боевой опыт)  
 **Ломалы** +4 XP (Боевой опыт, Отмечен величием)  
@@ -47,7 +47,7 @@ WAAAGH! Stompin’ Points = 4 (WAAAGH! Stage 1: Gathering WAAAGH!)
 *Реквизиция:* +1 RP (База)  
 *Stompin’ Points:* +1 (WAAAGH! Stage 1)
 - 2026-05-23: Лута-Скрап получает получает ранг Обстреляный; получена Награда отряда - Реликвия (Конверсионное поле (CONVERSION FIELD))
-- 2026-05-23: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 2 RP и снимают шрам с Лута-Скрапа (+1CP)
+- 2026-05-23: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 2 RP и снимают шрам с Лута-Скрапа (+1 CP)
 
 # Карточки отрядов
 ## Газзкул Маг Урук Трака ([Ghazghkull Thraka](https://wahapedia.ru/wh40k10ed/factions/orks/Ghazghkull-Thraka))
@@ -96,7 +96,7 @@ WAAAGH! Stompin’ Points = 4 (WAAAGH! Stage 1: Gathering WAAAGH!)
 
 ## Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy))
 <ins>Опыт Отряда (XP):</ins> 2  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 80 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
@@ -116,7 +116,7 @@ WAAAGH! Stompin’ Points = 4 (WAAAGH! Stage 1: Gathering WAAAGH!)
 
 ## Лута-Скрап ([Warboss](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss))
 <ins>Опыт Отряда (XP):</ins> 6  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 2  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 75 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
