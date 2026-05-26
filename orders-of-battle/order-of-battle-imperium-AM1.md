@@ -71,7 +71,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-05-21: DL68th "Альфа" Отмеченные величием, Лорд Солар выбирает целью Crusade Ability (INSPIRATIONAL CHAMPION) Климент V, Лорд-комиссар 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов выбирает целью способности "Нюх на талант" отряд DL68th "Альфа"
 - 2026-05-21: DL68th "Альфа" получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Старые счёты(OLD GRUDGES))  
 - 2026-05-21: DL68th "Альфа-2" получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Партизаны(GUERRILLAS))  
-- 2026-05-21: DL68th "Климент V" получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Неотвратимый(UNRELENTING))  
+- 2026-05-21: DL68th "Климент V" получает ранг Закалённый; получена Награда отряда - Модификация Оружия (Weapon Modifications - Lascannon(HEIRLOOM); Twin heavy bolter(HEIRLOOM))  
 - 2026-05-21: Вх314 мв2 получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Неуловимые(EVASIVE))
 - 2026-05-21: Вх314 кв1 получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
   
@@ -262,16 +262,16 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (BIG-GAME HUNTERS; Each time a model in this unit makes a ranged attack, if the target of that attack is a MONSTER or VEHICLE unit, you can re-roll Hit rolls of 1 and re-roll Wound rolls of 1)  
-  Battle Trait (UNRELENTING; You can ignore any or all modifiers to this unit’s Move characteristic. In addition, each time this unit makes a Normal move, models in this unit can move through terrain, but if any do so, after this unit has moved, roll one D6: on a 1-3 this unit is Battle-shocked)  
+  Weapon Modifications - Lascannon(HEIRLOOM; Atk +1); Twin heavy bolter(HEIRLOOM; Atl +1)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  ранг Закалённый (Battle-hardened), Battle Trait ([Охотники на крупную дичь(BIG-GAME HUNTERS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Battle-Traits)), Battle Trait (Неотвратимый(UNRELENTING))  
+  ранг Закалённый (Battle-hardened), Battle Trait ([Охотники на крупную дичь(BIG-GAME HUNTERS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Battle-Traits)), Weapon Modifications (Lascannon(HEIRLOOM); Twin heavy bolter(HEIRLOOM)) 
   Командир - Иосиф "Эйс" Асеро  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Shadowsword  
 - Volcano cannon (blast, heavy; 96"; Atk D3+1; BS 4+; S 24; AP -5; D 12)
-- 5x Twin heavy bolter (sustained hits 1, twin-linked; 36"; Atk 3; BS 4+; S 5; AP -1; D 2)
-- 4x Lascannon (48"; Atk 1; BS 4+; S 12; AP -3; D D6+1)
+- 5x Twin heavy bolter (sustained hits 1, twin-linked; 36"; Atk 4; BS 4+; S 5; AP -1; D 2)
+- 4x Lascannon (48"; Atk 2; BS 4+; S 12; AP -3; D D6+1)
 - Armoured tracks	(Melee; Atk 6; WS 4+; S 8; AP 0; D 1)
 
 ## 68й полк темпестус "Дельтийские Львы", техножрец Тау-Каппа ([Tech-Priest Enginseer](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tech-Priest-Enginseer))
@@ -445,3 +445,6 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2x Plasma cannon – supercharge (blast, hazardous; 36"; Atk D3; BS 4+; S 8; AP -3; D 2)
 - Hunter-killer missile (one shot; 48"; Atk 1; BS 4+; S 14; AP -3; D D6)
 - Close combat weapon (Melee; Atk 6; WS 4+; S 7; AP 0; D 1)
+
+
+<!-- 2026-05-21: DL68th "Климент V" получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Неотвратимый(UNRELENTING))  -->
