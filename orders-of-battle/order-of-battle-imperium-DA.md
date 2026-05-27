@@ -11,12 +11,12 @@
 Очки Чести (Honour Points): 6  
 
 <ins>Список отрядов</ins>  
-- Азраил ([Azrael](https://wahapedia.ru/wh40k10ed/factions/space-marines/Azrael), 0 XP, 1 CP, 125 pts)
-- Брат Унылий ([Apothecary](https://wahapedia.ru/wh40k10ed/factions/space-marines/Apothecary), 0 XP, 0 CP, 50 pts)
-- Колесница Блаженного Бесполезния ([Gladiator Reaper](https://wahapedia.ru/wh40k10ed/factions/space-marines/Gladiator-Reaper), 0 XP, 0 CP, 160 pts)
-- Немощь Святого Плюстриния ([Repulsor Executioner](https://wahapedia.ru/wh40k10ed/factions/space-marines/Repulsor-Executioner), 0 XP, 0 CP, 230 pts)
-- Консервобанкийцы ([Deathwing Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Deathwing-Knights), 6 XP, 1 CP, 250 pts)
-- Недобэгийцы ([Inner Circle Companions](https://wahapedia.ru/wh40k10ed/factions/space-marines/Inner-Circle-Companions), 0 XP, 0 CP, 180 pts)
+- Азраил ([Azrael](https://wahapedia.ru/wh40k10ed/factions/space-marines/Azrael), - XP, 1 CP, 125 pts)
+- Брат Унылий ([Apothecary](https://wahapedia.ru/wh40k10ed/factions/space-marines/Apothecary), 5 XP, 0 CP, 50 pts)
+- Колесница Блаженного Бесполезния ([Gladiator Reaper](https://wahapedia.ru/wh40k10ed/factions/space-marines/Gladiator-Reaper), 4 XP, 0 CP, 160 pts)
+- Немощь Святого Плюстриния ([Repulsor Executioner](https://wahapedia.ru/wh40k10ed/factions/space-marines/Repulsor-Executioner), 6 XP, 1 CP, 230 pts)
+- Консервобанкийцы ([Deathwing Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Deathwing-Knights), 9 XP, 1 CP, 250 pts)
+- Недобэгийцы ([Inner Circle Companions](https://wahapedia.ru/wh40k10ed/factions/space-marines/Inner-Circle-Companions), 7 XP, 1 CP, 180 pts)
 
 <ins>Журнал изменений Боевых Порядков:</ins>  
 - 2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция VETERAN INITIATES для Консервобанкийцев - получены 6 XP; получен ранг Обстреляный; получена Награда отряда - Боевая Особенность (Непреклонные охотники (STAUNCH HUNTERS))  
@@ -30,14 +30,12 @@
 **Недобэгийцы** +7 XP (Боевой опыт, Ангелы смерти, Не зная страха(не ниже половины силы), Отмечен величием)  
 *Реквизиция:* +1 RP (Базовый)  
 *Очки Чести по Присяге* +6 (Победа, Никто не должен узнать, Ангелы смерти)  
-- 2026-05-24: Недобэгийцы получают ранг Обстреляный; получена Награда отряда - ??
-- 2026-05-24: Немощь Святого Плюстриния получает ранг Обстреляный; получена Награда отряда - ??
-> [!CAUTION]
-> ICC и Repulsor lvlUp?
+- 2026-05-24: Недобэгийцы получают ранг Обстреляный; получена Награда отряда -  Боевая Особенность (Закалённые в битве(TEMPERED IN BATTLE))  
+- 2026-05-24: Немощь Святого Плюстриния получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM), Heavy onslaught gatling cannon(MASTER-WORKED))  
   
 # Карточки отрядов
 ## Азраил ([Azrael](https://wahapedia.ru/wh40k10ed/factions/space-marines/Azrael))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> -  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 125 (суммарно со всеми улучшениями)  
@@ -57,14 +55,14 @@
 - The Sword of Secrets (devastating wounds; Melee; Atk 6; BS 2+; S 6; AP -4; D 2)
 
 ## Брат Унылий ([Apothecary](https://wahapedia.ru/wh40k10ed/factions/space-marines/Apothecary))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 5  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 50 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 3
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -77,14 +75,14 @@
 - Close combat weapon (Melee; Atk 4; BS 3+; S 4; AP 0; D 1)
 
 ## Колесница Блаженного Бесполезния ([Gladiator Reaper](https://wahapedia.ru/wh40k10ed/factions/space-marines/Gladiator-Reaper))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 4  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 160 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 2
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -98,22 +96,24 @@
 - Armoured hull (Melee; Atk 3; WS 4+; S 6; AP 0; D 1)
 
 ## Немощь Святого Плюстриния ([Repulsor Executioner](https://wahapedia.ru/wh40k10ed/factions/space-marines/Repulsor-Executioner))
-<ins>Опыт Отряда (XP):</ins> 0  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 6  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 230 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Weapon Modifications - Heavy laser destroyer(HEIRLOOM; Atk +1), Heavy onslaught gatling cannon(MASTER-WORKED; D +1))
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  ранг Обстреляный (Blooded rank), Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM), Heavy onslaught gatling cannon(MASTER-WORKED))
 <ins>Состав и снаряжение отряда:</ins>  
 1 Repulsor Executioner  
-- Heavy laser destroyer (heavy; 72"; Atk 2; BS 3+; S 16; AP -4; D6+4)
-- Heavy onslaught gatling cannon (devastating wounds; 24"; Atk 12; BS 3+; 6 Х; AP 0; D 1)
+- Heavy laser destroyer (heavy; 72"; Atk 3; BS 3+; S 16; AP -4; D6+4)
+- Heavy onslaught gatling cannon (devastating wounds; 24"; Atk 12; BS 3+; 6 Х; AP 0; D 2)
 - Icarus rocket pod (anti-fly 2+; 24"; Atk D3; BS 3+; S 8; AP -1; D 2)
 - Ironhail heavy stubber (rapid fire 3; 36"; Atk 3; BS 3+; S 4; AP  0; D 1)
 - Repulsor Executioner defensive array (24"; Atk 10; BS 3+; S 4; AP 0; D 1)
@@ -122,7 +122,7 @@
 - Armoured hull (свойства; Melee; Atk 6; WS 4+; S 8; AP 0; D 1)
 
 ## Консервобанкийцы ([Deathwing Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Deathwing-Knights))
-<ins>Опыт Отряда (XP):</ins> 6  
+<ins>Опыт Отряда (XP):</ins> 9  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 250 (суммарно со всеми улучшениями)  
@@ -145,18 +145,20 @@
 
 
 ## Недобэгийцы ([Inner Circle Companions](https://wahapedia.ru/wh40k10ed/factions/space-marines/Inner-Circle-Companions))
-<ins>Опыт Отряда (XP):</ins> 0  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 7  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 180 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Battle Trait (TEMPERED IN BATTLE; Once per battle, in your Command phase, this unit can use this Battle Trait. If it does, until the end of the turn, this unit is eligible to shoot, declare a charge and perform an Action in a turn in which it Fell Back. In addition, this unit is eligible to perform an Action while it is Battle-shocked)
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
-<ins>Особые отметки:</ins> -  
+<ins>Особые отметки:</ins>  
+  ранг Обстреляный (Blooded rank), Battle Trait (Закалённые в битве(TEMPERED IN BATTLE))
 <ins>Состав и снаряжение отряда:</ins>  
 6 Inner Circle Companions  
 - Heavy bolt pistol (Pistol; 18"; Atk 1; BS 3+; S 4; AP -1; D 1)
