@@ -2,7 +2,7 @@
 <ins>Название:</ins> **Несущие Избавление**  
 <ins>Лимит Снабжения (Supply Limit):</ins> 1400  
 <ins>Текущее Снабжение (Supply Used):</ins> 1350  
-<ins>Боевой Счёт (Battle Tally):</ins> 0  
+<ins>Боевой Счёт (Battle Tally):</ins> 1  
 <ins>Счёт Побед:</ins> 0  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 3  
 <ins>Особые отметки:</ins>  
