@@ -1,4 +1,4 @@
-# Карта фронта на начало фазы
+# Карта фронта на начало фазы 2
 ![Карта на начало фазы](/pictures/map-phase1-5.jpg)  
 
 # "Веспаторский вестник"
@@ -14,7 +14,7 @@ Each time players determine how many attacks are made with a Blast weapon, add a
 **Результат:**   
 
 ### Операции флота "Крылышки"  
-Боевая операция "[Орбитальная бомбардировка](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Planetary-Bombardment)" сил Хаоса в л на горнодобывающем карьере Икарон I  
+Боевая операция "[Орбитальная бомбардировка](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Planetary-Bombardment)" сил Хаоса на горнодобывающем карьере Икарон I  
 **Условия (к6 = 1):** Sanctified Charges  
 At the start of the battle round, each player secretly selects and makes a note of one objective marker wholly within No Man’s Land. For each player, once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within range of their selected objective marker, that player can reveal that they selected that objective marker. If they do, roll one D6: on a 2+, that enemy unit suffers D6+1 mortal wounds.  
 **Обороняющийся флот:** силы Несущих Избавление  
@@ -25,7 +25,7 @@ At the start of the battle round, each player secretly selects and makes a note 
 Боевая операция "[Орбитальная бомбардировка](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Planetary-Bombardment)" ксеносов в рад-зоне Норалуса  
 **Условия (к6 = 4):** Rad Malaise  
 Each time a model makes a melee attack that targets an enemy unit, if that enemy unit made a Charge move this turn, add 1 to the Hit roll.  
-**Обороняющийся флот:** силы Маска разбитых зеркал  
+**Обороняющийся флот:** силы Маски разбитых зеркал  
 **Дата сражения:**   
 **Результат:**   
 
@@ -41,7 +41,7 @@ While a model is wholly within an AREA TERRAIN feature, that model has the Steal
 Боевая операция "[Налёт на базу снабжения](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Supply-Base-Raid)" Имперских сил на горнодобывающем карьере Криндаэра  
 **Условия (к6 = 4):** Crumbling Bedrock  
 Each time a model in a player’s army makes a ranged attack that targets an enemy unit within 12", that player can ignore any or all modifiers to the following: that attack’s Ballistic Skill; the Hit roll; the Wound roll.  
-**Обороняющийся флот:** флот Несущих Избавление  
+**Обороняющийся флот:** силы Несущих Избавление  
 **Дата сражения:**   
 **Результат:**   
 
