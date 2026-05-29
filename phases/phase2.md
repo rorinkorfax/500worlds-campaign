@@ -41,9 +41,9 @@ While a model is wholly within an AREA TERRAIN feature, that model has the Steal
 Боевая операция "[Налёт на базу снабжения](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Supply-Base-Raid)" Имперских сил на горнодобывающем карьере Криндаэра  
 **Условия (к6 = 4):** Crumbling Bedrock  
 Each time a model in a player’s army makes a ranged attack that targets an enemy unit within 12", that player can ignore any or all modifiers to the following: that attack’s Ballistic Skill; the Hit roll; the Wound roll.  
-**Обороняющийся флот:** Культ Бессеребряников  
-**Дата сражения:** 23.05  
-**Результат:** Поражение от сил "Культа Бессеребряников" на Криндаэре (УВ Хаоса +1 на Криндаере; Флот "Стреляки-вороваки" не может проводить операции Пустотный переход и Боевые Операции на других мирах в фазе2; Флот "Культа Бессеребряников" остаётся на месте)  
+**Обороняющийся флот:** флот Несущих Избавление  
+**Дата сражения:**   
+**Результат:**   
 
 ### Операции флота "Маска разбитых зеркал"  
 Боевая операция "[Абордаж](https://github.com/rorinkorfax/500worlds-campaign/blob/main/README.md#%D0%B0%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%D0%B6-globe_with_meridiansleftwards_arrow_with_hookglobe_with_meridians)" машинного отделения флота Хаоса над Таркад Виндикс  
