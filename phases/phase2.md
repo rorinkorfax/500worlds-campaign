@@ -42,7 +42,7 @@ While a model is wholly within an AREA TERRAIN feature, that model has the Steal
 **Условия (к6 = 4):** Crumbling Bedrock  
 Each time a model in a player’s army makes a ranged attack that targets an enemy unit within 12", that player can ignore any or all modifiers to the following: that attack’s Ballistic Skill; the Hit roll; the Wound roll.  
 **Обороняющийся флот:** силы Несущих Избавление  
-**Дата сражения:**   
+**Дата сражения:** 01.06  
 **Результат:**   
 
 ### Операции флота "Маска разбитых зеркал"  
