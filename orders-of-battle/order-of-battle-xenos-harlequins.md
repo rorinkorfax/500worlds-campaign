@@ -15,7 +15,7 @@
 - Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master), Warlord, 4 XP, 0 CP, 75 pts)
 - Тираэль Шёпот Ветров ([Shadowseer](https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadowseer), 1 XP, 0 CP, 60 pts)
 - Фаэналь Пронзатель Сердец ([Death Jester](https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester), 1 XP, 0 CP, 100 pts)
-- Зинфандель Оскал Времен ([Solitaire](https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire), 1 XP, 0 CP, 115 pts)
+- Зинфандель Оскал Времен ([Solitaire](https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire), - XP, 1 CP, 115 pts)
 - Труппа Миртаэля Импровизатора ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 1 XP, 0 CP, 85 pts)
 - Труппа Илдорона Тысячеликого ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 1 XP, 0 CP, 85 pts)
 - Труппа Гаэларна Радости Подмосток ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 0 XP, 0 CP, 100 pts)
@@ -33,8 +33,6 @@
 **Фаоилтиарн Дурошлеп** +4 XP (Боевой опыт, Отмечен величием)  
 **Тираэль Шёпот Ветров** +1 XP (Боевой опыт)  
 **Фаэналь Пронзатель Сердец** +1 XP (Боевой опыт)  
-**Зинфандель Оскал Времен** +1 XP (Боевой опыт)  
-  получает шрам (5) Метка позора (MARK OF SHAME: This unit cannot form an Attached unit, it is unaffected by the Aura abilities of friendly units, and it cannot be Marked for Greatness)  
 **Труппа Миртаэля Импровизатора** +1 XP (Боевой опыт)  
 **Труппа Илдорона Тысячеликого** +1 XP (Боевой опыт)  
 **Ткачи Туманов** +1 XP (Боевой опыт)  
@@ -110,7 +108,7 @@
 
 ## Зинфандель Оскал Времен ([Solitaire](https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire))
 <ins>Опыт Отряда (XP):</ins> 1  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 115 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
@@ -119,8 +117,7 @@
 - количество отрядов, уничтоженных данным отрядом = 0
 
 <ins>Награды отряда (Battle Honours):</ins> -  
-<ins>Шрамы Отряда (Battle Scars):</ins>  
-  Метка позора (MARK OF SHAME: This unit cannot form an Attached unit, it is unaffected by the Aura abilities of friendly units, and it cannot be Marked for Greatness)  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
   Character, Epic Hero, [Crusade Ability (NEMESIS CHAMPIONS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions), Battle Scar(MARK OF SHAME)  
 <ins>Состав и снаряжение отряда:</ins> -  
