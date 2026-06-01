@@ -107,7 +107,7 @@
 - Jester’s blade (Melee, Atk 4; WS 2+; S 4; AP 0; D 1)
 
 ## Зинфандель Оскал Времен ([Solitaire](https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> -  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 115 (суммарно со всеми улучшениями)  
@@ -119,7 +119,7 @@
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Character, Epic Hero, [Crusade Ability (NEMESIS CHAMPIONS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions), Battle Scar(MARK OF SHAME)  
+  Character, Epic Hero, [Crusade Ability (NEMESIS CHAMPIONS)](https://wahapedia.ru/wh40k10ed/the-rules/nachmund-gauntlet/#Mighty-Champions)  
 <ins>Состав и снаряжение отряда:</ins> -  
 1 Solitaire  
 - Crusade Ability (NEMESIS CHAMPIONS; During the battle, if one or more enemy CHARACTER models are destroyed by an attack made by an EPIC HERO model (or a model in a unit it is attached to) with this Crusade Ability from your Crusade army, then at the Update Crusade Cards step, all units in your Crusade army gain an additional 1XP. If one of those destroyed enemy CHARACTER models was the enemy WARLORD, you also gain 1 ~Strategic Asset Point~ Requisition Point.)
