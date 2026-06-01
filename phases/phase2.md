@@ -27,7 +27,7 @@ At the start of the battle round, each player secretly selects and makes a note 
 **Условия (к6 = 4):** Rad Malaise  
 Each time a model makes a melee attack that targets an enemy unit, if that enemy unit made a Charge move this turn, add 1 to the Hit roll.  
 **Обороняющийся флот:** силы Маски разбитых зеркал  
-**Дата сражения:**   
+**Дата сражения:** 3.06
 **Результат:**   
 
 ### Операции флота "Несущих Избавление"  
