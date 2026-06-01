@@ -44,7 +44,7 @@ While a model is wholly within an AREA TERRAIN feature, that model has the Steal
 Each time a model in a player’s army makes a ranged attack that targets an enemy unit within 12", that player can ignore any or all modifiers to the following: that attack’s Ballistic Skill; the Hit roll; the Wound roll.  
 **Обороняющийся флот:** силы Несущих Избавление  
 **Дата сражения:** 01.06  
-**Результат:**   
+**Результат:** Победа над силами "Несущих Избавление" на Криндаэре (УВ Хаоса -1 на Криндаере; УВ Хаоса -1 на Калтус Новем; УВ Ксеносов +1 на Криндаере)  
 
 ### Операции флота "Маска разбитых зеркал"  
 Боевая операция "[Абордаж](https://github.com/rorinkorfax/500worlds-campaign/blob/main/README.md#%D0%B0%D0%B1%D0%BE%D1%80%D0%B4%D0%B0%D0%B6-globe_with_meridiansleftwards_arrow_with_hookglobe_with_meridians)" машинного отделения флота Хаоса над Таркад Виндикс  
