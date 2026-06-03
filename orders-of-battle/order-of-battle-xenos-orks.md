@@ -10,13 +10,13 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 
 <ins>Список отрядов</ins>  
 - Газзкул Маг Урук Трака ([Ghazghkull Thraka](https://wahapedia.ru/wh40k10ed/factions/orks/Ghazghkull-Thraka), Warlord, - XP, 1 CP, 235 pts)
-- Биг Док ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 2 XP, 0 CP, 105 pts)
-- Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 2 XP, 0 CP, 80 pts)
-- Лута-Скрап ([Warboss](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss), 6 XP, 1 CP, 75 pts)
-- Чугунзад ([Warboss in Mega Armour](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss-In-Mega-Armour), 2 XP, 0 CP, 95 pts)
-- Жестянщики ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 5 XP, 0 CP, 170 pts)
-- Ломалы ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 5 XP, 0 CP, 170 pts)
-- Клешни Чугунзада ([Meganobz](https://wahapedia.ru/wh40k10ed/factions/orks/Meganobz), 2 XP, 0 CP, 65 pts)
+- Биг Док ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 6 XP, 1 CP, 105 pts)
+- Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 3 XP, 0 CP, 80 pts)
+- Лута-Скрап ([Warboss](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss), 7 XP, 1 CP, 75 pts)
+- Чугунзад ([Warboss in Mega Armour](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss-In-Mega-Armour), 6 XP, 1 CP, 95 pts)
+- Жестянщики ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 6 XP, 1 CP, 170 pts)
+- Ломалы ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 6 XP, 1 CP, 170 pts)
+- Клешни Чугунзада ([Meganobz](https://wahapedia.ru/wh40k10ed/factions/orks/Meganobz), 3 XP, 0 CP, 65 pts)
 - Ваздакка Гуцмек ([Wazdakka Gutsmek](https://wahapedia.ru/wh40k10ed/factions/orks/Wazdakka-Gutsmek), - XP, 0 CP, 175 pts)
 - Босс Сникрот ([Boss Snikrot](https://wahapedia.ru/wh40k10ed/factions/orks/Boss-Snikrot), - XP, 0 CP, 75 pts)
 
@@ -54,25 +54,24 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - 2026-06-01: 1 RP взята реквизиция "Увеличение Снабжения", Stompin’ Points +1
 - 2026-06-01: Победа над силами "Несущих Избавление" на Криндаэре (Налёт на базу снабжения)  
 *Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Глубокий прорыв (DRIVE DEEP)  
-**Биг Док** +1 XP (Боевой опыт)  
+**Биг Док** +4 XP (Боевой опыт, Отмечен величием)  
 **Мясник Анестезий** +1 XP (Боевой опыт)  
 **Лута-Скрап** +1 XP (Боевой опыт)  
-**Чугунзад** +1 XP (Боевой опыт)  
+**Чугунзад** +4 XP (Боевой опыт, Торговцы Смертью(3), Обезглавливание(Character))  
 **Жестянщики** +1 XP (Боевой опыт)  
 Получает боевой шрам (не бросался, снят сразу) (-1 CP)  
 **Ломалы** +1 XP (Боевой опыт)  
 **Клешни Чугунзада** +1 XP (Боевой опыт)  
 *Реквизиция:* +3 RP (База, Обезглавливание, Глубокий прорыв)  
 *Stompin’ Points:* +5 (WAAAGH! Stage 1, Победа, уничтожен вражеский Warlord)
-> [!CAUTION]
-> Кто Отмечен величием?  
-> Босс с бойзами,пейнбоем убивают паука - кому фраг? (точное название отряда)  
-> Газзкул с бойзами и пейнбоем убивает легионеров - кому фраг? (точное название отряда)  
-> Меганобы и варбосс в мегаарморе ломают рину - кому фраг? (точное название отряда)  
-> Босс с бойзами и пейнбоем убивают хавоков - кому фраг? (точное название отряда)
-> Результаты по [Orky Ructions](https://wahapedia.ru/wh40k10ed/factions/orks/#Orky-Ructions)?
 - 2026-05-23: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 1 RP и снимают шрам с Жестянщики (+1 CP)
-
+- 2026-06-03: Биг Док получает получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - ’Urty syringe(HEIRLOOM, MASTER-WORKED))
+- 2026-06-03: Чугунзад получает получает ранг Обстреляный; получена Награда отряда - Реликвия (Лавры стратега(STRATEGIC LAURELS))
+- 2026-06-03: Жестянщики получают получает ранг Обстреляный; получена Награда отряда - 
+- 2026-06-03: Ломалы получают получает ранг Обстреляный; получена Награда отряда -
+> [!CAUTION]
+> Жестянщики получают получает ранг Обстреляный
+> Ломалы получают получает ранг Обстреляный
 
 # Карточки отрядов
 ## Газзкул Маг Урук Трака ([Ghazghkull Thraka](https://wahapedia.ru/wh40k10ed/factions/orks/Ghazghkull-Thraka))
@@ -83,7 +82,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 3  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -127,7 +126,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 3  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -172,7 +171,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 3  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 3
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -191,7 +190,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 3  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 1
+- количество отрядов, уничтоженных данным отрядом = 2
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -213,7 +212,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 3  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -252,7 +251,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 3
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
