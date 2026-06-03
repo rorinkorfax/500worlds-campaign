@@ -31,7 +31,7 @@
 *Реквизиция:* +1 RP (Базовый)  
 *Очки Чести по Присяге* +6 (Победа, Никто не должен узнать, Ангелы смерти)  
 - 2026-05-24: Недобэгийцы получают ранг Обстреляный; получена Награда отряда -  Боевая Особенность (Закалённые в битве(TEMPERED IN BATTLE))  
-- 2026-05-24: Немощь Святого Плюстриния получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM), Heavy onslaught gatling cannon(MASTER-WORKED))  
+- 2026-05-24: Немощь Святого Плюстриния получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM, FINELY BALANCED))  
   
 # Карточки отрядов
 ## Азраил ([Azrael](https://wahapedia.ru/wh40k10ed/factions/space-marines/Azrael))
@@ -106,10 +106,10 @@
 - количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins>  
-  Weapon Modifications - Heavy laser destroyer(HEIRLOOM; Atk +1), Heavy onslaught gatling cannon(MASTER-WORKED; D +1))
+  Weapon Modifications - Heavy laser destroyer(HEIRLOOM, Atk +1; FINELY BALANCED, BS +1))
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  ранг Обстреляный (Blooded rank), Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM), Heavy onslaught gatling cannon(MASTER-WORKED))
+  ранг Обстреляный (Blooded rank), Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM, FINELY BALANCED))
 <ins>Состав и снаряжение отряда:</ins>  
 1 Repulsor Executioner  
 - Heavy laser destroyer (heavy; 72"; Atk 3; BS 3+; S 16; AP -4; D6+4)
