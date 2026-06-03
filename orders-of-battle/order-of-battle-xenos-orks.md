@@ -11,10 +11,10 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Список отрядов</ins>  
 - Газзкул Маг Урук Трака ([Ghazghkull Thraka](https://wahapedia.ru/wh40k10ed/factions/orks/Ghazghkull-Thraka), Warlord, - XP, 1 CP, 235 pts)
 - Биг Док ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 6 XP, 1 CP, 105 pts)
-- Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 3 XP, 0 CP, 80 pts)
+- Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy), 6 XP, 1 CP, 80 pts)
 - Лута-Скрап ([Warboss](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss), 7 XP, 1 CP, 75 pts)
-- Чугунзад ([Warboss in Mega Armour](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss-In-Mega-Armour), 6 XP, 1 CP, 95 pts)
-- Жестянщики ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 6 XP, 1 CP, 170 pts)
+- Чугунзад ([Warboss in Mega Armour](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss-In-Mega-Armour), 9 XP, 1 CP, 95 pts)
+- Жестянщики ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 9 XP, 1 CP, 170 pts)
 - Ломалы ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz), 6 XP, 1 CP, 170 pts)
 - Клешни Чугунзада ([Meganobz](https://wahapedia.ru/wh40k10ed/factions/orks/Meganobz), 3 XP, 0 CP, 65 pts)
 - Ваздакка Гуцмек ([Wazdakka Gutsmek](https://wahapedia.ru/wh40k10ed/factions/orks/Wazdakka-Gutsmek), - XP, 0 CP, 175 pts)
@@ -55,10 +55,10 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - 2026-06-01: Победа над силами "Несущих Избавление" на Криндаэре (Налёт на базу снабжения)  
 *Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Глубокий прорыв (DRIVE DEEP)  
 **Биг Док** +4 XP (Боевой опыт, Отмечен величием)  
-**Мясник Анестезий** +1 XP (Боевой опыт)  
+**Мясник Анестезий** +4 XP (Боевой опыт, Глубокий прорыв)  
 **Лута-Скрап** +1 XP (Боевой опыт)  
-**Чугунзад** +4 XP (Боевой опыт, Торговцы Смертью(3), Обезглавливание(Character))  
-**Жестянщики** +1 XP (Боевой опыт)  
+**Чугунзад** +7 XP (Боевой опыт, Торговцы Смертью(3), Обезглавливание(Character), Глубокий прорыв)  
+**Жестянщики** +4 XP (Боевой опыт, Глубокий прорыв)  
 Получает боевой шрам (не бросался, снят сразу) (-1 CP)  
 **Ломалы** +1 XP (Боевой опыт)  
 **Клешни Чугунзада** +1 XP (Боевой опыт)  
@@ -67,15 +67,14 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - 2026-05-23: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 1 RP и снимают шрам с Жестянщики (+1 CP)
 - 2026-06-03: Биг Док получает получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - ’Urty syringe(HEIRLOOM, MASTER-WORKED))
 - 2026-06-03: Чугунзад получает получает ранг Обстреляный; получена Награда отряда - Реликвия (Лавры стратега(STRATEGIC LAURELS))
-- 2026-06-03: Жестянщики получают получает ранг Обстреляный; получена Награда отряда - 
-- 2026-06-03: Ломалы получают получает ранг Обстреляный; получена Награда отряда -
-> [!CAUTION]
-> Жестянщики получают получает ранг Обстреляный
-> Ломалы получают получает ранг Обстреляный
+- 2026-06-03: Жестянщики получают получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Легконогие (FLEET OF FOOT))
+- 2026-06-03: Ломалы получают получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Легконогие (FLEET OF FOOT))
+- 2026-06-03: Мясник Анестезий получает получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - ’Urty syringe(HEIRLOOM, MASTER-WORKED))
+
 
 # Карточки отрядов
 ## Газзкул Маг Урук Трака ([Ghazghkull Thraka](https://wahapedia.ru/wh40k10ed/factions/orks/Ghazghkull-Thraka))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> -  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 235 (суммарно со всеми улучшениями)  
@@ -99,8 +98,8 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - Makaris staba (devastating wounds; Melee; Atk 1; BS 4+; S 3; AP 0; D 1)
 
 ## Биг Док ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy))
-<ins>Опыт Отряда (XP):</ins> 2  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 6  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins>  
  Follow Me Ladz (+25 pts; War horde; ORKS model only. While the bearer is leading a unit, add 2" to the Move characteristic of models in that unit.)  
 <ins>Общая стоимость отряда:</ins> 105 (суммарно со всеми улучшениями)  
@@ -109,18 +108,20 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - количество победных сражений, в которых участвовал отряд = 1  
 - количество отрядов, уничтоженных данным отрядом = 0
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Модификация Оружия (Weapon Modifications - ’Urty syringe(HEIRLOOM, Atk +1; MASTER-WORKED, D +1))  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  ранг Обстреляный (Blooded rank), Модификация Оружия (Weapon Modifications - ’Urty syringe(HEIRLOOM, MASTER-WORKED)),  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Painboy  
 - Power klaw (Melee; Atk 3; BS 4+; S 9; AP -2; D 2)
-- ’Urty syringe (Anti-infantry 4+,extra attacks,precision, Melee; Atk 1; BS 3+; S 2; AP 0; D 1)
+- ’Urty syringe (Anti-infantry 4+, extra attacks, precision, Melee; Atk 2; BS 3+; S 2; AP 0; D 2)
 
 ## Мясник Анестезий ([Painboy](https://wahapedia.ru/wh40k10ed/factions/orks/Painboy))
-<ins>Опыт Отряда (XP):</ins> 2  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 6  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 80 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
@@ -128,18 +129,20 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - количество победных сражений, в которых участвовал отряд = 1  
 - количество отрядов, уничтоженных данным отрядом = 1
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Модификация Оружия (Weapon Modifications - ’Urty syringe(HEIRLOOM, Atk +1; MASTER-WORKED, D +1))  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
   Снят шрам Угнетение (FATIGUED) за реквизицию "Починка и восстановление"  
+  ранг Обстреляный (Blooded rank), Модификация Оружия (Weapon Modifications - ’Urty syringe(HEIRLOOM, MASTER-WORKED)),  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Painboy  
 - Power klaw (Melee; Atk 3; BS 4+; S 9; AP -2; D 2)
-- ’Urty syringe (Anti-infantry 4+,extra attacks,precision, Melee; Atk 1; BS 3+; S 2; AP 0; D 1)
+- ’Urty syringe (Anti-infantry 4+, extra attacks, precision, Melee; Atk 2; BS 3+; S 2; AP 0; D 2)
 
 ## Лута-Скрап ([Warboss](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss))
-<ins>Опыт Отряда (XP):</ins> 6  
+<ins>Опыт Отряда (XP):</ins> 7  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 75 (суммарно со всеми улучшениями)  
@@ -149,11 +152,11 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - количество отрядов, уничтоженных данным отрядом = 2
 
 <ins>Награды отряда (Battle Honours):</ins>  
-  Реликвия (CONVERSION FIELD; Models in the bearer’s unit have a 5+ invulnerable save against ranged attacks and each time a ranged attack is allocated to a model in the bearer’s unit, on an unmodified saving throw of 6, the attacking unit suffers 1 mortal wound after it has finished making its attacks)
+  Реликвия (CONVERSION FIELD; Models in the bearer’s unit have a 5+ invulnerable save against ranged attacks and each time a ranged attack is allocated to a model in the bearer’s unit, on an unmodified saving throw of 6, the attacking unit suffers 1 mortal wound after it has finished making its attacks)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  Снят шрам Угнетение (CRIPPLING DAMAGE) за реквизицию "Починка и восстановление"  
-  ранг Обстреляный (Blooded rank), Реликвия (CONVERSION FIELD)
+  Снят шрам Угнетение (CRIPPLING DAMAGE) за реквизицию "Починка и восстановление",  
+  ранг Обстреляный (Blooded rank), Реликвия (CONVERSION FIELD),  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Warboss  
@@ -163,8 +166,8 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - Attack squig (extra attacks, Melee; Atk 2; WS 4+; S 4; AP 0; D 1)
 
 ## Чугунзад ([Warboss in Mega Armour](https://wahapedia.ru/wh40k10ed/factions/orks/Warboss-In-Mega-Armour))
-<ins>Опыт Отряда (XP):</ins> 2  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 9  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins>  
   Supa-Cybork Body (+15 pts; War horde; ORKS model only. The bearer has the Feel No Pain 4+ ability.)  
 <ins>Общая стоимость отряда:</ins> 95 (суммарно со всеми улучшениями)  
@@ -173,9 +176,11 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - количество победных сражений, в которых участвовал отряд = 1  
 - количество отрядов, уничтоженных данным отрядом = 3
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Crusade Relic(STRATEGIC LAURELS; At the start of your first Command phase, if the bearer is on the battlefield, you gain 1CP. At the end of the battle, if the bearer is on the battlefield, you gain 1 RP)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  ранг Обстреляный (Blooded rank), Crusade Relic(Лавры стратега(STRATEGIC LAURELS)),  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Warboss in Mega Armour  
@@ -183,8 +188,8 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - ’Uge choppa (Melee; Atk 4; WS 2+; S 12; AP -2; D 2)
 
 ## Жестянщики ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz))
-<ins>Опыт Отряда (XP):</ins> 5  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 9  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 170 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
@@ -192,9 +197,11 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - количество победных сражений, в которых участвовал отряд = 1  
 - количество отрядов, уничтоженных данным отрядом = 2
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Battle Trait (FLEET OF FOOT; You can re-roll Advance rolls for this unit and this unit is eligible to perform an Action in a turn in which they Advanced. In addition, if this unit is selected to Advance, until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at this unit)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  ранг Обстреляный (Blooded rank), Battle Trait (Легконогие (FLEET OF FOOT))  
 <ins>Состав и снаряжение отряда:</ins>  
 19 Boyz  
 - Choppa (Melee; Atk 3; WS 3+; S 4; AP -1; D 1)
@@ -205,8 +212,8 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - Slugga (Pistol; 12", Atk 1; WS 5+; S 4; AP 0; D 1)
 
 ## Ломалы ([Boyz](https://wahapedia.ru/wh40k10ed/factions/orks/Boyz))
-<ins>Опыт Отряда (XP):</ins> 5  
-<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 6  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 1  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 170 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
@@ -214,9 +221,11 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - количество победных сражений, в которых участвовал отряд = 1  
 - количество отрядов, уничтоженных данным отрядом = 1
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+  Battle Trait (FLEET OF FOOT; You can re-roll Advance rolls for this unit and this unit is eligible to perform an Action in a turn in which they Advanced. In addition, if this unit is selected to Advance, until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at this unit)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
+  ранг Обстреляный (Blooded rank), Battle Trait (Легконогие (FLEET OF FOOT))  
 <ins>Состав и снаряжение отряда:</ins>  
 19 Boyz  
 - Choppa (Melee; Atk 3; WS 3+; S 4; AP -1; D 1)
@@ -227,7 +236,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 - Slugga (Pistol; 12", Atk 1; WS 5+; S 4; AP 0; D 1)
 
 ## Клешни Чугунзада ([Meganobz](https://wahapedia.ru/wh40k10ed/factions/orks/Meganobz))
-<ins>Опыт Отряда (XP):</ins> 2  
+<ins>Опыт Отряда (XP):</ins> 3  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 65 (суммарно со всеми улучшениями)  
@@ -247,7 +256,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Опыт Отряда (XP):</ins> -  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
-<ins>Общая стоимость отряда:</ins> 175 (суммарно со всеми улучшениями)
+<ins>Общая стоимость отряда:</ins> 175 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1  
@@ -269,7 +278,7 @@ WAAAGH! Stompin’ Points = 11 (WAAAGH! Stage 2: Escalating WAAAGH!)
 <ins>Опыт Отряда (XP):</ins> -  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
-<ins>Общая стоимость отряда:</ins> 175 (суммарно со всеми улучшениями)
+<ins>Общая стоимость отряда:</ins> 175 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1  
