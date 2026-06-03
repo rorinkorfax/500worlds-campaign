@@ -1,7 +1,7 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Несущие Избавление**  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1400  
-<ins>Текущее Снабжение (Supply Used):</ins> 1350  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1600  
+<ins>Текущее Снабжение (Supply Used):</ins> 1470  
 <ins>Боевой Счёт (Battle Tally):</ins> 2  
 <ins>Счёт Побед:</ins> 0  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 3  
@@ -13,20 +13,21 @@
 - Слава Боевого Флота (WARFLEET GLORY): 3
 
 <ins>Список отрядов</ins>  
-- Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord), WARBAND CHAMPION, 1 XP, 0 CP, 105 pts)
-- Дигрдар Векс ([Lord Discordant on Hellstalker](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker), 5 XP, 0 CP, 160 pts)
-- Ван Мор ([Warpsmith](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warpsmith), 1 XP, 0 CP, 105 pts)
-- Стервятники Коша ([Legionaries (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Legionaries), 1 XP, 0 CP, 90 pts)
-- Кровавые охотники Сикста ([Chosen (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chosen), 0 XP, 0 CP, 125 pts)
+- Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord), WARBAND CHAMPION, 8 XP, 1 CP, 105 pts)
+- Дигрдар Векс ([Lord Discordant on Hellstalker](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Lord-Discordant-On-Helstalker), 10 XP, 1 CP, 160 pts)
+- Ван Мор ([Warpsmith](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warpsmith), 5 XP, 0 CP, 105 pts)
+- Стервятники Коша ([Legionaries (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Legionaries), 2 XP, 0 CP, 90 pts)
+- Кровавые охотники Сикста ([Chosen (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chosen), 5 XP, 0 CP, 125 pts)
 - Испепелители Солнц Варрона ([Havocs (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Havocs), 1 XP, 0 CP, 125 pts)
-- Хищники Имматериума ([Warp Talons (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warp-Talons), 1 XP, 0 CP, 125 pts)
-- Зверь Жеводана 4 ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend), 1 XP, 0 CP, 170 pts)
-- Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 1 XP, 0 CP, 110 pts)
-- Мессионер ([Chaos Rhino](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Rhino), 0 XP, 0 CP, 75 pts)
-- Поборники Осквернения ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators), 0 XP, 0 CP, 160 pts)
+- Хищники Имматериума ([Warp Talons (5 mod)](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Warp-Talons), 2 XP, 0 CP, 125 pts)
+- Зверь Жеводана 4 ([Forgefiend](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Forgefiend), 2 XP, 0 CP, 170 pts)
+- Арахножор ([Venomcrawler](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Venomcrawler), 2 XP, 0 CP, 110 pts)
+- Мессионер ([Chaos Rhino](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Rhino), 1 XP, 0 CP, 75 pts)
+- Поборники Осквернения ([Obliterators](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Obliterators), 1 XP, 0 CP, 160 pts)
+- Благословленные Сыны ([Possessed](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Possessed), 0 XP, 0 CP, 120 pts)
 
 <ins>Журнал изменений Боевых Порядков:</ins>  
-- 2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"
+- 2026-04-29: При создании Боевых Порядков взята реквизиция "Увеличение Снабжения" (-1 RP)
 - 2026-05-24: Поражение от Тёмных Ангелов на Таркад Виндикс (Орбитальная бомбардировка)  
 *Боевые Задачи:* Путь к Славе (Path To Glory), Стратегическое Превосходство (Strategic Dominance)  
 **Маликор “Десница Резни”** +1 XP (Боевой опыт)  
@@ -42,25 +43,29 @@
 *Хаос Чемпиона Варбанды:* +1 (Поражение D3=1)  
 Изменения по трекам Хаоса: Базово -1 все треки; Слава Боевого Флота +1 за -1 Хаос Чемпиона Варбанды  
 - 2026-05-24: Боевые Порядки используют реквизицию "Починка и восстановление" за 1 RP и снимают шрам с Арахножора (+1 СР)
-- 2026-05-25: Боевые Порядки используют реквизицию "Увеличение Снабжения"
+- 2026-05-25: Боевые Порядки используют реквизицию "Увеличение Снабжения" (-1 RP)
 - 2026-05-25: Боевые Порядки добавляют в свои ряды отряд Поборники Осквернения
 - 2026-06-01: Поражение от Орков на Криндаэре (Налёт на базу снабжения)  
 *Боевые Задачи:* Обезглавливание (CUT OFF THE HEAD), Глубокий прорыв (DRIVE DEEP)  
-**Маликор “Десница Резни”** +1 XP (Боевой опыт, Обезглавливание(WARLORD))  
-**Дигрдар Векс** + XP (Боевой опыт, Обезглавливание(EPIC HERO))  
-**Ван Мор** +1 XP (Боевой опыт, Отмечен величием)  
+**Маликор “Десница Резни”** +7 XP (Боевой опыт, Обезглавливание(Character, WARLORD))  
+**Дигрдар Векс** +5 XP (Боевой опыт, Обезглавливание(EPIC HERO))  
+**Ван Мор** +4 XP (Боевой опыт, Отмечен величием)  
 **Стервятники Коша** +1 XP (Боевой опыт)  
-**Испепелители Солнц Варрона** +1 XP (Боевой опыт)  
+**Кровавые охотники Сикста** +5 XP (Боевой опыт, Обезглавливание(EPIC HERO))  
+**Поборники Осквернения** +1 XP (Боевой опыт)  
 **Хищники Имматериума** +1 XP (Боевой опыт)  
 **Зверь Жеводана 4** +1 XP (Боевой опыт)  
 **Арахножор** +1 XP (Боевой опыт)  
-  Получен шрам (5) MARK OF SHAME  
-*Реквизиция:* +1 RP (Базовый)  
+**Мессионер** +1 XP (Боевой опыт)  
+*Реквизиция:* +2 RP (Базовый, Обезглавливание)  
 *Хаос Чемпиона Варбанды:* +1 (Поражение D3=1)  
 Изменения по трекам Хаоса: Базово -1 все треки; Личная Слава +1 за -1 Хаос Чемпиона Варбанды  
-> [!CAUTION]
-> Чойзы и лорд убивают бойзов и пейнбоя - кому фраги? (можно выдавать раздельно, 1 фраг чозенам, 1 лорду, например)  
-> Хаос чойзанами убивает маккари и лорд- газзкула - кому фраги? (можно выдавать раздельно, фраг макари - чозенам, газю - лорду, например)  
+- 2026-06-01: Маликор получает получает ранг Обстреляный; получена Награда отряда - Реликвия (Конверсионное поле (CONVERSION FIELD))  
+- 2026-06-01: Дигрдар Векс получает получает ранг Обстреляный; получена Награда отряда - Реликвия (Автомедикаэ (Auto Medicae))
+- 2026-06-01: Боевые Порядки используют реквизицию "Увеличение Снабжения" (-1 RP)
+- 2026-06-01: Боевые Порядки используют реквизицию "Свежие рекруты", расширяя отряд Кровавые охотники Сикста (-1 RP)
+- 2026-06-01: Боевые Порядки добавляют в свои ряды отряд Благословленные Сыны (5 мод)
+
 
 # Карточки отрядов
 ## Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord))
@@ -71,9 +76,12 @@
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 2  
 - количество победных сражений, в которых участвовал отряд = 0  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 2
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+> [!CAUTION]
+> Реликвия (Конверсионное поле (CONVERSION FIELD))
+
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
   Очки Хаоса (Chaos Points): 0  
@@ -92,9 +100,12 @@
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 2  
 - количество победных сражений, в которых участвовал отряд = 0  
-- количество отрядов, уничтоженных данным отрядом = 1
+- количество отрядов, уничтоженных данным отрядом = 2
 
-<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Награды отряда (Battle Honours):</ins>  
+> [!CAUTION]
+> Реликвия (Автомедикаэ (Auto Medicae))
+
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
   Character  
@@ -168,7 +179,7 @@
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -201,7 +212,7 @@
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 125 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 2  
+- количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 0  
 - количество отрядов, уничтоженных данным отрядом = 0
 
@@ -246,7 +257,7 @@
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 2  
 - количество победных сражений, в которых участвовал отряд = 0  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
