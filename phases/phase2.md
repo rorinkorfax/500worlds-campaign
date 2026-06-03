@@ -11,7 +11,7 @@
 **Условия (к6 = 6):** Volatile Combustibles  
 Each time players determine how many attacks are made with a Blast weapon, add an additional 1 to the result.  
 **Обороняющийся флот:** флот Несущих Избавление  
-**Дата сражения:**   
+**Дата сражения:** 7.06 (партия на 3х) 
 **Результат:**   
 
 ### Операции флота "Крылышки"  
@@ -19,8 +19,10 @@ Each time players determine how many attacks are made with a Blast weapon, add a
 **Условия (к6 = 1):** Sanctified Charges  
 At the start of the battle round, each player secretly selects and makes a note of one objective marker wholly within No Man’s Land. For each player, once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within range of their selected objective marker, that player can reveal that they selected that objective marker. If they do, roll one D6: on a 2+, that enemy unit suffers D6+1 mortal wounds.  
 **Обороняющийся флот:** силы Несущих Избавление  
-**Дата сражения:**   
-**Результат:** 
+**Дата сражения:** 03.06  
+**Результат:** Победа над силами "Несущих Избавление" на Икарон I ()
+> [!CAUTION]
+> Результат бомбардировки?
 
 ### Операции флота "Культа Бессеребряников"  
 Боевая операция "[Орбитальная бомбардировка](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Planetary-Bombardment)" ксеносов в рад-зоне Норалуса  
@@ -28,7 +30,7 @@ At the start of the battle round, each player secretly selects and makes a note 
 Each time a model makes a melee attack that targets an enemy unit, if that enemy unit made a Charge move this turn, add 1 to the Hit roll.  
 **Обороняющийся флот:** силы Маски разбитых зеркал  
 **Дата сражения:** 3.06
-**Результат:**   
+**Результат:** Победа над силами Маски разбитых зеркал на Норалусе (успешная бомбардировка, одна пустая стройплощадка уничтожена, УВ Хаоса +1 на Норалусе)  
 
 ### Операции флота "Несущих Избавление"  
 Боевая операция "[Захват опорной точки](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Seize-Power-Base)" Имперских сил в жилых блоках Икарон I  
@@ -51,7 +53,7 @@ Each time a model in a player’s army makes a ranged attack that targets an ene
 **Условия (к6 = 6):** Volatile Combustibles  
 Each time players determine how many attacks are made with a Blast weapon, add an additional 1 to the result.  
 **Обороняющийся флот:** флот Несущих Избавление  
-**Дата сражения:**   
+**Дата сражения:** 7.06 (партия на 3х)  
 **Результат:**   
 
 
