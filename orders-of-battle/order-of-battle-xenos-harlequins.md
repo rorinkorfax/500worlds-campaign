@@ -1,10 +1,10 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Маска разбитых зеркал**  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1200  
-<ins>Текущее Снабжение (Supply Used):</ins> 1190  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1400  
+<ins>Текущее Снабжение (Supply Used):</ins> 1395  
 <ins>Боевой Счёт (Battle Tally):</ins> 1  
 <ins>Счёт Побед:</ins> 1  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 1  
 <ins>Особые отметки:</ins>  
 **Уровень Угрозы [Нитям Судьбы](https://wahapedia.ru/wh40k10ed/factions/aeldari/harlequins#Guiding-Fate):** 1 / 13  
 - Предначертанное устройство(Рассвет) - Destined Device(Dawning)  
@@ -25,6 +25,8 @@
 - Ткач Светил ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 1 XP, 0 CP, 80 pts)
 - Ткач Пульсаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 1 XP, 0 CP, 80 pts)
 - Ткач Пустоты ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver), 1 XP, 0 CP, 125 pts)
+- Ткач Квазаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 0 XP, 0 CP, 80 pts)
+- Ткач Изнанки ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver), 0 XP, 0 CP, 125 pts)
 
 <ins>Журнал изменений Боевых Порядков:</ins>    
 - 2026-05-06: При создании Боевых Порядков за 1 RP взята реквизиция "Увеличение Снабжения"  
@@ -46,6 +48,8 @@
 Уровень Угрозы Нитям Судьбы растёт на d3 = 3  
 - 2026-05-22: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 1 RP и снимают шрам с Ткача Светил
 - 2026-05-22: Боевые Порядки используют реквизицию [Сгоревшее будущее(BURNED FUTURES)](https://wahapedia.ru/wh40k10ed/factions/aeldari/harlequins#Requisitions) за 2 RP и отменяют продвижение нити Предначертанное устройство в Зенит, а также отменяют повышение Уровня Угрозы Нитям Судьбы
+- 2026-05-28: Боевые Порядки используют реквизицию "Увеличение Снабжения"
+- 2026-06-28: Боевые Порядки добавляют в свои ряды отряды Ткач Квазаров и Ткач Изнанки
 
 # Карточки отрядов
 ## Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master))
@@ -304,3 +308,42 @@
 - 2 Shuriken cannon (Lethal Hits; 24"; Atk 3; BS 3+; S 6; AP -1; D 2)
 - Voidweaver haywire cannon (Anti-Vehicle 4+, Devastating Wounds; 24"; Atk 3; BS 3+; S 4; AP -1; D 3)
 - Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
+
+## Ткач Квазаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver))
+<ins>Опыт Отряда (XP):</ins> 0
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0
+<ins>Улучшения отряда:</ins>
+ Название улучшения (+Х pts; Детач; Описание)
+<ins>Общая стоимость отряда:</ins> 80 (суммарно со всеми улучшениями)
+<ins>Статистика Отряда:</ins>
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
+- количество отрядов, уничтоженных данным отрядом = 0
+
+<ins>Награды отряда (Battle Honours):</ins> -
+<ins>Шрамы Отряда (Battle Scars):</ins> -
+<ins>Особые отметки:</ins>
+<ins>Состав и снаряжение отряда:</ins>
+1 Starweaver
+- 2 Shuriken cannon (Lethal Hits 24"; Atk 3; BS 3+; S 6; AP -1; D 2)
+- Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
+
+## Ткач Изнанки ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 125 (суммарно со всеми улучшениями)  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
+- количество отрядов, уничтоженных данным отрядом = 0
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins> -  
+<ins>Состав и снаряжение отряда:</ins>  
+1 Voidweaver  
+- 2 Shuriken cannon (Lethal Hits; 24"; Atk 3; BS 3+; S 6; AP -1; D 2)
+- Voidweaver haywire cannon (Anti-Vehicle 4+, Devastating Wounds; 24"; Atk 3; BS 3+; S 4; AP -1; D 3)
+- Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
+
