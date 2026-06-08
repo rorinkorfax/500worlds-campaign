@@ -1,10 +1,10 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Объединённые силы "Ледяной Лев"**  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1600  
-<ins>Текущее Снабжение (Supply Used):</ins> 1560  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1400  
+<ins>Текущее Снабжение (Supply Used):</ins> 1270  
 <ins>Боевой Счёт (Battle Tally):</ins> 2  
 <ins>Счёт Побед:</ins> 1  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 1  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
 <ins>Особые отметки:</ins>  
 **[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
 Сражений до окончания: D6+4 = 9 > 7  
@@ -28,7 +28,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 68й полк темпестус "Дельтийские Львы", отряд "Сигма" ([Tempestus Aquilons](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Aquilons), 0 XP, 0 CP, 100 pts)
 - 68й полк темпестус "Дельтийские Львы", отряд "Омега" ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad), 0 XP, 0 CP, 100 pts)
 - 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Росинант" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 4 XP, 0 CP, 55 pts)
-- 175я танковая бригада, танк-командир Рогал Дорн "Фиделис" ([Rogal Dorn Commander](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Rogal-Dorn-Commander), 0 XP, 0 CP, 290 pts)
+<!-- 175я танковая бригада, танк-командир Рогал Дорн "Фиделис" ([Rogal Dorn Commander](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Rogal-Dorn-Commander), 0 XP, 0 CP, 290 pts)-->
 <!-- 175я танковая бригада, танк Леман Русс "Леонидас" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)-->
 
 <ins>Журнал изменений Боевых Порядков:</ins>    
@@ -76,8 +76,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-05-21: DL68th "Климент V" получает ранг Закалённый; получена Награда отряда - Модификация Оружия (Weapon Modifications - Lascannon(HEIRLOOM, FINELY BALANCED))  
 - 2026-05-21: Вх314 мв2 получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Неуловимые(EVASIVE))
 - 2026-05-21: Вх314 кв1 получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
-- 2026-06-08: 1 RP взята реквизиция "Увеличение Снабжения"
-- 2026-06-08: Из БП удалён отряд 175тбр "Леонидас" и добавлены отряды 175тбр "Фиделис" и DL68th "Сигма"
+- 2026-06-08: Из БП удалён отряд 175тбр "Леонидас" и добавлен отряд DL68th "Сигма"
+<!-- 2026-06-08: 1 RP взята реквизиция "Увеличение Снабжения"-->
   
 # Карточки отрядов
 ## Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus))
@@ -465,6 +465,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Close combat weapon (Melee; Atk 2; WS 4+; S 6; AP 0; D 1)
 - Sentinel chainsaw (Melee; Atk 3; WS 4+; S 6; AP -1; D 1)
 
+<!--
 ## 175я танковая бригада, танк-командир Рогал Дорн "Фиделис" ([Rogal Dorn Commander](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Rogal-Dorn-Commander))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
@@ -488,7 +489,6 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Hunter-killer missile (one shot; 48"; Atk 1; BS 4+; S 14; AP -3; D D6)
 - Close combat weapon (Melee; Atk 6; WS 4+; S 7; AP 0; D 1)
 
-<!--
 ## 175я танковая бригада, танк Леман Русс "Леонидас" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
