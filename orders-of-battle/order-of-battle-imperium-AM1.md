@@ -402,8 +402,9 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Hot-shot laspistol (pistol; 12"; Atk 1; BS 3+; S 3; AP -1; D 1)
 - Power Weapon (Melee; Atk 3; WS 4+; S 4; AP -2; D 1)
 
-1 Tempestus Aquilon - Meltagun  
-- Melta carbine (assault, melta 2; 10"; Atk 1; BS 3+; S 9; AP -4; D D6)
+1 Tempestus Aquilon - Plasma carbine  
+- Plasma carbine - standard (assault; 18"; Atk 2; BS 3+; S 7; AP -2; D 1)
+- Plasma carbine - supercharge (assault, hazardous; 18"; Atk 2; BS 3+; S 8; AP -3; D 2)
 - Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
 
 1 Tempestus Aquilon - Long-las  
