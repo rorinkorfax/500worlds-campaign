@@ -1,7 +1,7 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Объединённые силы "Ледяной Лев"**  
 <ins>Лимит Снабжения (Supply Limit):</ins> 1600  
-<ins>Текущее Снабжение (Supply Used):</ins> 1315  
+<ins>Текущее Снабжение (Supply Used):</ins> 1560  
 <ins>Боевой Счёт (Battle Tally):</ins> 2  
 <ins>Счёт Побед:</ins> 1  
 <ins>Доступная Реквизиция (Requisition Points):</ins> 1  
@@ -25,9 +25,11 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 68й полк темпестус "Дельтийские Львы", техножрец Тау-Каппа ([Tech-Priest Enginseer](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tech-Priest-Enginseer), 1 XP, 0 CP, 45 pts)
 - 68й полк темпестус "Дельтийские Львы", отряд "Альфа" ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 17 XP, 2 CP, 95 pts)
 - 68й полк темпестус "Дельтийские Львы", отряд "Альфа-2" ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions), 6 XP, 1 CP, 70 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд "Сигма" ([Tempestus Aquilons](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Aquilons), 0 XP, 0 CP, 100 pts)
 - 68й полк темпестус "Дельтийские Львы", отряд "Омега" ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad), 0 XP, 0 CP, 100 pts)
 - 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Росинант" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 4 XP, 0 CP, 55 pts)
-- 175я танковая бригада, танк Леман Русс "Леонидас" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)
+- 175я танковая бригада, танк-командир Рогал Дорн "Фиделис" ([Rogal Dorn Commander](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Rogal-Dorn-Commander), 0 XP, 0 CP, 290 pts)
+<!-- 175я танковая бригада, танк Леман Русс "Леонидас" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)-->
 
 <ins>Журнал изменений Боевых Порядков:</ins>    
 - 2026-04-28: При создании Боевых Порядков за 1 RP взята реквизиция "Почитаемые Герои" для Лорд-комиссара 1ого командного взвода 314ого полка Валхалльских Ледяных Воинов - получено постоянное улучшение Grand Strategist из детача Combined Arms.
@@ -75,7 +77,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-05-21: Вх314 мв2 получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Неуловимые(EVASIVE))
 - 2026-05-21: Вх314 кв1 получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
 - 2026-06-08: 1 RP взята реквизиция "Увеличение Снабжения"
-
+- 2026-06-08: Из БП удалён отряд 175тбр "Леонидас" и добавлены отряды 175тбр "Фиделис" и DL68th "Сигма"
   
 # Карточки отрядов
 ## Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus))
@@ -379,6 +381,43 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Hot-shot lasgun (rapid fire 1; 24"; Atk 1; BS 3+; S 3; AP -1; D 1)
 - Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
   
+## 68й полк темпестус "Дельтийские Львы", отряд "Сигма" ([Tempestus Aquilons](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Aquilons))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 100  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
+- количество отрядов, уничтоженных данным отрядом = 0  
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins>  
+  Deep Strike 6"  
+<ins>Состав и снаряжение отряда:</ins>  
+1 Tempestor Aquilon  
+- Sentry grenade launcher - frag (blast; 24"; Atk D3+3; BS 4+; S 4; AP 0; D 1)
+- Sentry grenade launcher - krak (24"; Atk 2; BS 4+; S 9; AP -2; D D3)
+- Hot-shot laspistol (pistol; 12"; Atk 1; BS 3+; S 3; AP -1; D 1)
+- Power Weapon (Melee; Atk 3; WS 4+; S 4; AP -2; D 1)
+
+1 Tempestus Aquilon - Meltagun  
+- Melta carbine (assault, melta 2; 10"; Atk 1; BS 3+; S 9; AP -4; D D6)
+- Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+
+1 Tempestus Aquilon - Long-las  
+- Hot-shot long-las (heavy, precision; 36"; Atk 1; BS 3+; S 4; AP -2; D 3)
+- Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+  
+1 Tempestus Aquilon - Pistolier  
+- 2x Hot-shot laspistol (pistol; 12"; Atk 1; BS 3+; S 3; AP -1; D 1)
+- Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+  
+6 Tempestus Aquilon  
+- Hot-shot lascarbine (assault; 18"; Atk 2; BS 3+; S 3; AP -1; D 1)
+- Close combat weapon	(Melee; Atk 2; WS 4+; S 3; AP 0; D 1)
+  
 ## 68й полк темпестус "Дельтийские Львы", отряд "Омега" ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
@@ -426,6 +465,30 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - Close combat weapon (Melee; Atk 2; WS 4+; S 6; AP 0; D 1)
 - Sentinel chainsaw (Melee; Atk 3; WS 4+; S 6; AP -1; D 1)
 
+## 175я танковая бригада, танк-командир Рогал Дорн "Фиделис" ([Rogal Dorn Commander](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Rogal-Dorn-Commander))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 290  
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 0
+- количество победных сражений, в которых участвовал отряд = 0
+- количество отрядов, уничтоженных данным отрядом = 0  
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins>  
+  Character
+<ins>Состав и снаряжение отряда:</ins>  
+1 Rogal Dorn Commander  
+- Oppressor cannon (blast; 72"; Atk D6+3; BS 4+; S 12; AP -2; D 3)
+- Lascannon (48"; Atk 1; BS 4+; S 12; AP -3; D D6+1)
+- 2x Plasma cannon – standard (blast; 36"; Atk D3; BS 4+; S 7; AP -2; D 1)
+- 2x Plasma cannon – supercharge (blast, hazardous; 36"; Atk D3; BS 4+; S 8; AP -3; D 2)
+- Hunter-killer missile (one shot; 48"; Atk 1; BS 4+; S 14; AP -3; D D6)
+- Close combat weapon (Melee; Atk 6; WS 4+; S 7; AP 0; D 1)
+
+<!--
 ## 175я танковая бригада, танк Леман Русс "Леонидас" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher))
 <ins>Опыт Отряда (XP):</ins> 0  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
@@ -442,11 +505,10 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Состав и снаряжение отряда:</ins>  
 1 Leman Russ Vanquisher  
 - Vanquisher battle cannon (heavy; 72"; Atk 1; BS 4+; S 18; AP -4; D D6+6)
-- Lascannon (48"; Atk 1; BS 4+; S 12; AP -3; D D6+1)
-- 2x Plasma cannon – standard (blast; 36"; Atk D3; BS 4+; S 7; AP -2; D 1)
-- 2x Plasma cannon – supercharge (blast, hazardous; 36"; Atk D3; BS 4+; S 8; AP -3; D 2)
-- Hunter-killer missile (one shot; 48"; Atk 1; BS 4+; S 14; AP -3; D D6)
-- Close combat weapon (Melee; Atk 6; WS 4+; S 7; AP 0; D 1)
+- Coaxial autocannon (48"; Atk 2; BS 4+; S 9; AP -1; D 3)
+- Pulveriser cannon blast	(24"; Atk D6; BS 4+; S 9; AP -3; D 3)
+- 2x Multi-melta (melta 2; 18"; Atk 2; BS 4+; S 9; AP -4; D D6)
+- 3x Heavy stubber (rapid fire 3; 36"; Atk 3; BS 4+; S 4; AP 0; D 1)
+- Armoured tracks (Melee; Atk 6; WS 4+; S 7; AP 0; D 1)
+-->
 
-
-<!-- 2026-05-21: DL68th "Климент V" получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Неотвратимый(UNRELENTING))  -->
