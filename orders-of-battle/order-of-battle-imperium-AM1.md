@@ -1,10 +1,10 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Объединённые силы "Ледяной Лев"**  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1400  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1600  
 <ins>Текущее Снабжение (Supply Used):</ins> 1315  
 <ins>Боевой Счёт (Battle Tally):</ins> 2  
 <ins>Счёт Побед:</ins> 1  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 1  
 <ins>Особые отметки:</ins>  
 **[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
 Сражений до окончания: D6+4 = 9 > 7  
@@ -74,6 +74,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-05-21: DL68th "Климент V" получает ранг Закалённый; получена Награда отряда - Модификация Оружия (Weapon Modifications - Lascannon(HEIRLOOM, FINELY BALANCED))  
 - 2026-05-21: Вх314 мв2 получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Неуловимые(EVASIVE))
 - 2026-05-21: Вх314 кв1 получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
+- 2026-06-08: 1 RP взята реквизиция "Увеличение Снабжения"
+
   
 # Карточки отрядов
 ## Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus))
