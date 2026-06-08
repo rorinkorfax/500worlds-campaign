@@ -21,9 +21,7 @@ Each time players determine how many attacks are made with a Blast weapon, add a
 At the start of the battle round, each player secretly selects and makes a note of one objective marker wholly within No Man’s Land. For each player, once per battle, when an enemy unit ends a Normal, Advance or Fall Back move within range of their selected objective marker, that player can reveal that they selected that objective marker. If they do, roll one D6: on a 2+, that enemy unit suffers D6+1 mortal wounds.  
 **Обороняющийся флот:** силы Несущих Избавление  
 **Дата сражения:** 03.06  
-**Результат:** Победа над силами "Несущих Избавление" на Икарон I ()
-> [!CAUTION]
-> Результат бомбардировки?
+**Результат:** Победа над силами "Несущих Избавление" на Икарон I (Крепость Хаоса уничтожена; УВ Империума +1 на Икарон I)
 
 ### Операции флота "Культа Бессеребряников"  
 Боевая операция "[Орбитальная бомбардировка](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Planetary-Bombardment)" ксеносов в рад-зоне Норалуса  
