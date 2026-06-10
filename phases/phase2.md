@@ -12,7 +12,7 @@
 **Условия (к6 = 6):** Volatile Combustibles  
 Each time players determine how many attacks are made with a Blast weapon, add an additional 1 to the result.  
 **Обороняющийся флот:** флот Несущих Избавление  
-**Дата сражения:** 7.06 (партия на 3х) 
+**Дата сражения:** 13.06 (партия на 3х) 
 **Результат:**   
 
 ### Операции флота "Крылышки"  
@@ -52,7 +52,7 @@ Each time a model in a player’s army makes a ranged attack that targets an ene
 **Условия (к6 = 6):** Volatile Combustibles  
 Each time players determine how many attacks are made with a Blast weapon, add an additional 1 to the result.  
 **Обороняющийся флот:** флот Несущих Избавление  
-**Дата сражения:** 7.06 (партия на 3х)  
+**Дата сражения:** 13.06 (партия на 3х)  
 **Результат:**   
 
 
