@@ -12,7 +12,7 @@
 **Условия (к6 = 6):** Volatile Combustibles  
 Each time players determine how many attacks are made with a Blast weapon, add an additional 1 to the result.  
 **Обороняющийся флот:** флот Несущих Избавление  
-**Дата сражения:** 13.06 (партия на 3х) 
+**Дата сражения:** 13.06 (партия на 3х)  
 **Результат:**   
 
 ### Операции флота "Крылышки"  
@@ -28,7 +28,7 @@ At the start of the battle round, each player secretly selects and makes a note 
 **Условия (к6 = 4):** Rad Malaise  
 Each time a model makes a melee attack that targets an enemy unit, if that enemy unit made a Charge move this turn, add 1 to the Hit roll.  
 **Обороняющийся флот:** силы Маски разбитых зеркал  
-**Дата сражения:** 3.06
+**Дата сражения:** 3.06  
 **Результат:** Победа над силами Маски разбитых зеркал на Норалусе (успешная бомбардировка, одна пустая стройплощадка уничтожена, УВ Хаоса +1 на Норалусе)  
 
 ### Операции флота "Несущих Избавление"  
@@ -36,8 +36,8 @@ Each time a model makes a melee attack that targets an enemy unit, if that enemy
 **Условия (к6 = 2):** Roiling Fumes  
 While a model is wholly within an AREA TERRAIN feature, that model has the Stealth ability.  
 **Обороняющийся флот:** капитул Тёмных Ангелов "Крылышки"  
-**Дата сражения:**   
-**Результат:** 
+**Дата сражения:**  
+**Результат:**  
 
 ### Операции флота "Стреляки-вороваки"  
 Боевая операция "[Налёт на базу снабжения](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Supply-Base-Raid)" Имперских сил на горнодобывающем карьере Криндаэра  
