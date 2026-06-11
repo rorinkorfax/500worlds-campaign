@@ -32,7 +32,10 @@
 *Очки Чести по Присяге* +6 (Победа, Никто не должен узнать, Ангелы смерти)  
 - 2026-05-24: Недобэгийцы получают ранг Обстреляный; получена Награда отряда -  Боевая Особенность (Закалённые в битве(TEMPERED IN BATTLE))  
 - 2026-05-24: Немощь Святого Плюстриния получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM, FINELY BALANCED))  
-  
+> [!CAUTION]
+> Добавление Техмарин, Ravenwing Black Knights и Ravenving Command Squad  
+> Победа над силами Несущих Избавление  
+
 # Карточки отрядов
 ## Азраил ([Azrael](https://wahapedia.ru/wh40k10ed/factions/space-marines/Azrael))
 <ins>Опыт Отряда (XP):</ins> -  
