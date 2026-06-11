@@ -81,12 +81,10 @@
 *Хаос Чемпиона Варбанды:* +2 (Поражение D3=2)  
 Изменения по трекам Хаоса: Базово -1 все треки; Личная Слава +1 и Слава Тёмных Богов +1 за -2 Хаос Чемпиона Варбанды  
 - 2026-06-01: Боевые Порядки используют реквизицию "Подходящее подношение" (A FITTING TRIBUTE) (-2 RP; +1 Хаос Чемпиона Варбанды) и немедленно тратят Хаос Чемпиона Варбанды на +1 Славы Боевого Флота
-- 2026-06-01: Ван Мор получает получает ранг Обстреляный; получена Награда отряда - 
+- 2026-06-01: Ван Мор получает получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Владыка машины (MACHINE LORD))
 - 2026-06-01: Кровавые охотники Сикста получает получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Полные ненависти мясники (HATE-FUELLED BUTCHERS))
-- 2026-06-01: Зверь Жеводана 4 получает получает ранг Обстреляный; получена Награда отряда - 
-> [!CAUTION]
-> Ван Мор получает получает ранг Обстреляный;  
-> Зверь Жеводана 4 получает получает ранг Обстреляный;  
+- 2026-06-01: Зверь Жеводана 4 получает получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Убийца титанов (TITAN SLAYER))
+
 
 # Карточки отрядов
 ## Маликор “Десница Резни” ([Chaos Lord](https://wahapedia.ru/wh40k10ed/factions/chaos-space-marines/Chaos-Lord))
@@ -147,12 +145,10 @@
 - количество отрядов, уничтоженных данным отрядом = 0
 
 <ins>Награды отряда (Battle Honours):</ins>  
-> [!CAUTION]
-> Ван Мор получает получает ранг Обстреляный  
-
+  Battle Trait (MACHINE LORD; While a friendly HERETIC ASTARTES VEHICLE unit is within 6" of this model, each time a model in that unit makes an attack, re-roll a Wound roll of 1)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  ранг Обстреляный (Blooded rank), ???
+  ранг Обстреляный (Blooded rank), Battle Trait (Владыка машины (MACHINE LORD))  
   Character, Leader  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Warpsmith  
@@ -291,12 +287,10 @@
 - количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins>  
-> [!CAUTION]
-> Зверь Жеводана 4 получает получает ранг Обстреляный  
-
+  Battle Trait (TITAN SLAYER; Each time a model in this unit makes an attack that targets a MONSTER or VEHICLE unit, re-roll a Hit roll of 1. If that attack targets a TITANIC unit, you can re-roll the Hit roll instead)  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
 <ins>Особые отметки:</ins>  
-  ранг Обстреляный (Blooded rank), ???  
+  ранг Обстреляный (Blooded rank), Battle Trait (Убийца титанов (TITAN SLAYER))  
 <ins>Состав и снаряжение отряда:</ins>  
 1 Forgefiend  
 - Ectoplasma cannon (x3) (Blast; 36"; Atk D3; BS 3+; S 10; AP -3; D 3)
