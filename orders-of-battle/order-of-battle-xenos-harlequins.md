@@ -12,19 +12,19 @@
 - Очищение от Разложения(Зенит) - Cleanse the Corruption(Waning)  
 
 <ins>Список отрядов</ins>  
-- Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master), Warlord, 4 XP, 0 CP, 75 pts)
-- Тираэль Шёпот Ветров ([Shadowseer](https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadowseer), 1 XP, 0 CP, 60 pts)
-- Фаэналь Пронзатель Сердец ([Death Jester](https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester), 1 XP, 0 CP, 100 pts)
+- Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master), Warlord, 5 XP, 0 CP, 75 pts)
+- Тираэль Шёпот Ветров ([Shadowseer](https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadowseer), 2 XP, 0 CP, 60 pts)
+- Фаэналь Пронзатель Сердец ([Death Jester](https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester), 2 XP, 0 CP, 100 pts)
 - Зинфандель Оскал Времен ([Solitaire](https://wahapedia.ru/wh40k10ed/factions/aeldari/Solitaire), - XP, 1 CP, 115 pts)
-- Труппа Миртаэля Импровизатора ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 1 XP, 0 CP, 85 pts)
-- Труппа Илдорона Тысячеликого ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 1 XP, 0 CP, 85 pts)
-- Труппа Гаэларна Радости Подмосток ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 0 XP, 0 CP, 100 pts)
-- Ткачи Туманов ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 1 XP, 0 CP, 95 pts)
-- Ткачи Ветров ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 1 XP, 0 CP, 95 pts)
-- Ткачи Вихрей ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 0 XP, 0 CP, 95 pts)
-- Ткач Светил ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 1 XP, 0 CP, 80 pts)
-- Ткач Пульсаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 1 XP, 0 CP, 80 pts)
-- Ткач Пустоты ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver), 1 XP, 0 CP, 125 pts)
+- Труппа Миртаэля Импровизатора ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 2 XP, 0 CP, 85 pts)
+- Труппа Илдорона Тысячеликого ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 2 XP, 0 CP, 85 pts)
+- Труппа Гаэларна Радости Подмосток ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe), 1 XP, 0 CP, 100 pts)
+- Ткачи Туманов ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 2 XP, 0 CP, 95 pts)
+- Ткачи Ветров ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 2 XP, 0 CP, 95 pts)
+- Ткачи Вихрей ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers), 1 XP, 0 CP, 95 pts)
+- Ткач Светил ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 2 XP, 0 CP, 80 pts)
+- Ткач Пульсаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 2 XP, 0 CP, 80 pts)
+- Ткач Пустоты ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver), 5 XP, 0 CP, 125 pts)
 - Ткач Квазаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver), 0 XP, 0 CP, 80 pts)
 - Ткач Изнанки ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver), 0 XP, 0 CP, 125 pts)
 
@@ -64,17 +64,17 @@
 **Ткачи Вихрей** +1 XP (Боевой опыт)  
 **Ткач Светил** +1 XP (Боевой опыт)  
 **Ткач Пульсаров** +1 XP (Боевой опыт)  
-**Ткач Пустоты** +1 XP (Боевой опыт)  
+**Ткач Пустоты** +4 XP (Боевой опыт, Отмечен величием)  
 *Реквизиция:* +1 RP (База)  
 *Нить судьбы* Очищение от Разложения (Cleanse the Corruption) переходит из Рассвета в Зенит  
 *Уровень Угрозы* Нитям Судьбы растёт на 3 (поражение)
 > [!CAUTION]
-> Отмечен величием?
+> Scars?
 
 
 # Карточки отрядов
 ## Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master))
-<ins>Опыт Отряда (XP):</ins> 4  
+<ins>Опыт Отряда (XP):</ins> 5  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 75 (суммарно со всеми улучшениями)  
@@ -93,7 +93,7 @@
 - Troupe Master’s blade (Devastating Wounds; Melee; Atk 5; WS 2+; S 5; AP -2; D 2)
 
 ## Тираэль Шёпот Ветров ([Shadowseer](https://wahapedia.ru/wh40k10ed/factions/aeldari/Shadowseer))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 2  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 60 (суммарно со всеми улучшениями)  
@@ -112,7 +112,7 @@
 - Miststave (Melee, Psychic; Atk 4; WS 2+; S 5; AP -1; D D3)
 
 ## Фаэналь Пронзатель Сердец ([Death Jester](https://wahapedia.ru/wh40k10ed/factions/aeldari/Death-Jester))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 2  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins>  
   Fanged Leer (+10 pts; Serpent’s Brood Detachment; DEATH JESTER model only. When using the bearer’s Cruel Amusement ability, you can select two of the abilities for its shrieker cannon to gain, instead of one.)  
@@ -151,7 +151,7 @@
 - Solitaire weapons (precision; Melee; Atk 9; WS 2+; S 6; AP -2; D 2)
 
 ## Труппа Миртаэля Импровизатора ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 2  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 85 (суммарно со всеми улучшениями)  
@@ -174,7 +174,7 @@
 
 
 ## Труппа Илдорона Тысячеликого ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 2  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 85 (суммарно со всеми улучшениями)  
@@ -196,7 +196,7 @@
 - Harlequin’s blade (Devastating Wounds; Melee; Atk 5; WS 3+; S 4; AP -2; D 1)
 
 ## Труппа Гаэларна Радости Подмосток ([Troupe](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 100 (суммарно со всеми улучшениями)  
@@ -218,7 +218,7 @@
 - Harlequin’s blade (Devastating Wounds; Melee; Atk 5; WS 3+; S 4; AP -2; D 1)
 
 ## Ткачи Туманов ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 2  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 95 (суммарно со всеми улучшениями)  
@@ -237,7 +237,7 @@
 - Zephyrglaive (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
 
 ## Ткачи Ветров ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 2  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 95 (суммарно со всеми улучшениями)  
@@ -256,7 +256,7 @@
 - Zephyrglaive (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
 
 ## Ткачи Вихрей ([Skyweavers](https://wahapedia.ru/wh40k10ed/factions/aeldari/Skyweavers))
-<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Опыт Отряда (XP):</ins> 1  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 95 (суммарно со всеми улучшениями)  
@@ -275,7 +275,7 @@
 - Zephyrglaive (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
 
 ## Ткач Светил ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 2  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 80 (суммарно со всеми улучшениями)  
@@ -294,7 +294,7 @@
 - Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
 
 ## Ткач Пульсаров ([Starweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Starweaver))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 2  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 80 (суммарно со всеми улучшениями)  
@@ -312,7 +312,7 @@
 - Close combat weapon (Melee; Atk 4; BS 3+; S 3; AP 0; D 1)
 
 ## Ткач Пустоты ([Voidweaver](https://wahapedia.ru/wh40k10ed/factions/aeldari/Voidweaver))
-<ins>Опыт Отряда (XP):</ins> 1  
+<ins>Опыт Отряда (XP):</ins> 5  
 <ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 125 (суммарно со всеми улучшениями)  
