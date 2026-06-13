@@ -4,7 +4,7 @@
 <ins>Текущее Снабжение (Supply Used):</ins> 1395  
 <ins>Боевой Счёт (Battle Tally):</ins> 1  
 <ins>Счёт Побед:</ins> 1  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 1  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 0  
 <ins>Особые отметки:</ins>  
 **Уровень Угрозы [Нитям Судьбы](https://wahapedia.ru/wh40k10ed/factions/aeldari/harlequins#Guiding-Fate):** 4 / 13  
 - Предначертанное устройство(Рассвет) - Destined Device(Dawning)  
@@ -55,9 +55,11 @@
 *Нить:* Труппа Гаэларна Радости Подмосток назначена на нить Очищение от Разложения (Cleanse the Corruption)  
 **Фаоилтиарн Дурошлеп** +1 XP (Боевой опыт)  
 **Тираэль Шёпот Ветров** +1 XP (Боевой опыт)  
-**Фаэналь Пронзатель Сердец** +1 XP (Боевой опыт)  
+**Фаэналь Пронзатель Сердец** +1 XP (Боевой опыт)
+  получает шрам (1) CRIPPLING DAMAGE  
 **Труппа Миртаэля Импровизатора** +1 XP (Боевой опыт)  
-**Труппа Илдорона Тысячеликого** +1 XP (Боевой опыт)  
+**Труппа Илдорона Тысячеликого** +1 XP (Боевой опыт)
+  получает шрам (5) MARK OF SHAME  
 **Труппа Гаэларна Радости Подмосток** +1 XP (Боевой опыт)  
 **Ткачи Туманов** +1 XP (Боевой опыт)  
 **Ткачи Ветров** +1 XP (Боевой опыт)  
@@ -68,9 +70,7 @@
 *Реквизиция:* +1 RP (База)  
 *Нить судьбы* Очищение от Разложения (Cleanse the Corruption) переходит из Рассвета в Зенит  
 *Уровень Угрозы* Нитям Судьбы растёт на 3 (поражение)
-> [!CAUTION]
-> Scars?
-
+- 2026-05-22: Боевые Порядки используют реквизицию [Починка и восстановление](https://wahapedia.ru/wh40k10ed/the-rules/crusade-rules/#Requisitions) за 1 RP и снимают шрам с Труппы Илдорона Тысячеликого
 
 # Карточки отрядов
 ## Фаоилтиарн Дурошлеп ([Troupe Master](https://wahapedia.ru/wh40k10ed/factions/aeldari/Troupe-Master))
@@ -123,7 +123,8 @@
 - количество отрядов, уничтоженных данным отрядом = 0
 
 <ins>Награды отряда (Battle Honours):</ins> -  
-<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins>  
+CRIPPLING DAMAGE - This unit cannot Advance and you must subtract 1" from the Move characteristic of models in this unit  
 <ins>Особые отметки:</ins>  
   Character  
 <ins>Состав и снаряжение отряда:</ins> -  
