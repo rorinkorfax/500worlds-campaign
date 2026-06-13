@@ -1,25 +1,25 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Leftovers Wing** (Капитул "Крылышки")  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1000  
-<ins>Текущее Снабжение (Supply Used):</ins> 995  
-<ins>Боевой Счёт (Battle Tally):</ins> 1  
-<ins>Счёт Побед:</ins> 1  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 5  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1400  
+<ins>Текущее Снабжение (Supply Used):</ins> 1250  
+<ins>Боевой Счёт (Battle Tally):</ins> 2  
+<ins>Счёт Побед:</ins> 2  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 6  
 <ins>Особые отметки:</ins>  
 **Присяга (Oathsworn Campaign)**  
-Тайны Непрощённых (Secrets Of The Unforgiven): сражений 1/3  
-Очки Чести (Honour Points): 6  
+Тайны Непрощённых (Secrets Of The Unforgiven): сражений 2/3  
+Очки Чести (Honour Points): 10  
 
 <ins>Список отрядов</ins>  
 - Азраил ([Azrael](https://wahapedia.ru/wh40k10ed/factions/space-marines/Azrael), - XP, 1 CP, 125 pts)
-- Брат Унылий ([Apothecary](https://wahapedia.ru/wh40k10ed/factions/space-marines/Apothecary), 5 XP, 0 CP, 50 pts)
-- Колесница Блаженного Бесполезния ([Gladiator Reaper](https://wahapedia.ru/wh40k10ed/factions/space-marines/Gladiator-Reaper), 4 XP, 0 CP, 160 pts)
-- Немощь Святого Плюстриния ([Repulsor Executioner](https://wahapedia.ru/wh40k10ed/factions/space-marines/Repulsor-Executioner), 6 XP, 1 CP, 230 pts)
-- Консервобанкийцы ([Deathwing Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Deathwing-Knights), 9 XP, 1 CP, 250 pts)
-- Недобэгийцы ([Inner Circle Companions](https://wahapedia.ru/wh40k10ed/factions/space-marines/Inner-Circle-Companions), 7 XP, 1 CP, 180 pts)
-- Брат Перволиний ([Techmarine](https://wahapedia.ru/wh40k10ed/factions/space-marines/Techmarine), 0 XP, 0 CP, 55 pts)
-- Троица Дайгая ([Ravenwing Command Squad](https://wahapedia.ru/wh40k10ed/factions/space-marines/Ravenwing-Command-Squad), 0 XP, 0 CP, 120 pts)
-- Алюминиевые Клевцы ([Ravenwing Black Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Ravenwing-Black-Knights), 0 XP, 0 CP, 80 pts)
+- Брат Унылий ([Apothecary](https://wahapedia.ru/wh40k10ed/factions/space-marines/Apothecary), 9 XP, 1 CP, 50 pts)
+- Колесница Блаженного Бесполезния ([Gladiator Reaper](https://wahapedia.ru/wh40k10ed/factions/space-marines/Gladiator-Reaper), 8 XP, 1 CP, 160 pts)
+- Немощь Святого Плюстриния ([Repulsor Executioner](https://wahapedia.ru/wh40k10ed/factions/space-marines/Repulsor-Executioner), 7 XP, 1 CP, 230 pts)
+- Консервобанкийцы ([Deathwing Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Deathwing-Knights), 16 XP, 2 CP, 250 pts)
+- Недобэгийцы ([Inner Circle Companions](https://wahapedia.ru/wh40k10ed/factions/space-marines/Inner-Circle-Companions), 10 XP, 1 CP, 180 pts)
+- Брат Перволиний ([Techmarine](https://wahapedia.ru/wh40k10ed/factions/space-marines/Techmarine), 1 XP, 0 CP, 55 pts)
+- Троица Дайгая ([Ravenwing Command Squad](https://wahapedia.ru/wh40k10ed/factions/space-marines/Ravenwing-Command-Squad), 1 XP, 0 CP, 120 pts)
+- Алюминиевые Клевцы ([Ravenwing Black Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Ravenwing-Black-Knights), 1 XP, 0 CP, 80 pts)
 
 <ins>Журнал изменений Боевых Порядков:</ins>  
 - 2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция VETERAN INITIATES для Консервобанкийцев - получены 6 XP; получен ранг Обстреляный; получена Награда отряда - Боевая Особенность (Непреклонные охотники (STAUNCH HUNTERS))  
@@ -31,13 +31,26 @@
 **Немощь Святого Плюстриния** +6 XP (Боевой опыт, Не зная страха(ниже половины силы), Азраил выбирает целью Crusade Ability (INSPIRATIONAL CHAMPION))  
 **Консервобанкийцы** +3 XP (Боевой опыт, Не зная страха(ниже половины силы))  
 **Недобэгийцы** +7 XP (Боевой опыт, Ангелы смерти, Не зная страха(не ниже половины силы), Отмечен величием)  
-*Реквизиция:* +1 RP (Базовый)  
+*Реквизиция:* +1 RP (База)  
 *Очки Чести по Присяге* +6 (Победа, Никто не должен узнать, Ангелы смерти)  
 - 2026-05-24: Недобэгийцы получают ранг Обстреляный; получена Награда отряда -  Боевая Особенность (Закалённые в битве(TEMPERED IN BATTLE))  
 - 2026-05-24: Немощь Святого Плюстриния получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM, FINELY BALANCED))
 - 2026-06-03: В БП добавлены отряды Брат Перволиний, Троица Дайгая и Алюминиевые Клевцы
+- 2026-05-03: Победа над силами "Несущих Избавление" на Икарон I (Орбитальная бомбардировка)  
+*Боевые Задачи:* Ангелы смерти (Angels of death, не выполнена), Не зная страха (Know No Fear), Никто не должен узнать (Non Must Know)  
+**Брат Унылий** +4 XP (Боевой опыт, Не зная страха(не ниже половины силы), Торговцы Смертью(убито 3 отряда))  
+**Колесница Блаженного Бесполезния** +4 XP (Боевой опыт, Отмечен величием)  
+**Немощь Святого Плюстриния** +1 XP (Боевой опыт)  
+**Консервобанкийцы** +7 XP (Боевой опыт, Не зная страха(не ниже половины силы), Торговцы Смертью(убито 3 отряда), Азраил выбирает целью Crusade Ability (INSPIRATIONAL CHAMPION))  
+**Недобэгийцы** +3 XP (Боевой опыт, Не зная страха(не ниже половины силы))  
+**Брат Перволиний** +1 XP (Боевой опыт)  
+**Троица Дайгая** +1 XP (Боевой опыт)  
+**Алюминиевые Клевцы** +1 XP (Боевой опыт)  
+*Реквизиция:* +1 RP (База)  
+*Очки Чести по Присяге* +4 (Победа, Никто не должен узнать)  
 > [!CAUTION]
-> Победа над силами Несущих Избавление  
+> LvlUp Брат Унылий, Колесница Блаженного Бесполезния, Консервобанкийцы 
+
 
 # Карточки отрядов
 ## Азраил ([Azrael](https://wahapedia.ru/wh40k10ed/factions/space-marines/Azrael))
@@ -46,8 +59,8 @@
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 125 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1  
-- количество победных сражений, в которых участвовал отряд = 1  
+- количество сражений, в которых участвовал отряд = 2  
+- количество победных сражений, в которых участвовал отряд = 2  
 - количество отрядов, уничтоженных данным отрядом = 0
 
 <ins>Награды отряда (Battle Honours):</ins> -  
@@ -66,8 +79,8 @@
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 50 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1  
-- количество победных сражений, в которых участвовал отряд = 1  
+- количество сражений, в которых участвовал отряд = 2  
+- количество победных сражений, в которых участвовал отряд = 2  
 - количество отрядов, уничтоженных данным отрядом = 3
 
 <ins>Награды отряда (Battle Honours):</ins> -  
@@ -86,8 +99,8 @@
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 160 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1  
-- количество победных сражений, в которых участвовал отряд = 1  
+- количество сражений, в которых участвовал отряд = 2  
+- количество победных сражений, в которых участвовал отряд = 2  
 - количество отрядов, уничтоженных данным отрядом = 2
 
 <ins>Награды отряда (Battle Honours):</ins> -  
@@ -107,9 +120,9 @@
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 230 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1  
-- количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 1
+- количество сражений, в которых участвовал отряд = 2  
+- количество победных сражений, в которых участвовал отряд = 2  
+- количество отрядов, уничтоженных данным отрядом = 2
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Weapon Modifications - Heavy laser destroyer(HEIRLOOM, Atk +1; FINELY BALANCED, BS +1))
@@ -133,9 +146,9 @@
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 250 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1  
-- количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество сражений, в которых участвовал отряд = 2  
+- количество победных сражений, в которых участвовал отряд = 2  
+- количество отрядов, уничтоженных данным отрядом = 3
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (STAUNCH HUNTERS; At the start of each player’s turn, one model in this unit regains 1 lost wound)  
@@ -156,9 +169,9 @@
 <ins>Улучшения отряда:</ins> -  
 <ins>Общая стоимость отряда:</ins> 180 (суммарно со всеми улучшениями)  
 <ins>Статистика Отряда:</ins>  
-- количество сражений, в которых участвовал отряд = 1  
-- количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 1
+- количество сражений, в которых участвовал отряд = 2  
+- количество победных сражений, в которых участвовал отряд = 2  
+- количество отрядов, уничтоженных данным отрядом = 2
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (TEMPERED IN BATTLE; Once per battle, in your Command phase, this unit can use this Battle Trait. If it does, until the end of the turn, this unit is eligible to shoot, declare a charge and perform an Action in a turn in which it Fell Back. In addition, this unit is eligible to perform an Action while it is Battle-shocked)
@@ -204,7 +217,7 @@ Vengeance of the Omnissiah: If a friendly ADEPTUS ASTARTES VEHICLE model is dest
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1 
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
@@ -237,7 +250,7 @@ Narthecium: While this unit contains a Ravenwing Apothecary, in your Command pha
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1  
 - количество победных сражений, в которых участвовал отряд = 1 
-- количество отрядов, уничтоженных данным отрядом = 0
+- количество отрядов, уничтоженных данным отрядом = 1
 
 <ins>Награды отряда (Battle Honours):</ins> -  
 <ins>Шрамы Отряда (Battle Scars):</ins> -  
