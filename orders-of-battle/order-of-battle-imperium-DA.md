@@ -17,6 +17,9 @@
 - Немощь Святого Плюстриния ([Repulsor Executioner](https://wahapedia.ru/wh40k10ed/factions/space-marines/Repulsor-Executioner), 6 XP, 1 CP, 230 pts)
 - Консервобанкийцы ([Deathwing Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Deathwing-Knights), 9 XP, 1 CP, 250 pts)
 - Недобэгийцы ([Inner Circle Companions](https://wahapedia.ru/wh40k10ed/factions/space-marines/Inner-Circle-Companions), 7 XP, 1 CP, 180 pts)
+- Брат Перволиний ([Techmarine](https://wahapedia.ru/wh40k10ed/factions/space-marines/Techmarine), 0 XP, 0 CP, 55 pts)
+- Троица Дайгая ([Ravenwing Command Squad](https://wahapedia.ru/wh40k10ed/factions/space-marines/Ravenwing-Command-Squad), 0 XP, 0 CP, 120 pts)
+- Алюминиевые Клевцы ([Ravenwing Black Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Ravenwing-Black-Knights), 0 XP, 0 CP, 80 pts)
 
 <ins>Журнал изменений Боевых Порядков:</ins>  
 - 2026-04-29: При создании Боевых Порядков за 1 RP взята реквизиция VETERAN INITIATES для Консервобанкийцев - получены 6 XP; получен ранг Обстреляный; получена Награда отряда - Боевая Особенность (Непреклонные охотники (STAUNCH HUNTERS))  
@@ -31,9 +34,9 @@
 *Реквизиция:* +1 RP (Базовый)  
 *Очки Чести по Присяге* +6 (Победа, Никто не должен узнать, Ангелы смерти)  
 - 2026-05-24: Недобэгийцы получают ранг Обстреляный; получена Награда отряда -  Боевая Особенность (Закалённые в битве(TEMPERED IN BATTLE))  
-- 2026-05-24: Немощь Святого Плюстриния получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM, FINELY BALANCED))  
+- 2026-05-24: Немощь Святого Плюстриния получает ранг Обстреляный; получена Награда отряда - Модификация Оружия (Weapon Modifications - Heavy laser destroyer(HEIRLOOM, FINELY BALANCED))
+- 2026-06-03: В БП добавлены отряды Брат Перволиний, Троица Дайгая и Алюминиевые Клевцы
 > [!CAUTION]
-> Добавление Техмарин, Ravenwing Black Knights и Ravenving Command Squad  
 > Победа над силами Несущих Избавление  
 
 # Карточки отрядов
@@ -167,3 +170,87 @@
 - Heavy bolt pistol (Pistol; 18"; Atk 1; BS 3+; S 4; AP -1; D 1)
 - Calibanite greatsword- strike (lethal hits; Melee; Atk 4; WS 3+; S 6; AP -2; D 2)
 - Calibanite greatsword- sweep (sustained hits 2; Melee; Atk 5; WS 3+; S 6; AP -2; D 1)
+
+## Брат Перволиний ([Techmarine](https://wahapedia.ru/wh40k10ed/factions/space-marines/Techmarine))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 55 (суммарно со всеми улучшениями)
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 1  
+- количество победных сражений, в которых участвовал отряд = 1 
+- количество отрядов, уничтоженных данным отрядом = 0
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins>  
+  Character
+Techmarine: While this model is within 3" of one or more friendly ADEPTUS ASTARTES VEHICLE units, this model has the Lone Operative ability.
+Blessing of the Omnissiah: In your Command phase, you can select one friendly ADEPTUS ASTARTES VEHICLE model within 3" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn.
+Vengeance of the Omnissiah: If a friendly ADEPTUS ASTARTES VEHICLE model is destroyed within 12" of this model, until the end of the battle, this model’s Omnissian power axe has an Attacks characteristic of 7.
+
+<ins>Состав и снаряжение отряда:</ins>  
+1 Techmarine  
+- Forge bolter (24"; Atk 3; BS 2+; S 5; AP -1; D 2)
+- Grav-pistol  (PISTOL, anti-vehicle 2+; 12"; Atk 1; BS 2+; S 4; AP -1; D 2)
+- Omnissian power axe (Melee; Atk 4; BS 3+; S 6; AP -2; D 2)
+- Servo-arm (extra attacks; Melee; Atk 1; BS 3+; S 8; AP -2; D 3)
+
+## Троица Дайгая ([Ravenwing Command Squad](https://wahapedia.ru/wh40k10ed/factions/space-marines/Ravenwing-Command-Squad))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -   
+<ins>Общая стоимость отряда:</ins> 120 (суммарно со всеми улучшениями)
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 1  
+- количество победных сражений, в которых участвовал отряд = 1 
+- количество отрядов, уничтоженных данным отрядом = 0
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins>  
+  Rawenwing Champion - Character. Honour or Death: While this unit contains a Ravenwing Champion, add 1 to Advance and Charge rolls made for this unit and you can target this unit with the Heroic Intervention Stratagem for 0CP.
+Astartes Banner: While this unit contains an Ravenwing Ancient, add 1 to the Objective Control characteristic of models in this unit.
+Narthecium: While this unit contains a Ravenwing Apothecary, in your Command phase, you can return 1 destroyed model (excluding CHARACTER and INVADER ATV models) to this unit.
+<ins>Состав и снаряжение отряда:</ins>  
+1 Ravenwing Champion  
+- Bolt pistol (PISTOL; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
+- Plasma talon – standard (rapid fire 1; 18"; Atk 2; BS 3+; S 7; AP -2; D 1)
+- Plasma talon – standard (hazardous, rapid fire 1; 18"; Atk 2; BS 3+; S 8; AP -3; D 2)
+- Master-crafted power weapon (Melee; Atk 6; BS 2+; S 5; AP -2; D 2)
+1 Ravenwing Apothecary
+- Bolt pistol (PISTOL; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
+- Plasma talon – standard (rapid fire 1; 18"; Atk 2; BS 3+; S 7; AP -2; D 1)
+- Plasma talon – standard (hazardous, rapid fire 1; 18"; Atk 2; BS 3+; S 8; AP -3; D 2)
+- Black Knight combat weapon (Melee;devastating wounds; Atk 3; BS 3+; S 5; AP -2; D 1)
+1 Ravenwing Ancient
+- Bolt pistol (PISTOL; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
+- Plasma talon – standard (rapid fire 1; 18"; Atk 2; BS 3+; S 7; AP -2; D 1)
+- Plasma talon – standard (hazardous, rapid fire 1; 18"; Atk 2; BS 3+; S 8; AP -3; D 2)
+- Black Knight combat weapon (Melee;devastating wounds; Atk 3; BS 3+; S 5; AP -2; D 1)
+
+## Алюминиевые Клевцы ([Ravenwing Black Knights](https://wahapedia.ru/wh40k10ed/factions/space-marines/Ravenwing-Black-Knights))
+<ins>Опыт Отряда (XP):</ins> 0  
+<ins>Очки Крестового Похода Отряда (Crusade Points, CP):</ins> 0  
+<ins>Улучшения отряда:</ins> -  
+<ins>Общая стоимость отряда:</ins> 80 (суммарно со всеми улучшениями)
+<ins>Статистика Отряда:</ins>  
+- количество сражений, в которых участвовал отряд = 1  
+- количество победных сражений, в которых участвовал отряд = 1 
+- количество отрядов, уничтоженных данным отрядом = 0
+
+<ins>Награды отряда (Battle Honours):</ins> -  
+<ins>Шрамы Отряда (Battle Scars):</ins> -  
+<ins>Особые отметки:</ins>
+Knights of Caliban: Each time this unit is selected to fight, if it made a Charge move this turn, until the end of the phase, melee weapons equipped by models in this unit have the [ANTI-MONSTER 4+] and [ANTI-VEHICLE 4+] abilities.  
+<ins>Состав и снаряжение отряда:</ins>  
+2 Ravenwing Black Knights
+- Bolt pistol (PISTOL; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
+- Plasma talon – standard (rapid fire 1; 18"; Atk 2; BS 3+; S 7; AP -2; D 1)
+- Plasma talon – standard (hazardous, rapid fire 1; 18"; Atk 2; BS 3+; S 8; AP -3; D 2)
+- Black Knight combat weapon (Melee;devastating wounds; Atk 3; BS 3+; S 5; AP -2; D 1)
+1 Ravenwing Huntmaster
+- Bolt pistol (PISTOL; 12"; Atk 1; BS 3+; S 4; AP 0; D 1)
+- Plasma talon – standard (rapid fire 1; 18"; Atk 2; BS 3+; S 7; AP -2; D 1)
+- Plasma talon – standard (hazardous, rapid fire 1; 18"; Atk 2; BS 3+; S 8; AP -3; D 2)
+- Black Knight combat weapon (Melee;devastating wounds; Atk 3; BS 3+; S 5; AP -2; D 1)
