@@ -13,8 +13,8 @@
 **Условия (к6 = 6):** Volatile Combustibles  
 Each time players determine how many attacks are made with a Blast weapon, add an additional 1 to the result.  
 **Обороняющийся флот:** флот Несущих Избавление  
-**Дата сражения:** 13.06 (партия на 3х)  
-**Результат:**   
+**Дата сражения:** 24.06 (партия на 3х)  
+**Результат:** Победа над силами "Несущих Избавление" и "Маски разбитых зеркал" на Таркад Виндикс (флот "Несущих Избавление" перемещается на Норалус; УВ Империума +1 на Таркад Виндикс)   
 
 ### Операции флота "Крылышки"  
 Боевая операция "[Орбитальная бомбардировка](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Planetary-Bombardment)" сил Хаоса на горнодобывающем карьере Икарон I  
@@ -37,8 +37,8 @@ Each time a model makes a melee attack that targets an enemy unit, if that enemy
 **Условия (к6 = 2):** Roiling Fumes  
 While a model is wholly within an AREA TERRAIN feature, that model has the Stealth ability.  
 **Обороняющийся флот:** капитул Тёмных Ангелов "Крылышки"  
-**Дата сражения:**  
-**Результат:**  
+**Дата сражения:** -  
+**Результат:** Отменена успешным абордажем флота "Ледяной Лев" и флота "Маска разбитых зеркал"  
 
 ### Операции флота "Стреляки-вороваки"  
 Боевая операция "[Налёт на базу снабжения](https://wahapedia.ru/wh40k10ed/the-rules/war-on-the-vespator-front/#Supply-Base-Raid)" Имперских сил на горнодобывающем карьере Криндаэра  
@@ -53,8 +53,8 @@ Each time a model in a player’s army makes a ranged attack that targets an ene
 **Условия (к6 = 6):** Volatile Combustibles  
 Each time players determine how many attacks are made with a Blast weapon, add an additional 1 to the result.  
 **Обороняющийся флот:** флот Несущих Избавление  
-**Дата сражения:** 13.06 (партия на 3х)  
-**Результат:**   
+**Дата сражения:** 24.06 (партия на 3х)  
+**Результат:** Нейтральный результат против сил "Несущих Избавление" и флота "Ледяной Лев" на Таркад Виндикс (никакого эффекта)   
 
 
 <!--
