@@ -2,9 +2,9 @@
 <ins>Название:</ins> **Объединённые силы "Ледяной Лев"**  
 <ins>Лимит Снабжения (Supply Limit):</ins> 1400  
 <ins>Текущее Снабжение (Supply Used):</ins> 1270  
-<ins>Боевой Счёт (Battle Tally):</ins> 2  
-<ins>Счёт Побед:</ins> 1  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
+<ins>Боевой Счёт (Battle Tally):</ins> 3  
+<ins>Счёт Побед:</ins> 2  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 3  
 <ins>Особые отметки:</ins>  
 **[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
 Сражений до окончания: D6+4 = 9 > 7  
@@ -17,17 +17,17 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 
 <ins>Список отрядов</ins>
 - Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus), - XP, 1 CP, 130 pts)
-- 314й полк "Валхалльские Ледяные Воины", 1ый командный взвод ([Krieg Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Krieg-Command-Squad), 16 XP, 2 CP, 80 pts)
-- 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод ([Death Korps Of Krieg](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Death-Korps-Of-Krieg), 7 XP, 1 CP, 65 pts)
+- 314й полк "Валхалльские Ледяные Воины", 1ый командный взвод ([Krieg Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Krieg-Command-Squad), 24 XP, 2 CP, 80 pts)
+- 314й полк "Валхалльские Ледяные Воины", 1ый пехотный взвод ([Death Korps Of Krieg](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Death-Korps-Of-Krieg), 16 XP, 2 CP, 65 pts)
 - 314й полк "Валхалльские Ледяные Воины", 3ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 4 XP, 0 CP, 60 pts)
 - 314й полк "Валхалльские Ледяные Воины", 2ый кавалерийский медвежий взвод ([Attilan Rough Riders](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Attilan-Rough-Riders), 10 XP, 1 CP, 60 pts)
-- 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Климент V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 17 XP, 4 CP, 410 pts)
+- 68й полк темпестус "Дельтийские Львы", сверхтяжёлый танк "Климент V" ([Shadowsword](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Shadowsword), 19 XP, 4 CP, 410 pts)
 - 68й полк темпестус "Дельтийские Львы", техножрец Тау-Каппа ([Tech-Priest Enginseer](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tech-Priest-Enginseer), 1 XP, 0 CP, 45 pts)
 - 68й полк темпестус "Дельтийские Львы", отряд "Альфа" ([Militarum Tempestus Command Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Militarum-Tempestus-Command-Squad), 17 XP, 2 CP, 95 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд "Альфа-2" ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions), 6 XP, 1 CP, 70 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд "Сигма" ([Tempestus Aquilons](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Aquilons), 0 XP, 0 CP, 100 pts)
-- 68й полк темпестус "Дельтийские Львы", отряд "Омега" ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad), 0 XP, 0 CP, 100 pts)
-- 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Росинант" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 4 XP, 0 CP, 55 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд "Альфа-2" ([Tempestus Scions](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Scions), 18 XP, 2 CP, 70 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд "Сигма" ([Tempestus Aquilons](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Tempestus-Aquilons), 8 XP, 1 CP, 100 pts)
+- 68й полк темпестус "Дельтийские Львы", отряд "Омега" ([Bullgryn Squad](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Bullgryn-Squad), 5 XP, 0 CP, 100 pts)
+- 68й полк темпестус "Дельтийские Львы", разведывательный часовой "Росинант" ([Scout Sentinels](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Scout-Sentinels), 6 XP, 1 CP, 55 pts)
 <!-- 175я танковая бригада, танк-командир Рогал Дорн "Фиделис" ([Rogal Dorn Commander](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Rogal-Dorn-Commander), 0 XP, 0 CP, 290 pts)-->
 <!-- 175я танковая бригада, танк Леман Русс "Леонидас" ([Leman Russ Vanquisher](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Leman-Russ-Vanquisher), 0 XP, 0 CP, 145 pts)-->
 
@@ -58,15 +58,16 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
   68й полк темпестус "Дельтийские Львы", отряд "Омега"  
   68й полк темпестус "Дельтийские Львы", отряд "Альфа-2"
 - 2026-05-21: Боевые Порядки используют реквизицию ["Перевод в последнюю минуту"](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Requisitions) и заменяют в 314м полку "Валхалльские Ледяные Воины", 1ый кавалерийский медвежий взвод на 3ый кавалерийский медвежий взвод (без потерь опыта и званий).
+- 2026-05-21: Боевые Порядки используют реквизицию ["Духоподъёмные примеры"](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Requisitions) перед сражением
 - 2026-05-21: Поражение Имперской Гвардии на Таркад Виндикс (Налёт на базу снабжения)  
 *Боевые Задачи:* Непокорные до конца (DEFIANT TO THE END; Вх314 кв1, Climent V, DL68th "Альфа"), В атаку за Императора!(ADVANCE, FOR THE EMPEROR!), Обезглавливание(CUT OFF THE HEAD)  
 **Вх314 мв3** +3 XP (Боевой опыт, Духоподъёмные примеры, В атаку за Императора! (Вх314 мв3 в полной силе в конце сражения находился полностью в деплое оппонента))  
 **DL68th "Росинант"** +3 XP (Боевой опыт, Духоподъёмные примеры, В атаку за Императора! (Росинант в полной силе в конце сражения находился полностью в деплое оппонента))  
-**DL68th "Климент V"** +6 XP (Боевой опыт, Торговцы Смертью(убито 3 отряда), Непокорные до конца ("Климент V" в полной силе в конце сражения находился полностью в деплое оппонента), В атаку за Императора! ("Климент V" в полной силе в конце сражения находился полностью в деплое оппонента))  
+**DL68th "Климент V"** +6 XP (Боевой опыт, Торговцы Смертью(убито 3 отряда), INSPIRATIONAL CHAMPION, Непокорные до конца ("Климент V" в полной силе в конце сражения находился полностью в деплое оппонента), В атаку за Императора! ("Климент V" в полной силе в конце сражения находился полностью в деплое оппонента))  
 **Вх314 кв1** +6 XP (Боевой опыт, Духоподъёмные примеры, Непокорные до конца (Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента), В атаку за Императора! (Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента))  
 **Вх314 пв1** +1 XP (Боевой опыт)  
 **Вх314 мв2** +6 XP (Боевой опыт, Духоподъёмные примеры, Обезглавливание (Вх314 мв2 уничтожил EPIC HERO))  
-**DL68th "Альфа"** +4 XP (Боевой опыт, В атаку за Императора! (DL68th "Альфа" в полной силе в конце сражения находился полностью в деплое оппонента), Обезглавливание (DL68th "Альфа" уничтожил CHARACTER))  
+**DL68th "Альфа"** +4 XP (Боевой опыт, Отмечен величием, Нюх на талант, В атаку за Императора! (DL68th "Альфа" в полной силе в конце сражения находился полностью в деплое оппонента), Обезглавливание (DL68th "Альфа" уничтожил CHARACTER))  
 **DL68th "Альфа-2"** +6 XP (Боевой опыт, Духоподъёмные примеры, Непокорные до конца (DL68th "Альфа-2" в конце более чем в половине силы сражения находился полностью в деплое оппонента), В атаку за Императора! (DL68th "Альфа-2" в конце сражения находился полностью в деплое оппонента))  
 *Реквизиция:* +2 RP (База, Непокорные до конца (Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента))  
 *Наградные знаки:* +2 Commendation (Боевой поход (поражение: 1), В атаку за Императора! (Леонтус в составе Вх314 кв1 в полной силе в конце сражения находился полностью в деплое оппонента))  
@@ -77,8 +78,23 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 - 2026-05-21: Вх314 мв2 получает ранг Обстреляный; получена Награда отряда - Боевая Особенность (Неуловимые(EVASIVE))
 - 2026-05-21: Вх314 кв1 получает ранг Закалённый; получена Награда отряда - Боевая Особенность (Суровые выжившие(GRIM SURVIVORS))
 - 2026-06-08: Из БП удалён отряд 175тбр "Леонидас" и добавлен отряд DL68th "Сигма"
-<!-- 2026-06-08: 1 RP взята реквизиция "Увеличение Снабжения"-->
-  
+- 2026-06-25: Боевые Порядки используют реквизицию ["Духоподъёмные примеры"](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Requisitions) перед сражением
+- 2026-06-25: Победа Имперской Гвардии на Таркад Виндикс (Абордаж)  
+*Боевые Задачи:* В целях пропаганды (PROPAGANDA TARGETS; Цели пропаганды: Маликор “Десница Резни”, Поборники Осквернения, Ткач Пустоты, Ткачи Туманов), Обыск места высадки (SEARCH DROP SITE), Обезглавливание (CUT OFF THE HEAD)  
+**Вх314 кв1** +8 XP (Боевой опыт, Обезглавливание(Epic Hero), Обыск места высадки)  
+**Вх314 пв1** +9 XP (Боевой опыт, Духоподъёмные примеры, Обезглавливание(Character), Обезглавливание(Character), Обыск места высадки)  
+**DL68th "Росинант"** +2 XP (Боевой опыт, Духоподъёмные примеры)  
+**DL68th "Климент V"** +2 XP (Боевой опыт, Торговцы Смертью(убито 4 отряда))
+  получает шрам (*)
+**DL68th "Альфа-2"** +12 XP (Боевой опыт, Духоподъёмные примеры, В целях пропаганды (WARLORD), Обезглавливание(WARLORD), Обыск места высадки)  
+**DL68th "Омега"** +5 XP (Боевой опыт, Обыск места высадки, INSPIRATIONAL CHAMPION)  
+**DL68th "Сигма"** +8 XP (Боевой опыт, Духоподъёмные примеры, Нюх на талант, Отмечен величием)  
+*Реквизиция:* +3 RP (База, Обыск места высадки, Обезглавливание)  
+*Наградные знаки:* +3 Commendation (Боевой поход (победа: D3=3)  
+- 2026-06-25: Боевые Порядки используют реквизицию Починка и восстановление за 1 RP и снимают шрам с DL68th "Климент V"
+> [!CAUTION]
+> LvlUp Вх314 пв1, DL68th "Росинант", DL68th "Альфа-2", DL68th "Сигма"
+
 # Карточки отрядов
 ## Лорд Солар Леонтус ([Lord Solar Leontus](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/Lord-Solar-Leontus))
 <ins>Опыт Отряда (XP):</ins> -  
@@ -108,7 +124,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 2
 - количество победных сражений, в которых участвовал отряд = 1
-- количество отрядов, уничтоженных данным отрядом = 1  
+- количество отрядов, уничтоженных данным отрядом = 2  
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (EYE FOR TALENT; If this OFFICER is part of your Crusade army and was not destroyed during the battle, then at the end of the battle, select one additional unit to be Marked for Greatness (you cannot use this ability to select this OFFICER’s unit to be Marked for Greatness))  
@@ -157,7 +173,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 2
 - количество победных сражений, в которых участвовал отряд = 1
-- количество отрядов, уничтоженных данным отрядом = 0  
+- количество отрядов, уничтоженных данным отрядом = 2  
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GRIZZLED; Models in this unit have the Feel No Pain 6+ ability and you can re-roll failed Out of Action tests taken for this unit)  
@@ -262,7 +278,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 2  
 - количество победных сражений, в которых участвовал отряд = 1  
-- количество отрядов, уничтоженных данным отрядом = 3
+- количество отрядов, уничтоженных данным отрядом = 4
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (BIG-GAME HUNTERS; Each time a model in this unit makes a ranged attack, if the target of that attack is a MONSTER or VEHICLE unit, you can re-roll Hit rolls of 1 and re-roll Wound rolls of 1)  
@@ -349,7 +365,7 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 <ins>Статистика Отряда:</ins>  
 - количество сражений, в которых участвовал отряд = 1
 - количество победных сражений, в которых участвовал отряд = 0
-- количество отрядов, уничтоженных данным отрядом = 0  
+- количество отрядов, уничтоженных данным отрядом = 1  
 
 <ins>Награды отряда (Battle Honours):</ins>  
   Battle Trait (GUERRILLAS; In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6". If it does, until the end of the turn, this unit is not eligible to declare a charge unless it has the CAVALRY keyword)  
