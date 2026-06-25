@@ -1,15 +1,15 @@
 # Карточка Боевых Порядков
 <ins>Название:</ins> **Объединённые силы "Ледяной Лев"**  
-<ins>Лимит Снабжения (Supply Limit):</ins> 1400  
+<ins>Лимит Снабжения (Supply Limit):</ins> 1600  
 <ins>Текущее Снабжение (Supply Used):</ins> 1270  
 <ins>Боевой Счёт (Battle Tally):</ins> 3  
 <ins>Счёт Побед:</ins> 2  
-<ins>Доступная Реквизиция (Requisition Points):</ins> 3  
+<ins>Доступная Реквизиция (Requisition Points):</ins> 2  
 <ins>Особые отметки:</ins>  
 **[Боевой Поход](https://wahapedia.ru/wh40k10ed/factions/astra-militarum/#Tours-of-Duty) - операция *Дорога из жёлтого кирпича***  
-Сражений до окончания: D6+4 = 9 > 7  
-Побед до окончания: D3+2 = 5 > 4  
-Наградные знаки (Commendation points): 4  
+Сражений до окончания: D6+4 = 9 > 6  
+Побед до окончания: D3+2 = 5 > 3  
+Наградные знаки (Commendation points): 7  
 Lexmechanicus = 2 (When selecting Agendas for a battle, you can select one additional Astra Militarum Agenda to be active for that battle in addition to any others selected for that battle)  
 Materiel = 1  
 Tithe Pool = 1  
@@ -91,7 +91,8 @@ Morale = 0 (You cannot use the Insane Bravery Stratagem)
 **DL68th "Сигма"** +8 XP (Боевой опыт, Духоподъёмные примеры, Нюх на талант, Отмечен величием)  
 *Реквизиция:* +3 RP (База, Обыск места высадки, Обезглавливание)  
 *Наградные знаки:* +3 Commendation (Боевой поход (победа: D3=3)  
-- 2026-06-25: Боевые Порядки используют реквизицию Починка и восстановление за 1 RP и снимают шрам с DL68th "Климент V"  
+- 2026-06-25: Боевые Порядки используют реквизицию Починка и восстановление за 1 RP и снимают шрам с DL68th "Климент V"
+- 2026-05-21: 1 RP взята реквизиция "Увеличение Снабжения"  
 > [!CAUTION]
 > LvlUp Вх314 пв1, DL68th "Росинант", DL68th "Альфа-2", DL68th "Сигма"
 
